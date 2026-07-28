@@ -38,3 +38,17 @@ APP_TITLE = "🏡 CRM - A Casa di Amici"
 # Versione
 
 VERSIONE = "1.0"
+
+DATABASE_XLSX = "database_ospiti.xlsx"
+
+BACKUP_FOLDER = "data/backup"
+
+IMPORT_FOLDER = "data/import"
+
+AUTO_BACKUP = True
+
+CHECK_DUPLICATES = True
+
+EMAIL_CORRECTION = True
+
+EMPTY_VALUE = "nd"
