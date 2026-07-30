@@ -2,4 +2,7 @@ from sqlalchemy.orm import DeclarativeBase
 
 
 class Base(DeclarativeBase):
-    """Base class per tutti i modelli SQLAlchemy."""
+    """
+    Classe base da cui erediteranno tutti i modelli SQLAlchemy.
+    """
+    pass
