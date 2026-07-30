@@ -1,0 +1,16 @@
+[project]
+name = "vacanze-sicure-pms"
+version = "1.0.0"
+description = "PMS - CRM - Booking Engine - AI Assistant"
+
+authors = [
+    {name = "Marco Antonio De Pietro"}
+]
+
+requires-python = ">=3.12"
+
+[tool.black]
+line-length = 88
+
+[tool.isort]
+profile = "black"
