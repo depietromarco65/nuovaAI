@@ -1,11 +1,13 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-DATABASE_URL = "sqlite:///vacanze_sicure.db"
+from app.core.config import settings
+
 
 engine = create_engine(
-    DATABASE_URL,
-    echo=False,
+    settings.DATABASE_URL,
+    echo=settings.DEBUG,
+    future=True,
 )
 
 SessionLocal = sessionmaker(
@@ -13,3 +15,16 @@ SessionLocal = sessionmaker(
     autoflush=False,
     bind=engine,
 )
+
+
+def get_db():
+    """
+    Restituisce una sessione del database.
+    """
+
+    db = SessionLocal()
+
+    try:
+        yield db
+    finally:
+        db.close()
