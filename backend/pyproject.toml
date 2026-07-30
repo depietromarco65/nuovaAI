@@ -1,0 +1,44 @@
+[project]
+name = "vacanze-sicure-salento"
+version = "0.1.0"
+description = "PMS, CRM, Booking Engine e AI per Vacanze Sicure nel Salento"
+authors = [
+    { name = "Marco Antonio De Pietro" }
+]
+requires-python = ">=3.12"
+
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "sqlalchemy",
+    "alembic",
+    "pydantic",
+    "pydantic-settings",
+    "python-dotenv",
+    "psycopg2-binary",
+    "python-multipart",
+    "email-validator",
+    "passlib[bcrypt]",
+    "python-jose[cryptography]",
+    "httpx",
+    "jinja2",
+    "aiofiles",
+    "orjson",
+    "rich",
+    "loguru"
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.black]
+line-length = 88
+
+[tool.isort]
+profile = "black"
+
+[tool.pytest.ini_options]
+pythonpath = [
+    "."
+]
