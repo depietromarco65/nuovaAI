@@ -1,68 +1,111 @@
-op.create_table(
-    "tenants",
+"""Create tenants table"""
 
-    sa.Column(
-        "id",
-        postgresql.UUID(as_uuid=True),
-        primary_key=True
-    ),
+from typing import Sequence, Union
 
-    sa.Column(
-        "code",
-        sa.String(30),
-        nullable=False,
-        unique=True
-    ),
+from alembic import op
+import sqlalchemy as sa
+from sqlalchemy.dialects import postgresql
 
-    sa.Column(
-        "company_name",
-        sa.String(150),
-        nullable=False
-    ),
+# Revision identifiers
+revision: str = "20260731_create_tenants"
+down_revision: Union[str, None] = None
+branch_labels: Union[str, Sequence[str], None] = None
+depends_on: Union[str, Sequence[str], None] = None
 
-    sa.Column(
-        "vat_number",
-        sa.String(30)
-    ),
 
-    sa.Column(
-        "tax_code",
-        sa.String(30)
-    ),
+def upgrade() -> None:
+    op.create_table(
+        "tenants",
 
-    sa.Column(
-        "email",
-        sa.String(150),
-        nullable=False,
-        unique=True
-    ),
+        sa.Column(
+            "id",
+            postgresql.UUID(as_uuid=True),
+            primary_key=True,
+            nullable=False
+        ),
 
-    sa.Column(
-        "phone",
-        sa.String(50)
-    ),
+        sa.Column(
+            "code",
+            sa.String(length=30),
+            nullable=False,
+            unique=True
+        ),
 
-    sa.Column(
-        "website",
-        sa.String(255)
-    ),
+        sa.Column(
+            "company_name",
+            sa.String(length=150),
+            nullable=False
+        ),
 
-    sa.Column(
-        "status",
-        sa.String(20),
-        nullable=False,
-        server_default="ACTIVE"
-    ),
+        sa.Column(
+            "vat_number",
+            sa.String(length=30),
+            nullable=True
+        ),
 
-    sa.Column(
-        "created_at",
-        sa.DateTime(timezone=True),
-        server_default=sa.func.now()
-    ),
+        sa.Column(
+            "tax_code",
+            sa.String(length=30),
+            nullable=True
+        ),
 
-    sa.Column(
-        "updated_at",
-        sa.DateTime(timezone=True),
-        server_default=sa.func.now()
+        sa.Column(
+            "email",
+            sa.String(length=150),
+            nullable=False,
+            unique=True
+        ),
+
+        sa.Column(
+            "phone",
+            sa.String(length=50),
+            nullable=True
+        ),
+
+        sa.Column(
+            "website",
+            sa.String(length=255),
+            nullable=True
+        ),
+
+        sa.Column(
+            "status",
+            sa.String(length=20),
+            nullable=False,
+            server_default=sa.text("'ACTIVE'")
+        ),
+
+        sa.Column(
+            "created_at",
+            sa.DateTime(timezone=True),
+            nullable=False,
+            server_default=sa.func.now()
+        ),
+
+        sa.Column(
+            "updated_at",
+            sa.DateTime(timezone=True),
+            nullable=False,
+            server_default=sa.func.now()
+        ),
     )
-)
+
+    op.create_index(
+        "ix_tenants_code",
+        "tenants",
+        ["code"],
+        unique=True,
+    )
+
+    op.create_index(
+        "ix_tenants_email",
+        "tenants",
+        ["email"],
+        unique=True,
+    )
+
+
+def downgrade() -> None:
+    op.drop_index("ix_tenants_email", table_name="tenants")
+    op.drop_index("ix_tenants_code", table_name="tenants")
+    op.drop_table("tenants")
