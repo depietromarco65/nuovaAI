@@ -1,3 +1,3 @@
-from .models import Tenant
+from .router import router
 
-__all__ = ["Tenant"]
+__all__ = ["router"]
