@@ -14,6 +14,11 @@ depends_on: Union[str, Sequence[str], None] = None
 
 
 def upgrade() -> None:
+
+    # Richiede:
+    # CREATE EXTENSION IF NOT EXISTS pgcrypto;
+    # (oppure abilitarla in una migrazione precedente)
+
     op.create_table(
         "tenants",
 
@@ -21,14 +26,14 @@ def upgrade() -> None:
             "id",
             postgresql.UUID(as_uuid=True),
             primary_key=True,
-            nullable=False
+            nullable=False,
+            server_default=sa.text("gen_random_uuid()")
         ),
 
         sa.Column(
             "code",
             sa.String(length=30),
-            nullable=False,
-            unique=True
+            nullable=False
         ),
 
         sa.Column(
@@ -52,8 +57,7 @@ def upgrade() -> None:
         sa.Column(
             "email",
             sa.String(length=150),
-            nullable=False,
-            unique=True
+            nullable=False
         ),
 
         sa.Column(
@@ -106,6 +110,15 @@ def upgrade() -> None:
 
 
 def downgrade() -> None:
-    op.drop_index("ix_tenants_email", table_name="tenants")
-    op.drop_index("ix_tenants_code", table_name="tenants")
+
+    op.drop_index(
+        "ix_tenants_email",
+        table_name="tenants"
+    )
+
+    op.drop_index(
+        "ix_tenants_code",
+        table_name="tenants"
+    )
+
     op.drop_table("tenants")
