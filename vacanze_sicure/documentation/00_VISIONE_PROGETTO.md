@@ -313,6 +313,27 @@ Le modalità di adesione, classificazione e gestione dei servizi turistici saran
 
 ---
 
+### 5.5.1 Integrazione con i sistemi del proprietario
+
+Vacanze Sicure favorisce l'integrazione con gli strumenti digitali già utilizzati dai proprietari delle strutture ricettive.
+
+Ogni struttura potrà indicare, all'interno del proprio profilo:
+
+- il sito web ufficiale;
+- il proprio Booking Engine;
+- il sistema di prenotazione utilizzato;
+- il gestionale PMS eventualmente già in uso;
+- i propri canali social ufficiali;
+- altri servizi digitali ritenuti utili alla promozione della struttura.
+
+La piattaforma non impone l'utilizzo di un determinato sistema di prenotazione.
+
+Ogni proprietario potrà continuare ad utilizzare il proprio software gestionale o il proprio Booking Engine, purché compatibile con gli standard di integrazione previsti dalla piattaforma.
+
+Vacanze Sicure promuove l'interoperabilità tra sistemi differenti, favorendo l'integrazione mediante API, protocolli standard e altre tecnologie di comunicazione.
+
+---
+
 ## 5.6 Principi del modello economico
 
 Il modello economico della piattaforma dovrà rispettare i seguenti principi:
