@@ -158,6 +158,39 @@ L'Identità Digitale accompagnerà l'utente durante tutto il suo ciclo di vita a
 
 ---
 
+### 5.2.2 Verifica dell'Identità Digitale
+
+L'Identità Digitale Vacanze Sicure è unica e personale.
+
+Per garantire la sicurezza della piattaforma e la qualità delle interazioni tra gli utenti, ogni registrazione sarà sottoposta a procedure di verifica dell'identità.
+
+La piattaforma potrà utilizzare uno o più elementi identificativi, tra cui:
+
+- nome;
+- cognome;
+- data di nascita;
+- codice fiscale (ove previsto);
+- numero di telefono;
+- indirizzo e-mail;
+- altri elementi identificativi consentiti dalla normativa vigente.
+
+L'indirizzo e-mail potrà essere modificato dall'utente attraverso le procedure previste dalla piattaforma.
+
+Gli altri dati identificativi potranno essere aggiornati esclusivamente a seguito di verifica da parte della piattaforma e, ove necessario, previa produzione della documentazione giustificativa.
+
+La piattaforma effettuerà controlli automatici e manuali finalizzati a:
+
+- individuare registrazioni duplicate;
+- prevenire la creazione di identità multiple riferibili alla stessa persona;
+- contrastare attività fraudolente;
+- impedire l'utilizzo di account creati per eludere sospensioni o provvedimenti adottati dalla piattaforma.
+
+Qualora vengano rilevate anomalie o incongruenze, l'account potrà essere sottoposto a verifica, limitato temporaneamente o sospeso fino al completamento degli accertamenti.
+
+Le modalità di verifica dell'identità saranno disciplinate da uno specifico documento tecnico e dovranno essere conformi alla normativa vigente in materia di protezione dei dati personali.
+
+---
+
 ## 5.3 Adesione dei proprietari
 
 L'utilizzo della piattaforma da parte dei proprietari richiede l'adesione al progetto Vacanze Sicure.
