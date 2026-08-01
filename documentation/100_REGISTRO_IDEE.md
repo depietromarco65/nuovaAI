@@ -294,3 +294,228 @@ Media
 Nuova
 
 ---
+
+# VACANZE SICURE
+
+# 100 - REGISTRO IDEE
+
+**Codice documento:** DOC-100
+
+**Versione:** 1.0.0
+
+**Stato:** APERTO
+
+**Ultimo aggiornamento:** Agosto 2026
+
+---
+
+# 1. SCOPO
+
+Il Registro Idee rappresenta il quaderno di progettazione di Vacanze Sicure.
+
+Ogni nuova intuizione, proposta o suggerimento dovrà essere registrato in questo documento prima di essere analizzato.
+
+Le idee contenute nel presente documento **non costituiscono decisioni progettuali** e non possono essere implementate direttamente.
+
+Solo dopo la loro approvazione saranno trasferite nel documento competente.
+
+---
+
+# 2. CICLO DI VITA
+
+Ogni idea seguirà il seguente percorso.
+
+Nuova idea
+
+↓
+
+Analisi
+
+↓
+
+Discussione
+
+↓
+
+Approvazione
+
+↓
+
+Trasferimento nel documento competente
+
+↓
+
+Implementazione futura
+
+---
+
+# 3. REGOLE
+
+Ogni idea dovrà:
+
+- descrivere un solo argomento;
+- risolvere un problema reale;
+- essere indipendente dalle altre;
+- essere classificata;
+- indicare il documento di destinazione.
+
+Una volta trasferita nel documento definitivo dovrà essere contrassegnata come **Trasferita** oppure eliminata dal presente registro.
+
+---
+
+# 4. IDEE
+
+---
+
+## IDEA-0001
+
+### Titolo
+
+Applicazione Mobile Vacanze Sicure
+
+### Categoria
+
+🏛 Decisione Architetturale
+
+### Problema
+
+Consentire l'utilizzo della piattaforma anche tramite smartphone e tablet.
+
+### Descrizione
+
+Realizzare un'applicazione mobile ufficiale per Android e iOS.
+
+L'app utilizzerà le stesse API, lo stesso database e le stesse regole di sicurezza della piattaforma.
+
+L'interfaccia varierà automaticamente in base al ruolo dell'utente autenticato.
+
+### Utenti
+
+- Ospiti
+- Proprietari
+- Operatori Turistici
+- Ispettori
+- Amministratori
+
+### Documento di destinazione
+
+Da definire.
+
+### Priorità
+
+Media
+
+### Stato
+
+Nuova
+
+---
+
+## IDEA-0002
+
+### Titolo
+
+Promozione attiva del territorio
+
+### Categoria
+
+📈 Decisione Strategica
+
+### Problema
+
+Le piattaforme attuali promuovono prevalentemente le singole strutture senza valorizzare adeguatamente il territorio.
+
+### Descrizione
+
+Consentire ai proprietari aderenti di partecipare attivamente alla promozione della destinazione turistica.
+
+La piattaforma potrà favorire iniziative condivise quali:
+
+- fiere del turismo;
+- campagne promozionali;
+- eventi territoriali;
+- collaborazioni con enti pubblici e privati;
+- marketing territoriale;
+- promozione delle tradizioni locali;
+- promozione dell'enogastronomia;
+- valorizzazione del patrimonio culturale.
+
+### Utenti
+
+- Proprietari
+- Operatori Turistici
+- Enti
+- Associazioni
+- Ospiti
+
+### Documento di destinazione
+
+Da definire.
+
+### Priorità
+
+Media
+
+### Stato
+
+Nuova
+
+---
+
+## IDEA-0003
+
+### Titolo
+
+Architettura API First
+
+### Categoria
+
+🏛 Decisione Architetturale
+
+### Problema
+
+Evitare che il software venga sviluppato esclusivamente per il sito web, rendendo difficoltosa l'evoluzione futura verso applicazioni mobili, integrazioni e servizi esterni.
+
+### Descrizione
+
+Vacanze Sicure dovrà essere progettata come una piattaforma indipendente dall'interfaccia utente.
+
+Tutte le funzionalità saranno sviluppate come servizi accessibili tramite API documentate.
+
+Le API costituiranno l'unico punto di accesso ai dati della piattaforma.
+
+Le diverse interfacce utilizzeranno lo stesso backend:
+
+- Portale Web
+- Applicazione Mobile
+- PMS
+- CRM
+- Portale Amministratore
+- Portale Ispettori
+- Portale Operatori Turistici
+- Servizi AI
+- Integrazioni con sistemi esterni
+
+In questo modo il sistema sarà modulare, scalabile e facilmente estendibile.
+
+### Documento di destinazione
+
+Documento Architettura Software.
+
+### Priorità
+
+Alta
+
+### Stato
+
+Nuova
+
+---
+
+# 5. NOTE
+
+Il presente documento ha esclusivamente funzione di raccolta delle idee.
+
+La documentazione ufficiale del progetto conterrà solamente decisioni già analizzate e approvate.
+
+Ogni nuova idea dovrà essere registrata in questo documento prima di essere presa in esame.
