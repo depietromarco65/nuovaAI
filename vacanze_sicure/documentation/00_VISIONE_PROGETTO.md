@@ -111,23 +111,50 @@ L'obiettivo è semplificare il processo di ricerca, prenotazione e gestione dell
 
 ---
 
-## 5.2 Accesso degli ospiti
+## 5.2 Accesso alla piattaforma
 
-Gli ospiti possono utilizzare gratuitamente la piattaforma.
+L'accesso alla piattaforma Vacanze Sicure è riservato agli utenti registrati.
 
-Possono:
+Ogni persona fisica o giuridica che desideri utilizzare i servizi della piattaforma dovrà effettuare la registrazione e creare la propria Identità Digitale Vacanze Sicure.
 
-- ricercare strutture;
-- consultare le schede descrittive;
-- confrontare disponibilità e servizi;
-- richiedere preventivi;
-- effettuare prenotazioni;
-- comunicare direttamente con le strutture;
-- accedere ai servizi turistici disponibili.
+La registrazione è gratuita.
 
-L'accesso ai servizi di ricerca e consultazione è completamente gratuito.
+L'accesso autenticato consente di garantire:
 
-La piattaforma non applica alcun costo agli ospiti.
+- sicurezza delle informazioni;
+- tracciabilità delle operazioni;
+- protezione contro accessi automatizzati (bot);
+- qualità delle interazioni tra gli utenti;
+- personalizzazione dei servizi;
+- rispetto della normativa sulla protezione dei dati personali.
+
+L'utilizzo della piattaforma in forma anonima non è previsto.
+
+---
+
+### 5.2.1 Identità Digitale Vacanze Sicure
+
+La registrazione alla piattaforma costituisce la creazione dell'Identità Digitale Vacanze Sicure.
+
+L'Identità Digitale rappresenta il riferimento univoco dell'utente all'interno dell'intero ecosistema della piattaforma.
+
+Tutte le operazioni effettuate saranno associate esclusivamente a tale identità.
+
+Ogni Identità Digitale è personale, univoca e non cedibile.
+
+Una medesima Identità Digitale potrà ricoprire uno o più ruoli all'interno della piattaforma, tra cui, a titolo esemplificativo:
+
+- Ospite;
+- Proprietario;
+- Gestore;
+- Collaboratore;
+- Operatore Turistico;
+- Ispettore;
+- Amministratore.
+
+L'assegnazione dei ruoli determinerà i permessi di accesso alle diverse funzionalità della piattaforma.
+
+L'Identità Digitale accompagnerà l'utente durante tutto il suo ciclo di vita all'interno di Vacanze Sicure, consentendo la conservazione dello storico delle prenotazioni, delle comunicazioni, delle preferenze, delle autorizzazioni e delle altre informazioni pertinenti nel rispetto della normativa vigente in materia di protezione dei dati personali.
 
 ---
 
@@ -503,6 +530,27 @@ Ogni modifica dovrà rispettare i principi architetturali definiti nel presente 
 Le decisioni progettuali approvate costituiranno patrimonio permanente del progetto e saranno riportate nella documentazione ufficiale.
 
 ----
+
+## 7.12 Identità Digitale Certificata
+
+L'accesso alla piattaforma Vacanze Sicure è riservato esclusivamente agli utenti registrati.
+
+Ogni soggetto che utilizza la piattaforma dovrà disporre di un proprio account personale.
+
+La registrazione costituisce requisito indispensabile per:
+
+- effettuare ricerche avanzate;
+- richiedere informazioni alle strutture;
+- effettuare prenotazioni;
+- utilizzare i servizi della piattaforma;
+- inviare suggerimenti;
+- partecipare all'evoluzione del progetto;
+- pubblicare contenuti;
+- interagire con gli altri operatori.
+
+L'obiettivo è garantire la qualità delle interazioni, ridurre attività fraudolente e assicurare la tracciabilità delle operazioni effettuate all'interno della piattaforma.
+
+---
 
 # 8. ORGANIZZAZIONE DELLA DOCUMENTAZIONE
 
