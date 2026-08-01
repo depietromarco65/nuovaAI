@@ -69,6 +69,29 @@ Il progetto si basa sui seguenti valori:
 
 Ogni nuova funzionalità dovrà rispettare tali principi.
 
+# 4.1 Miglioramento Continuo Partecipato
+
+Vacanze Sicure è una piattaforma in continua evoluzione.
+
+Ogni utente autorizzato della piattaforma potrà contribuire al suo miglioramento attraverso la presentazione di suggerimenti, nuove idee, segnalazioni di criticità e proposte di evoluzione.
+
+Le proposte potranno provenire, a titolo esemplificativo, da:
+
+- proprietari di strutture;
+- gestori;
+- collaboratori;
+- ispettori;
+- operatori turistici;
+- ospiti;
+- sviluppatori;
+- amministratori della piattaforma.
+
+Ogni proposta sarà registrata, classificata e sottoposta ad un processo di analisi.
+
+L'accettazione di una proposta non sarà automatica, ma dipenderà dalla sua coerenza con la Visione del Progetto, dalla fattibilità tecnica, dalla sostenibilità economica e dal beneficio apportato alla comunità degli utenti.
+
+Le proposte approvate entreranno a far parte della documentazione ufficiale del progetto e seguiranno il normale ciclo di progettazione, sviluppo, test e rilascio.
+
 ---
 
 # 5. MODELLO OPERATIVO DELLA PIATTAFORMA
@@ -481,17 +504,27 @@ Le decisioni progettuali approvate costituiranno patrimonio permanente del proge
 
 ----
 
-# 8.1 Regole di Gestione della Documentazione
+# 8. ORGANIZZAZIONE DELLA DOCUMENTAZIONE
 
-La documentazione costituisce il riferimento ufficiale dell'intero progetto Vacanze Sicure.
+La documentazione costituisce il riferimento ufficiale dell'intero progetto **Vacanze Sicure**.
+
+Ogni decisione progettuale, funzionale, tecnica e organizzativa dovrà essere documentata secondo le regole riportate nel presente capitolo.
+
+La documentazione rappresenta la fonte ufficiale di conoscenza del progetto e costituisce il riferimento per tutte le fasi di analisi, sviluppo, test, manutenzione ed evoluzione della piattaforma.
+
+---
+
+# 8.1 Regole di Gestione della Documentazione
 
 Ogni documento deve essere redatto, aggiornato e mantenuto secondo le seguenti regole.
 
 ## Un argomento per documento
 
-Ogni documento tratta un unico argomento.
+Ogni documento tratta esclusivamente un singolo argomento.
 
 Non è ammesso inserire nello stesso documento argomenti appartenenti a moduli differenti.
+
+Ogni argomento possiede un proprio documento di riferimento.
 
 ---
 
@@ -499,23 +532,25 @@ Non è ammesso inserire nello stesso documento argomenti appartenenti a moduli d
 
 Ogni informazione deve esistere in un solo documento.
 
-Qualora un'informazione sia necessaria in altri documenti, dovrà essere richiamata mediante riferimento e non duplicata.
+Qualora la stessa informazione sia necessaria in altri documenti, dovrà essere richiamata mediante riferimento e non duplicata.
+
+La documentazione dovrà rispettare il principio della **Single Source of Truth**.
 
 ---
 
 ## Inserimento nella posizione corretta
 
-Ogni nuova informazione dovrà essere inserita nel capitolo più appropriato del documento.
+Ogni nuova informazione dovrà essere inserita nel capitolo più appropriato del documento competente.
 
 Non è consentito aggiungere nuovi contenuti semplicemente in fondo al file.
 
-La struttura del documento deve rimanere coerente nel tempo.
+La struttura del documento dovrà rimanere coerente e facilmente consultabile nel tempo.
 
 ---
 
 ## Numerazione
 
-La numerazione dei capitoli principali non deve essere modificata.
+La numerazione dei capitoli principali non dovrà essere modificata.
 
 Le nuove informazioni saranno inserite mediante sottocapitoli.
 
@@ -537,22 +572,24 @@ Esempio:
 
 ## Evoluzione controllata
 
-Ogni modifica dovrà essere:
+Ogni modifica dovrà seguire il seguente processo:
 
-- progettata;
-- verificata;
-- approvata;
-- documentata.
-
-Solo dopo tali attività potrà essere implementata nel codice.
+- analisi;
+- progettazione;
+- verifica;
+- approvazione;
+- documentazione;
+- implementazione;
+- test;
+- rilascio.
 
 ---
 
 ## Documentazione prima del codice
 
-Nessuna nuova funzionalità potrà essere sviluppata senza che sia stata prima descritta nella documentazione ufficiale del progetto.
+Nessuna nuova funzionalità potrà essere sviluppata senza essere stata preventivamente descritta nella documentazione ufficiale del progetto.
 
-La documentazione rappresenta il contratto funzionale tra analisi, sviluppo e test.
+La documentazione costituisce il contratto funzionale tra analisi, sviluppo e test.
 
 ---
 
@@ -571,13 +608,15 @@ Ogni nuovo documento dovrà essere coerente con:
 
 Ogni decisione progettuale approvata diventa parte integrante della documentazione ufficiale.
 
-Le decisioni non dovranno essere perse o duplicate, ma inserite nel documento competente.
+Le decisioni non dovranno essere perse, duplicate o riportate in documenti non pertinenti.
+
+Ogni decisione dovrà essere inserita esclusivamente nel documento competente.
 
 ---
 
 ## Approvazione
 
-Ogni documento seguirà il seguente ciclo di vita:
+Ogni documento seguirà il seguente ciclo di vita.
 
 Bozza
 
@@ -600,6 +639,145 @@ Aggiornamento
 ↓
 
 Nuova Revisione
+
+---
+
+## Gestione delle nuove idee progettuali
+
+Durante la progettazione potranno emergere nuove idee, nuove funzionalità o nuove esigenze operative.
+
+Qualora tali informazioni non appartengano al documento in fase di redazione, non dovranno essere inserite in modo improprio.
+
+Ogni nuova proposta dovrà essere registrata negli appositi registri del progetto (Backlog), evitando di interrompere la coerenza della documentazione.
+
+Solo dopo l'analisi e l'approvazione la proposta potrà essere sviluppata nel documento competente.
+
+---
+
+## Tracciabilità delle decisioni
+
+Ogni decisione progettuale dovrà poter essere ricondotta:
+
+- alla data della decisione;
+- al motivo della scelta;
+- al documento di appartenenza;
+- alla versione della documentazione;
+- alle eventuali revisioni successive.
+
+L'obiettivo è garantire la completa tracciabilità dell'evoluzione del progetto.
+
+---
+
+# 8.2 Gestione dei Backlog
+
+Durante l'analisi del progetto emergeranno continuamente nuove idee.
+
+Per evitare che tali idee vengano dimenticate o inserite in documenti non pertinenti, Vacanze Sicure adotta un sistema strutturato di Backlog.
+
+I Backlog rappresentano il registro ufficiale delle evoluzioni future del progetto.
+
+Essi non costituiscono attività immediatamente implementabili, ma raccolgono tutte le proposte in attesa di analisi.
+
+Ogni proposta seguirà il seguente ciclo di vita:
+
+Nuova Idea
+
+↓
+
+Registrazione nel Backlog
+
+↓
+
+Analisi
+
+↓
+
+Valutazione
+
+↓
+
+Approvazione
+
+↓
+
+Inserimento nel documento competente
+
+↓
+
+Progettazione tecnica
+
+↓
+
+Implementazione
+
+↓
+
+Test
+
+↓
+
+Rilascio
+
+---
+
+## Tipologie di Backlog
+
+Il progetto prevede tre registri distinti.
+
+### Backlog Funzionale
+
+Contiene le proposte riguardanti le funzionalità operative della piattaforma.
+
+Ad esempio:
+
+- nuove procedure;
+- nuove schermate;
+- nuove automazioni;
+- nuovi messaggi;
+- nuove funzioni CRM;
+- nuove funzioni PMS.
+
+---
+
+### Backlog Tecnico
+
+Contiene le proposte riguardanti l'architettura software.
+
+Ad esempio:
+
+- ottimizzazioni;
+- sicurezza;
+- API;
+- database;
+- performance;
+- refactoring;
+- integrazione con servizi esterni.
+
+---
+
+### Backlog Architetturale
+
+Contiene le evoluzioni strategiche dell'intero progetto.
+
+Ad esempio:
+
+- nuovi modelli organizzativi;
+- nuove categorie di utenti;
+- ecosistema turistico;
+- nuovi servizi;
+- nuovi modelli di business;
+- evoluzione della piattaforma;
+- nuove aree funzionali.
+
+---
+
+## Regola Fondamentale
+
+Nessuna idea dovrà andare perduta.
+
+Ogni proposta dovrà essere registrata, classificata e valutata.
+
+L'implementazione avverrà esclusivamente dopo la sua approvazione e dopo l'inserimento nella documentazione ufficiale del progetto.
 
 ----
 
