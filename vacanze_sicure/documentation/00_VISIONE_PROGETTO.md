@@ -235,6 +235,128 @@ Ogni modifica dovrà essere inserita esclusivamente nel documento competente.
 
 ---
 
+# 8.1 Regole di Gestione della Documentazione
+
+La documentazione costituisce il riferimento ufficiale dell'intero progetto Vacanze Sicure.
+
+Ogni documento deve essere redatto, aggiornato e mantenuto secondo le seguenti regole.
+
+## Un argomento per documento
+
+Ogni documento tratta un unico argomento.
+
+Non è ammesso inserire nello stesso documento argomenti appartenenti a moduli differenti.
+
+---
+
+## Nessuna duplicazione
+
+Ogni informazione deve esistere in un solo documento.
+
+Qualora un'informazione sia necessaria in altri documenti, dovrà essere richiamata mediante riferimento e non duplicata.
+
+---
+
+## Inserimento nella posizione corretta
+
+Ogni nuova informazione dovrà essere inserita nel capitolo più appropriato del documento.
+
+Non è consentito aggiungere nuovi contenuti semplicemente in fondo al file.
+
+La struttura del documento deve rimanere coerente nel tempo.
+
+---
+
+## Numerazione
+
+La numerazione dei capitoli principali non deve essere modificata.
+
+Le nuove informazioni saranno inserite mediante sottocapitoli.
+
+Esempio:
+
+5
+
+5.1
+
+5.2
+
+5.2.1
+
+5.2.2
+
+5.3
+
+---
+
+## Evoluzione controllata
+
+Ogni modifica dovrà essere:
+
+- progettata;
+- verificata;
+- approvata;
+- documentata.
+
+Solo dopo tali attività potrà essere implementata nel codice.
+
+---
+
+## Documentazione prima del codice
+
+Nessuna nuova funzionalità potrà essere sviluppata senza che sia stata prima descritta nella documentazione ufficiale del progetto.
+
+La documentazione rappresenta il contratto funzionale tra analisi, sviluppo e test.
+
+---
+
+## Coerenza
+
+Ogni nuovo documento dovrà essere coerente con:
+
+- Visione del Progetto;
+- Filosofia del Sistema;
+- Architettura;
+- Decisioni Architetturali già approvate.
+
+---
+
+## Decisioni Architetturali
+
+Ogni decisione progettuale approvata diventa parte integrante della documentazione ufficiale.
+
+Le decisioni non dovranno essere perse o duplicate, ma inserite nel documento competente.
+
+---
+
+## Approvazione
+
+Ogni documento seguirà il seguente ciclo di vita:
+
+Bozza
+
+↓
+
+Revisione
+
+↓
+
+Approvazione
+
+↓
+
+Implementazione
+
+↓
+
+Aggiornamento
+
+↓
+
+Nuova Revisione
+
+----
+
 # 9. EVOLUZIONE DEL PROGETTO
 
 Vacanze Sicure è un progetto in continua evoluzione.
