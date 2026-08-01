@@ -518,4 +518,72 @@ Il presente documento ha esclusivamente funzione di raccolta delle idee.
 
 La documentazione ufficiale del progetto conterrà solamente decisioni già analizzate e approvate.
 
+
+
 Ogni nuova idea dovrà essere registrata in questo documento prima di essere presa in esame.
+
+## IDEA-0004
+
+### Titolo
+
+Osservatorio Permanente del Turismo
+
+### Categoria
+
+📈 Decisione Strategica
+
+### Problema
+
+Le strutture ricettive dispongono di poche informazioni statistiche sui bisogni reali degli ospiti e spesso prendono decisioni basandosi esclusivamente sulla propria esperienza.
+
+### Descrizione
+
+Vacanze Sicure potrà integrare un sistema di questionari volontari destinati agli ospiti e ai proprietari al fine di raccogliere dati statistici anonimi utili al miglioramento della qualità dell'offerta turistica.
+
+I questionari potranno riguardare, a titolo esemplificativo:
+
+- qualità dell'accoglienza;
+- servizi offerti;
+- esperienza di soggiorno;
+- mobilità;
+- accessibilità;
+- turismo pet friendly;
+- sostenibilità ambientale;
+- sicurezza;
+- soddisfazione generale;
+- servizi territoriali;
+- enogastronomia;
+- eventi;
+- esigenze delle famiglie;
+- turismo sportivo;
+- turismo esperienziale.
+
+I dati raccolti saranno utilizzati esclusivamente in forma aggregata e anonima per produrre statistiche, report e analisi utili ai proprietari, agli operatori turistici e agli enti del territorio.
+
+### Utenti
+
+- Ospiti
+- Proprietari
+- Operatori Turistici
+- Associazioni
+- Enti Pubblici
+- Amministratori
+
+### Impatto
+
+- Business Intelligence
+- Marketing
+- AI
+- Ecosistema Turistico
+
+### Documento di destinazione
+
+Da definire.
+
+### Priorità
+
+Media
+
+### Stato
+
+Nuova
