@@ -28,6 +28,12 @@ La piattaforma integra in un unico ecosistema:
 
 Il progetto nasce dall'esperienza diretta maturata nella gestione di strutture ricettive reali e si pone l'obiettivo di semplificare il lavoro del proprietario, migliorare l'esperienza dell'ospite e creare un nuovo modello di ospitalità digitale.
 
+Vacanze Sicure non impone l'utilizzo di un determinato fornitore.
+
+Ogni struttura potrà scegliere i servizi esterni che preferisce, purché compatibili con gli standard di integrazione della piattaforma.
+
+L'architettura dovrà consentire la sostituzione di un fornitore senza richiedere modifiche sostanziali al resto del sistema.
+
 ---
 
 # 2. MISSIONE
@@ -223,7 +229,15 @@ L'AI apprende.
 
 ---
 
-# 8. ORGANIZZAZIONE DELLA DOCUMENTAZIONE
+## 7.6 Architettura Aperta
+
+Vacanze Sicure è progettato secondo un'architettura aperta e modulare.
+
+La piattaforma non intende sostituire servizi specialistici già esistenti sul mercato, ma integrarli all'interno di un ecosistema unico e coerente.
+
+Ogni funzionalità dovrà privilegiare, quando possibile, l'integrazione con servizi esterni mediante API ufficiali o protocolli standard, evitando duplicazioni di funzionalità già consolidate.
+
+L'obiettivo è consentire al proprietario di utilizzare i migliori strumenti disponibili mantenendo un'unica interfaccia gestionale.# 8. ORGANIZZAZIONE DELLA DOCUMENTAZIONE
 
 La documentazione del progetto è suddivisa in documenti tematici.
 
@@ -234,6 +248,37 @@ Non sono ammesse duplicazioni.
 Ogni modifica dovrà essere inserita esclusivamente nel documento competente.
 
 ---
+
+## 7.7 Integrazione dei Servizi
+
+La piattaforma dovrà poter integrare, a titolo esemplificativo:
+
+- WhatsApp Business
+- Email
+- SMS
+- PEC
+- Gateway di pagamento
+- Booking Engine
+- Channel Manager
+- OTA
+- Google Maps
+- Apple Maps
+- OpenStreetMap
+- Servizi Meteo
+- Calendari
+- Firma Digitale
+- Identità Digitale
+- Domotica
+- Serrature elettroniche
+- Videosorveglianza
+- Business Intelligence
+- CRM esterni
+- ERP
+- Contabilità
+
+L'elenco dei servizi supportati potrà essere ampliato nel tempo senza modificare l'architettura della piattaforma.
+
+----
 
 # 8.1 Regole di Gestione della Documentazione
 
