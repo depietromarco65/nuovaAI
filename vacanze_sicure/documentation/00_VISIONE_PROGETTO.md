@@ -114,6 +114,29 @@ L'adesione sarà possibile esclusivamente dopo l'accettazione di:
 Tali documenti saranno sviluppati separatamente.
 
 ---
+### 5.3.1 Procedura di ammissione delle strutture
+
+L'adesione alla piattaforma non comporta automaticamente la pubblicazione della struttura.
+
+Ogni richiesta di adesione sarà sottoposta ad una procedura di verifica finalizzata ad accertare la conformità della struttura agli standard qualitativi, organizzativi e di affidabilità previsti da Vacanze Sicure.
+
+La verifica sarà effettuata da uno o più ispettori incaricati dalla piattaforma.
+
+L'attività ispettiva avrà lo scopo di:
+
+- verificare l'effettiva esistenza della struttura;
+- accertare la corrispondenza tra quanto dichiarato dal proprietario e lo stato reale della struttura;
+- valutare lo stato di conservazione e manutenzione;
+- verificare la qualità dell'accoglienza;
+- valutare l'affidabilità del gestore;
+- verificare la posizione geografica della struttura;
+- analizzare la raggiungibilità mediante mezzi pubblici e privati;
+- valutare la presenza dei principali servizi nelle vicinanze.
+
+L'ispezione sarà documentata mediante una scheda valutativa standardizzata.
+
+Le modalità operative della procedura ispettiva saranno disciplinate nel documento dedicato **"Ammissione delle Strutture"**.
+
 
 ## 5.4 Quota associativa
 
