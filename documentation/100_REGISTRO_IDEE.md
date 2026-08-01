@@ -232,3 +232,65 @@ Ogni proposta sarà valutata in funzione:
 - della sostenibilità tecnica;
 - della conformità normativa;
 - delle priorità di sviluppo.
+
+---
+
+---
+
+## IDEA-0002
+
+### Titolo
+
+Promozione attiva del territorio da parte dei proprietari
+
+### Categoria
+
+📈 Decisione Strategica
+
+### Problema che risolve
+
+Le piattaforme tradizionali si limitano a pubblicare annunci delle strutture ricettive, lasciando ai singoli proprietari l'onere della promozione del territorio.
+
+### Descrizione
+
+Vacanze Sicure dovrà consentire ai proprietari di partecipare attivamente alla promozione del territorio e della destinazione turistica.
+
+La piattaforma potrà favorire iniziative condivise finalizzate ad aumentare la visibilità della destinazione, valorizzare il patrimonio locale e attrarre nuovi flussi turistici.
+
+A titolo esemplificativo potranno essere promosse iniziative quali:
+
+- partecipazione a fiere del turismo nazionali e internazionali;
+- campagne di promozione congiunte;
+- eventi dedicati alla valorizzazione del territorio;
+- collaborazioni con enti pubblici e privati;
+- attività di marketing territoriale;
+- promozione delle tradizioni locali, dell'enogastronomia e della cultura;
+- iniziative condivise tra strutture aderenti.
+
+### Utenti interessati
+
+- Proprietari
+- Operatori Turistici
+- Enti Locali
+- Associazioni
+- Ospiti
+
+### Impatto
+
+- Business
+- Marketing
+- Ecosistema Turistico
+
+### Documento di destinazione
+
+Da definire.
+
+### Priorità
+
+Media
+
+### Stato
+
+Nuova
+
+---
