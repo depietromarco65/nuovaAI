@@ -81,10 +81,10 @@ La piattaforma mette in relazione:
 
 - proprietari di strutture ricettive;
 - gestori;
-- ospiti;
-- viaggiatori.
+- operatori turistici;
+- ospiti e viaggiatori.
 
-L'obiettivo è semplificare il processo di ricerca, prenotazione e gestione del soggiorno.
+L'obiettivo è semplificare il processo di ricerca, prenotazione e gestione dell'intero soggiorno, creando un ecosistema digitale capace di valorizzare sia le strutture ricettive sia il territorio.
 
 ---
 
@@ -95,13 +95,16 @@ Gli ospiti possono utilizzare gratuitamente la piattaforma.
 Possono:
 
 - ricercare strutture;
-- consultare informazioni;
-- confrontare disponibilità;
+- consultare le schede descrittive;
+- confrontare disponibilità e servizi;
 - richiedere preventivi;
 - effettuare prenotazioni;
-- comunicare con le strutture.
+- comunicare direttamente con le strutture;
+- accedere ai servizi turistici disponibili.
 
-La piattaforma non prevede costi di utilizzo per gli ospiti.
+L'accesso ai servizi di ricerca e consultazione è completamente gratuito.
+
+La piattaforma non applica alcun costo agli ospiti.
 
 ---
 
@@ -109,22 +112,23 @@ La piattaforma non prevede costi di utilizzo per gli ospiti.
 
 L'utilizzo della piattaforma da parte dei proprietari richiede l'adesione al progetto Vacanze Sicure.
 
-L'adesione sarà possibile esclusivamente dopo l'accettazione di:
+L'adesione sarà possibile esclusivamente dopo:
 
-- Regolamento della piattaforma;
-- Condizioni di adesione;
-- Informativa Privacy;
-- Eventuale Statuto Associativo;
-- Clausole contrattuali.
+- accettazione del Regolamento della piattaforma;
+- accettazione delle Condizioni di Adesione;
+- accettazione dell'Informativa Privacy;
+- accettazione dell'eventuale Statuto Associativo;
+- accettazione delle Clausole Contrattuali.
 
-Tali documenti saranno sviluppati separatamente.
+Le modalità operative saranno disciplinate in documenti dedicati.
 
 ---
+
 ### 5.3.1 Procedura di ammissione delle strutture
 
 L'adesione alla piattaforma non comporta automaticamente la pubblicazione della struttura.
 
-Ogni richiesta di adesione sarà sottoposta ad una procedura di verifica finalizzata ad accertare la conformità della struttura agli standard qualitativi, organizzativi e di affidabilità previsti da Vacanze Sicure.
+Ogni richiesta sarà sottoposta ad una procedura di verifica finalizzata ad accertare la conformità della struttura agli standard qualitativi, organizzativi e di affidabilità previsti da Vacanze Sicure.
 
 La verifica sarà effettuata da uno o più ispettori incaricati dalla piattaforma.
 
@@ -132,47 +136,114 @@ L'attività ispettiva avrà lo scopo di:
 
 - verificare l'effettiva esistenza della struttura;
 - accertare la corrispondenza tra quanto dichiarato dal proprietario e lo stato reale della struttura;
+- verificare le autorizzazioni amministrative previste dalla normativa vigente;
 - valutare lo stato di conservazione e manutenzione;
-- verificare la qualità dell'accoglienza;
-- valutare l'affidabilità del gestore;
-- verificare la posizione geografica della struttura;
-- analizzare la raggiungibilità mediante mezzi pubblici e privati;
-- valutare la presenza dei principali servizi nelle vicinanze.
+- verificare il livello di pulizia e ordine della struttura;
+- valutare la qualità dell'accoglienza;
+- valutare la professionalità e l'affidabilità del gestore;
+- verificare la posizione geografica;
+- valutare la raggiungibilità mediante mezzi pubblici e privati;
+- verificare la presenza dei principali servizi nelle vicinanze;
+- verificare la corrispondenza tra fotografie, descrizioni e stato reale della struttura.
 
 L'ispezione sarà documentata mediante una scheda valutativa standardizzata.
 
-Le modalità operative della procedura ispettiva saranno disciplinate nel documento dedicato **"Ammissione delle Strutture"**.
-
-
-## 5.4 Quota associativa
-
-La piattaforma potrà prevedere una quota associativa annuale destinata al mantenimento, allo sviluppo e ai servizi offerti.
-
-L'importo sarà determinato secondo criteri oggettivi, proporzionati alle dimensioni della struttura.
-
-Tra i parametri che potranno essere utilizzati:
-
-- numero camere;
-- numero appartamenti;
-- numero posti letto;
-- numero piazzole tenda;
-- numero piazzole camper;
-- tipologia della struttura;
-- servizi attivati.
-
-Le modalità definitive saranno disciplinate in un documento dedicato.
+Le modalità operative della procedura ispettiva saranno disciplinate nel documento dedicato "Ammissione delle Strutture".
 
 ---
 
-## 5.5 Principi del modello economico
+## 5.4 Quota associativa
 
-Il modello economico della piattaforma dovrà rispettare:
+Per sostenere i costi di sviluppo, manutenzione, assistenza e promozione della piattaforma, i proprietari aderenti potranno essere tenuti al versamento di una quota associativa annuale.
+
+La quota sarà determinata secondo criteri oggettivi e proporzionati alle caratteristiche della struttura.
+
+Tra i parametri che potranno essere utilizzati rientrano, a titolo esemplificativo:
+
+- numero delle camere;
+- numero degli appartamenti;
+- numero dei posti letto;
+- numero delle piazzole tenda;
+- numero delle piazzole camper;
+- tipologia della struttura;
+- categoria della struttura;
+- servizi attivati.
+
+Le modalità di calcolo, riscossione ed eventuali agevolazioni saranno disciplinate in un documento dedicato.
+
+---
+
+## 5.5 Ecosistema Turistico Integrato
+
+Vacanze Sicure non è esclusivamente una piattaforma dedicata alle strutture ricettive.
+
+La piattaforma è progettata per creare un ecosistema turistico integrato nel quale possano operare aziende, professionisti ed operatori che offrono servizi complementari all'ospitalità.
+
+Tra i soggetti che potranno aderire alla piattaforma rientrano, a titolo esemplificativo:
+
+- Noleggio con Conducente (NCC);
+- Taxi;
+- Autonoleggi;
+- Noleggio scooter;
+- Noleggio motocicli;
+- Noleggio biciclette;
+- Noleggio e-bike;
+- Noleggio barche;
+- Charter nautici;
+- Escursioni guidate;
+- Guide turistiche;
+- Stabilimenti balneari;
+- Spiagge attrezzate;
+- Diving Center;
+- Scuole di vela;
+- Centri sportivi;
+- Palestre;
+- Centri benessere;
+- SPA;
+- Ristoranti;
+- Pizzerie;
+- Trattorie;
+- Agriturismi;
+- Cantine;
+- Frantoi;
+- Aziende agricole;
+- Degustazioni;
+- Esperienze enogastronomiche;
+- Servizi transfer;
+- Servizi di lavanderia;
+- Servizi di pulizia;
+- Imprese di manutenzione;
+- Artigiani;
+- Servizi sanitari;
+- Farmacie;
+- Negozi convenzionati;
+- Musei;
+- Parchi naturali;
+- Organizzatori di eventi;
+- Altri operatori funzionali all'accoglienza turistica.
+
+L'obiettivo è creare un ecosistema digitale nel quale strutture ricettive, operatori del territorio e ospiti possano interagire attraverso un'unica piattaforma.
+
+Vacanze Sicure promuove la collaborazione tra tutti gli operatori della filiera turistica, favorendo la valorizzazione del territorio e migliorando l'esperienza complessiva del soggiorno.
+
+Le modalità di adesione, classificazione e gestione dei servizi turistici saranno disciplinate in documenti dedicati.
+
+---
+
+## 5.6 Principi del modello economico
+
+Il modello economico della piattaforma dovrà rispettare i seguenti principi:
 
 - trasparenza;
 - semplicità;
 - sostenibilità;
 - proporzionalità;
-- assenza di costi per gli ospiti.
+- equità tra gli aderenti;
+- valorizzazione del territorio;
+- assenza di costi per gli ospiti;
+- crescita condivisa dell'ecosistema.
+
+Ogni eventuale modifica del modello economico dovrà essere approvata e documentata prima della sua applicazione.
 
 ---
 
@@ -201,82 +272,212 @@ L'architettura dovrà essere sufficientemente flessibile da adattarsi a differen
 
 # 7. PRINCIPI ARCHITETTURALI
 
-Vacanze Sicure è progettato secondo i seguenti principi.
+L'architettura di Vacanze Sicure rappresenta l'insieme dei principi fondamentali che dovranno essere rispettati durante l'intero ciclo di vita del progetto.
 
-## Modularità
+Ogni modulo software, componente, servizio o futura evoluzione dovrà essere progettato nel rispetto dei principi riportati nel presente capitolo.
 
-Ogni componente è indipendente.
+---
 
-## Configurabilità
+## 7.1 Modularità
 
-Ogni struttura personalizza il proprio ambiente.
+La piattaforma è progettata secondo un'architettura modulare.
 
-## Multi-Tenant
+Ogni funzionalità costituisce un modulo indipendente, con responsabilità ben definite e separazione della logica applicativa.
 
-Ogni struttura è completamente indipendente.
+I moduli dovranno poter evolvere indipendentemente senza compromettere il funzionamento dell'intero sistema.
 
-## Privacy by Design
+---
 
-Ogni dato appartiene esclusivamente alla struttura che lo ha generato.
+## 7.2 Configurabilità
 
-## AI Assistiva
+Ogni struttura ricettiva deve poter configurare autonomamente il proprio ambiente operativo.
 
-L'AI propone.
+Tra gli elementi configurabili rientrano, a titolo esemplificativo:
 
-Il proprietario decide.
+- dati della struttura;
+- logo;
+- colori;
+- dominio;
+- recapiti;
+- listini;
+- servizi;
+- modelli di comunicazione;
+- Knowledge Base;
+- procedure operative;
+- regole interne;
+- automazioni;
+- impostazioni dell'Intelligenza Artificiale.
 
-L'AI apprende.
+La configurazione dovrà essere separata dal codice sorgente.
+
+---
+
+## 7.3 Multi-Tenant
+
+Vacanze Sicure è progettata come piattaforma Multi-Tenant.
+
+Ogni struttura rappresenta un ambiente completamente indipendente.
+
+Ogni tenant possiede esclusivamente i propri dati, le proprie configurazioni e la propria Knowledge Base.
+
+Le informazioni appartenenti ad una struttura non potranno essere consultate, modificate o condivise con altre strutture, salvo i casi espressamente previsti dalla documentazione ufficiale del progetto.
+
+---
+
+## 7.4 Privacy by Design
+
+La piattaforma è progettata secondo il principio della Privacy by Design.
+
+Ogni trattamento dei dati personali dovrà rispettare la normativa vigente e dovrà essere improntato ai principi di:
+
+- liceità;
+- correttezza;
+- trasparenza;
+- minimizzazione dei dati;
+- limitazione delle finalità;
+- sicurezza;
+- riservatezza.
+
+Ogni struttura rimane titolare del proprio patrimonio informativo.
+
+---
+
+## 7.5 Intelligenza Artificiale Assistiva
+
+L'Intelligenza Artificiale costituisce uno strumento di supporto al proprietario.
+
+L'AI:
+
+- analizza;
+- suggerisce;
+- organizza;
+- automatizza;
+- apprende.
+
+L'AI non sostituisce mai il proprietario.
+
+Ogni decisione finale rimane esclusivamente in capo al gestore della struttura.
 
 ---
 
 ## 7.6 Architettura Aperta
 
-Vacanze Sicure è progettato secondo un'architettura aperta e modulare.
+Vacanze Sicure è progettata secondo un'architettura aperta e modulare.
 
 La piattaforma non intende sostituire servizi specialistici già esistenti sul mercato, ma integrarli all'interno di un ecosistema unico e coerente.
 
-Ogni funzionalità dovrà privilegiare, quando possibile, l'integrazione con servizi esterni mediante API ufficiali o protocolli standard, evitando duplicazioni di funzionalità già consolidate.
+Quando possibile, saranno privilegiate integrazioni mediante API ufficiali, protocolli standard e servizi certificati.
 
-L'obiettivo è consentire al proprietario di utilizzare i migliori strumenti disponibili mantenendo un'unica interfaccia gestionale.# 8. ORGANIZZAZIONE DELLA DOCUMENTAZIONE
-
-La documentazione del progetto è suddivisa in documenti tematici.
-
-Ogni argomento viene documentato in un unico documento.
-
-Non sono ammesse duplicazioni.
-
-Ogni modifica dovrà essere inserita esclusivamente nel documento competente.
+L'obiettivo è consentire al proprietario di utilizzare i migliori strumenti disponibili mantenendo un'unica interfaccia gestionale.
 
 ---
 
-## 7.7 Integrazione dei Servizi
+## 7.7 Neutralità Tecnologica
+
+Vacanze Sicure non impone l'utilizzo di uno specifico fornitore di servizi.
+
+Ogni struttura potrà scegliere liberamente i servizi esterni ritenuti più idonei alle proprie esigenze, purché compatibili con gli standard di integrazione della piattaforma.
+
+La sostituzione di un fornitore non dovrà richiedere modifiche sostanziali all'architettura del sistema.
+
+---
+
+## 7.8 Integrazione dei Servizi
 
 La piattaforma dovrà poter integrare, a titolo esemplificativo:
 
-- WhatsApp Business
-- Email
-- SMS
-- PEC
-- Gateway di pagamento
-- Booking Engine
-- Channel Manager
-- OTA
-- Google Maps
-- Apple Maps
-- OpenStreetMap
-- Servizi Meteo
-- Calendari
-- Firma Digitale
-- Identità Digitale
-- Domotica
-- Serrature elettroniche
-- Videosorveglianza
-- Business Intelligence
-- CRM esterni
-- ERP
-- Contabilità
+### Comunicazione
 
-L'elenco dei servizi supportati potrà essere ampliato nel tempo senza modificare l'architettura della piattaforma.
+- WhatsApp Business;
+- E-mail;
+- SMS;
+- PEC;
+- Notifiche Push.
+
+### Prenotazioni
+
+- Booking Engine;
+- Channel Manager;
+- OTA;
+- Calendari esterni.
+
+### Pagamenti
+
+- Gateway di pagamento;
+- POS virtuali;
+- Sistemi di fatturazione elettronica.
+
+### Cartografia e Mobilità
+
+- Google Maps;
+- Apple Maps;
+- OpenStreetMap;
+- Sistemi di navigazione.
+
+### Servizi Digitali
+
+- Firma digitale;
+- Identità digitale;
+- SPID;
+- CIE;
+- PagoPA;
+- Conservazione documentale.
+
+### Sicurezza
+
+- Videosorveglianza;
+- Controllo accessi;
+- Serrature elettroniche;
+- Domotica;
+- Sensori IoT.
+
+### Business
+
+- CRM esterni;
+- ERP;
+- Sistemi contabili;
+- Business Intelligence.
+
+L'elenco dei servizi supportati potrà essere ampliato nel tempo senza modificare i principi architetturali della piattaforma.
+
+---
+
+## 7.9 Single Source of Truth
+
+Ogni informazione deve avere una sola fonte ufficiale.
+
+Ogni dato dovrà essere memorizzato una sola volta e riutilizzato da tutti i moduli della piattaforma.
+
+La duplicazione dei dati deve essere evitata.
+
+Lo stesso principio si applica alla documentazione tecnica del progetto.
+
+---
+
+## 7.10 Documentazione prima dello sviluppo
+
+Ogni nuova funzionalità dovrà seguire il seguente ciclo di vita:
+
+1. Analisi.
+2. Documentazione.
+3. Approvazione.
+4. Progettazione tecnica.
+5. Implementazione.
+6. Test.
+7. Validazione.
+8. Rilascio.
+
+Nessuna funzionalità potrà essere implementata senza essere stata preventivamente documentata e approvata.
+
+---
+
+## 7.11 Evoluzione controllata
+
+Vacanze Sicure è un progetto in continua evoluzione.
+
+Ogni modifica dovrà rispettare i principi architetturali definiti nel presente documento.
+
+Le decisioni progettuali approvate costituiranno patrimonio permanente del progetto e saranno riportate nella documentazione ufficiale.
 
 ----
 
