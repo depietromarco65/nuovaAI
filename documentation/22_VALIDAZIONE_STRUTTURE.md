@@ -273,3 +273,13 @@ La disponibilità delle informazioni dipende:
 - dalle autorizzazioni assegnate;
 - dalle convenzioni eventualmente sottoscritte;
 - dalle disposizioni di legge applicabili.
+
+- ---
+
+# Segnalazioni istituzionali
+
+Le segnalazioni provenienti dagli enti istituzionali seguono una procedura dedicata.
+
+Ogni segnalazione viene valutata in base al livello di criticità e alle evidenze disponibili.
+
+Le decisioni di sospensione o revoca della certificazione sono assunte esclusivamente al termine del procedimento previsto dalla piattaforma, salvo i casi di particolare urgenza disciplinati dal regolamento.
