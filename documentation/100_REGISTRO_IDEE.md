@@ -1452,4 +1452,210 @@ La qualità sarà sempre più importante della quantità.
 
 Vacanze Sicure è un ecosistema costruito per mettere al centro le persone.
 
+# 24_GESTIONE_NO_SHOW.md
 
+# Gestione No-Show - Vacanze Sicure
+
+## Principio Fondamentale
+
+Vacanze Sicure considera il No-Show un evento documentale e non una semplice cancellazione.
+
+Ogni mancata presentazione deve essere registrata, verificata e archiviata in modo trasparente, tutelando sia il proprietario sia l'ospite.
+
+---
+
+# Flusso Operativo
+
+## 1. Check-in previsto
+
+Il giorno del check-in la prenotazione assume automaticamente lo stato:
+
+IN ATTESA DI ARRIVO
+
+---
+
+## 2. Stato Prenotazione
+
+Il proprietario può selezionare:
+
+🟢 Ospite arrivato
+
+🟡 Ritardo comunicato
+
+🟠 Ospite irreperibile
+
+🔴 No-Show
+
+---
+
+## 3. Tentativi di contatto
+
+Prima della conferma del No-Show il sistema richiede almeno un tentativo di contatto.
+
+Sono registrabili:
+
+- Telefonata
+- WhatsApp
+- SMS
+- Email
+- Altro
+
+Per ogni tentativo vengono memorizzati:
+
+- data
+- ora
+- operatore
+- esito
+
+---
+
+## 4. Motivazione
+
+Qualora comunicata dall'ospite:
+
+- Malattia
+- Ricovero
+- Lutto
+- Problema tecnico
+- Errore di prenotazione
+- Evento atmosferico
+- Ritardo viaggio
+- Altro
+
+oppure
+
+Nessuna comunicazione ricevuta
+
+---
+
+## 5. Documentazione
+
+Il proprietario può allegare:
+
+- fotografie
+- screenshot
+- email
+- WhatsApp
+- ricevute
+- altri documenti
+
+---
+
+## 6. Apertura pratica
+
+La pratica assume lo stato:
+
+IN VERIFICA
+
+---
+
+## 7. Validatore
+
+Il Validatore Vacanze Sicure può:
+
+- confermare il No-Show
+- annullare il No-Show
+- richiedere documentazione integrativa
+- sospendere la pratica
+- archiviare
+
+Ogni operazione viene registrata.
+
+---
+
+# Storico Ospite
+
+Ogni ospite possiede uno storico riservato.
+
+Dati disponibili:
+
+- prenotazioni effettuate
+- soggiorni conclusi
+- cancellazioni
+- No-Show
+- contestazioni
+- identità verificata
+- affidabilità
+
+Il punteggio non è pubblico.
+
+È consultabile esclusivamente dalle strutture aderenti.
+
+---
+
+# Storico Struttura
+
+Ogni struttura possiede uno storico qualità.
+
+Comprende:
+
+- prenotazioni concluse
+- No-Show ricevuti
+- contestazioni
+- tempi medi di risposta
+- certificazioni
+- verifiche effettuate
+
+---
+
+# Registro Eventi
+
+Ogni prenotazione mantiene una cronologia completa.
+
+Esempio:
+
+Prenotazione
+
+↓
+
+Pagamento
+
+↓
+
+Conferma
+
+↓
+
+Promemoria
+
+↓
+
+Check-in
+
+↓
+
+Tentativi di contatto
+
+↓
+
+No-Show
+
+↓
+
+Validazione
+
+↓
+
+Archiviazione
+
+Nessun evento può essere eliminato.
+
+---
+
+# Tutela reciproca
+
+Il sistema tutela entrambe le parti.
+
+L'ospite può giustificare il No-Show.
+
+La struttura deve documentare il No-Show.
+
+Il Validatore decide nei casi controversi.
+
+---
+
+# Principio Vacanze Sicure
+
+Il No-Show non rappresenta una sanzione.
+
+È un evento documentato finalizzato ad aumentare trasparenza, correttezza e fiducia tra ospiti e strutture.
