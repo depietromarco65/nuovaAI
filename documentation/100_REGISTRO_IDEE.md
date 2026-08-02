@@ -1376,3 +1376,80 @@ L'utente non sceglie un PMS.
 L'utente sceglie una piattaforma che migliora la qualità dell'ospitalità, aumenta la fiducia tra le persone e valorizza il territorio.
 
 Ogni pagina del sito dovrà spiegare prima il beneficio e solo dopo la funzionalità tecnica.
+
+# VACANZE SICURE
+
+## La nostra missione
+
+Vacanze Sicure non nasce per creare un nuovo portale turistico.
+
+Non nasce per sviluppare un nuovo PMS.
+
+Non nasce per competere con Booking o Airbnb.
+
+Vacanze Sicure nasce per riportare la fiducia al centro dell'ospitalità italiana.
+
+Ogni scelta progettuale dovrà contribuire ad aumentare:
+
+- la trasparenza;
+- la qualità;
+- la sicurezza;
+- la fiducia.
+
+Il software rappresenta uno strumento.
+
+La fiducia rappresenta il prodotto.
+
+# Visione
+
+Diventare il punto di riferimento italiano dell'ospitalità certificata.
+
+Non vogliamo avere il maggior numero di strutture.
+
+Vogliamo avere le migliori.
+
+Ogni struttura pubblicata dovrà rappresentare un esempio di qualità, trasparenza e correttezza.
+
+# Valori
+
+Qualità prima della quantità.
+
+Trasparenza prima del profitto.
+
+Persone prima del software.
+
+Territorio prima della prenotazione.
+
+Miglioramento continuo.
+
+Innovazione responsabile.
+
+# Manifesto Vacanze Sicure
+
+Noi non vendiamo camere.
+
+Non vendiamo annunci.
+
+Non vendiamo software.
+
+Noi costruiamo fiducia.
+
+Crediamo che un ospite debba scegliere una struttura con serenità.
+
+Crediamo che un proprietario debba essere premiato per la qualità.
+
+Crediamo che il territorio debba essere valorizzato.
+
+Crediamo che la trasparenza sia la migliore forma di promozione.
+
+Per questo ogni struttura sarà verificata.
+
+Ogni informazione sarà controllata.
+
+Ogni fotografia dovrà rappresentare fedelmente la realtà.
+
+La qualità sarà sempre più importante della quantità.
+
+Vacanze Sicure è un ecosistema costruito per mettere al centro le persone.
+
+
