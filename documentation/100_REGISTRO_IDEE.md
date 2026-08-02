@@ -1327,3 +1327,30 @@ Il successo della piattaforma sarà misurato principalmente dal livello di fiduc
 
 **"Meglio mille strutture eccellenti che centomila strutture sconosciute."**
 
+
+# IDEA VS-0110 - La prenotazione non termina con la conferma
+
+## Stato
+
+🟢 Approvata
+
+---
+
+## Principio
+
+Per Vacanze Sicure la prenotazione rappresenta l'inizio della relazione tra ospite e struttura.
+
+Dal momento della conferma fino al check-in, l'ospite non dovrà essere lasciato solo.
+
+La piattaforma dovrà accompagnarlo durante tutto il periodo che precede il soggiorno, fornendo informazioni, assistenza e servizi utili.
+
+---
+
+## Obiettivi
+
+- aumentare la fiducia dell'ospite;
+- ridurre le cancellazioni;
+- migliorare l'esperienza di viaggio;
+- creare un rapporto continuativo tra ospite e struttura.
+
+
