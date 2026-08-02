@@ -202,3 +202,17 @@ La Knowledge Base deve diventare la memoria ufficiale di Vacanze Sicure.
 Ogni risposta fornita dalla piattaforma deve derivare dalla Knowledge Base.
 
 L'Assistente AI non crea risposte casuali ma utilizza esclusivamente contenuti verificati e versionati.
+
+# Analisi automatica delle email
+
+L'Assistente AI può analizzare automaticamente le email provenienti da OTA, PMS, Channel Manager e servizi esterni.
+
+Tra le funzioni:
+
+- riconoscimento notifiche di sicurezza;
+- individuazione di possibili tentativi di phishing;
+- spiegazione del contenuto dell'email;
+- suggerimento delle azioni da intraprendere;
+- classificazione automatica per categoria (sicurezza, prenotazioni, pagamenti, documentazione, ecc.).
+
+L'AI archivia le email analizzate e le utilizza per migliorare la Knowledge Base.
