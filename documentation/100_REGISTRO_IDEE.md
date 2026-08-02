@@ -1659,3 +1659,60 @@ Il Validatore decide nei casi controversi.
 Il No-Show non rappresenta una sanzione.
 
 È un evento documentato finalizzato ad aumentare trasparenza, correttezza e fiducia tra ospiti e strutture.
+
+## IDEA #046 – Mappa Intelligente Vacanze Sicure
+
+La mappa rappresenta il principale strumento di ricerca della piattaforma.
+
+L'utente non cerca una struttura ma individua l'area ideale della vacanza.
+
+Funzioni previste:
+
+- selezione mediante cerchio (stile Idealista)
+- selezione mediante poligono
+- selezione mediante rettangolo
+- selezione di comuni
+- selezione di spiagge
+- ricerca per distanza
+
+La mappa dovrà mostrare:
+
+- strutture certificate
+- strutture in validazione
+- spiagge
+- lidi
+- spiagge libere
+- dog beach
+- aeroporti
+- porti
+- stazioni ferroviarie
+- fermate autobus
+- parcheggi
+- bancomat
+- farmacie
+- ospedali
+- guardia medica
+- carabinieri
+- polizia
+- guardia di finanza
+- vigili del fuoco
+- protezione civile
+- supermercati
+- distributori carburante
+- colonnine elettriche
+- monumenti
+- musei
+- ristoranti
+- bar
+- escursioni
+- eventi
+- punti panoramici
+- noleggio auto
+- noleggio scooter
+- noleggio biciclette
+
+Ogni categoria è attivabile/disattivabile tramite livelli indipendenti.
+
+Ogni struttura possiede una scheda "Contesto" con tutte le distanze dai principali servizi.
+
+La mappa costituirà uno degli elementi distintivi di Vacanze Sicure.
