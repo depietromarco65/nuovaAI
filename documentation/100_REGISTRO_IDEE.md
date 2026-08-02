@@ -850,3 +850,480 @@ Il sistema potrà prevedere:
 - 22.02_SCHEDE_DI_VALUTAZIONE.md
 - 22.03_CRITERI_DI_VALUTAZIONE.md
 - 22.04_BADGE_E_CERTIFICAZIONI.md
+
+## IDEA VS-00XX - Sistema di Accompagnamento del Proprietario
+
+### Stato
+
+🟢 Approvata
+
+### Descrizione
+
+Vacanze Sicure non si limita a pubblicare le strutture ricettive, ma accompagna il proprietario in un percorso continuo di crescita.
+
+Il sistema dovrà assistere il proprietario durante tutte le fasi:
+
+- registrazione;
+- inserimento della struttura;
+- validazione;
+- pubblicazione;
+- miglioramento della qualità;
+- promozione;
+- monitoraggio.
+
+L'obiettivo è trasformare la piattaforma in un consulente digitale permanente e non in un semplice portale di annunci.
+
+## IDEA VS-00XX - Dashboard della Qualità
+
+### Stato
+
+🟢 Approvata
+
+### Descrizione
+
+Ogni proprietario dovrà disporre di una dashboard che mostri in tempo reale lo stato della propria struttura.
+
+La dashboard dovrà riportare almeno:
+
+- stato della validazione;
+- prescrizioni aperte;
+- documentazione mancante;
+- qualità delle fotografie;
+- completezza della scheda;
+- certificazioni ottenute;
+- storico delle verifiche;
+- suggerimenti di miglioramento.
+
+La dashboard dovrà rappresentare il punto di riferimento per il miglioramento continuo della struttura.
+## IDEA VS-00XX - Indice di Completezza della Scheda
+
+### Stato
+
+🟢 Approvata
+
+### Descrizione
+
+Ogni struttura dovrà avere un indice interno che misuri il livello di completezza della propria scheda informativa.
+
+Il sistema dovrà analizzare automaticamente:
+
+- fotografie;
+- descrizioni;
+- servizi;
+- recapiti;
+- coordinate geografiche;
+- documentazione;
+- regolamenti;
+- disponibilità;
+- listino prezzi.
+
+L'obiettivo è guidare il proprietario verso una scheda completa, trasparente e facilmente consultabile dagli ospiti.
+
+## IDEA VS-00XX - Validazione con Prescrizioni
+
+### Stato
+
+🟢 Approvata
+
+### Descrizione
+
+Il Validatore potrà sospendere temporaneamente la procedura di validazione qualora rilevi non conformità o carenze.
+
+In tal caso emetterà una o più prescrizioni obbligatorie.
+
+Il proprietario potrà adeguarsi e richiedere una nuova verifica.
+
+La struttura non potrà essere pubblicata fino alla chiusura delle prescrizioni obbligatorie.
+
+## IDEA VS-00XX - Fascicolo Digitale della Struttura
+
+### Stato
+
+🟢 Approvata
+
+### Descrizione
+
+Ogni struttura dovrà possedere un Fascicolo Digitale contenente tutta la propria storia.
+
+Il fascicolo comprenderà:
+
+- documentazione amministrativa;
+- validazioni;
+- prescrizioni;
+- certificazioni;
+- fotografie;
+- planimetrie;
+- storico delle modifiche;
+- storico dei proprietari;
+- verifiche effettuate;
+- rinnovi della certificazione.
+
+Il Fascicolo accompagnerà la struttura per tutta la permanenza nella piattaforma.
+
+## IDEA VS-00XX - Fascicolo Digitale della Struttura
+
+### Stato
+
+🟢 Approvata
+
+### Descrizione
+
+Ogni struttura dovrà possedere un Fascicolo Digitale contenente tutta la propria storia.
+
+Il fascicolo comprenderà:
+
+- documentazione amministrativa;
+- validazioni;
+- prescrizioni;
+- certificazioni;
+- fotografie;
+- planimetrie;
+- storico delle modifiche;
+- storico dei proprietari;
+- verifiche effettuate;
+- rinnovi della certificazione.
+
+Il Fascicolo accompagnerà la struttura per tutta la permanenza nella piattaforma.
+
+## IDEA VS-00XX - Programma di Miglioramento della Struttura
+
+### Stato
+
+🟢 Approvata
+
+### Descrizione
+
+Il sistema dovrà proporre al proprietario suggerimenti per migliorare la qualità della struttura.
+
+Potranno essere suggeriti:
+
+- nuovi servizi fotografici;
+- video professionali;
+- revisione delle descrizioni;
+- miglioramento dell'accessibilità;
+- interventi manutentivi;
+- servizi aggiuntivi;
+- miglioramenti della sicurezza;
+- valorizzazione del territorio.
+
+L'obiettivo è favorire il miglioramento continuo.
+
+## IDEA VS-00XX - Fotografi Certificati Vacanze Sicure
+
+### Stato
+
+🟢 Approvata
+
+### Descrizione
+
+Vacanze Sicure potrà creare una rete di fotografi professionisti convenzionati.
+
+Il Validatore potrà suggerire al proprietario la realizzazione di un nuovo book fotografico quando le immagini presenti non rispettino gli standard qualitativi della piattaforma.
+
+Il servizio avrà lo scopo di garantire fotografie autentiche, aggiornate e rappresentative della struttura.
+
+## IDEA VS-00XX - Verifica della Raggiungibilità
+
+### Stato
+
+🟢 Approvata
+
+### Descrizione
+
+La validazione dovrà comprendere anche la verifica della raggiungibilità della struttura.
+
+Tra gli elementi da valutare:
+
+- precisione dell'indirizzo;
+- correttezza della geolocalizzazione;
+- qualità della viabilità;
+- percorsi pedonali;
+- presenza di parcheggi;
+- accessibilità con mezzi pubblici;
+- accessibilità con camper;
+- eventuali criticità lungo il percorso.
+
+Le informazioni dovranno essere riportate nella scheda della struttura per consentire agli ospiti una scelta consapevole.
+
+## IDEA VS-00XX - Certificazione Progressiva
+
+### Stato
+
+🟢 Approvata
+
+### Descrizione
+
+La certificazione della struttura dovrà evolvere nel tempo.
+
+Livelli previsti:
+
+- Struttura Validata;
+- Struttura Consigliata;
+- Eccellenza Vacanze Sicure;
+- Ambasciatrice del Territorio.
+
+L'attribuzione dei livelli sarà disciplinata mediante criteri oggettivi e verifiche periodiche.
+
+## IDEA VS-00XX - Pubblicazione Riservata alle Strutture Validate
+
+### Stato
+
+🟢 Approvata
+
+### Descrizione
+
+Solo le strutture che abbiano completato con esito positivo la procedura di validazione potranno:
+
+- essere visibili nel portale pubblico;
+- comparire nei risultati di ricerca;
+- ricevere richieste di informazioni;
+- ricevere richieste di prenotazione;
+- partecipare alle campagne promozionali.
+
+Le strutture in stato di bozza, validazione o sospensione resteranno visibili esclusivamente al proprietario, al Validatore e agli Amministratori della piattaforma.
+
+## IDEA VS-00XX - Validazione per Categorie di Strutture
+
+### Stato
+
+🟢 Approvata
+
+### Descrizione
+
+La piattaforma non dovrà utilizzare un'unica scheda di validazione.
+
+Ogni categoria di struttura dovrà disporre di una propria scheda tecnica con criteri specifici.
+
+Ad esempio:
+
+- Hotel
+- B&B
+- Casa Vacanze
+- Appartamento
+- Agriturismo
+- Campeggio
+- Glamping
+- Albergo Diffuso
+- Area Camper
+- Ostello
+- Rifugio
+- Villaggio Turistico
+
+Ogni categoria avrà requisiti, punteggi e criteri di valutazione differenti, in modo da garantire una certificazione equa e coerente con le caratteristiche della struttura.
+
+# IDEA VS-0100 - Il Certificato Vacanze Sicure
+
+## Stato
+
+🟢 Approvata
+
+---
+
+## Principio
+
+Vacanze Sicure non dovrà limitarsi a pubblicare annunci.
+
+La piattaforma dovrà creare un marchio di qualità riconosciuto dagli ospiti.
+
+L'obiettivo è fare in modo che siano gli ospiti a ricercare esclusivamente strutture certificate.
+
+La certificazione diventerà un elemento distintivo della struttura e costituirà un valore aggiunto anche al di fuori della piattaforma.
+
+---
+
+## Filosofia
+
+La fiducia non viene imposta.
+
+La fiducia viene conquistata.
+
+La certificazione rappresenta la dimostrazione oggettiva che una struttura ha superato il processo di validazione previsto da Vacanze Sicure.
+
+---
+
+## Obiettivi
+
+- aumentare la fiducia degli ospiti;
+- valorizzare i proprietari virtuosi;
+- migliorare la qualità dell'offerta turistica;
+- creare uno standard nazionale di qualità;
+- rendere riconoscibile il marchio Vacanze Sicure.
+
+---
+
+## Il Certificato
+
+Ogni struttura validata riceverà un Certificato Digitale Vacanze Sicure.
+
+Il certificato dovrà contenere almeno:
+
+- numero identificativo univoco;
+- nome della struttura;
+- codice della struttura;
+- tipologia;
+- livello della certificazione;
+- data della prima certificazione;
+- data dell'ultima verifica;
+- data di scadenza;
+- QR Code di verifica;
+- stato della certificazione.
+
+---
+
+## Utilizzo del Certificato
+
+Il proprietario potrà utilizzare il certificato:
+
+- sul proprio sito web;
+- nei social network;
+- nelle firme email;
+- nelle brochure;
+- nei cataloghi;
+- alla reception;
+- all'ingresso della struttura;
+- nelle campagne pubblicitarie.
+
+---
+
+## Verifica Pubblica
+
+Ogni certificato sarà verificabile online.
+
+Il QR Code condurrà ad una pagina ufficiale di Vacanze Sicure contenente esclusivamente le informazioni pubbliche della certificazione.
+
+---
+
+## Evoluzione
+
+Il certificato potrà essere rinnovato periodicamente a seguito delle verifiche effettuate dai Validatori.
+
+## IDEA VS-0103 - Quota Associativa e Procedura di Validazione
+
+### Stato
+
+🟢 Approvata
+
+---
+
+## Principio
+
+La procedura di validazione della struttura costituisce uno dei servizi compresi nella quota associativa annuale.
+
+Il pagamento della quota associativa dà diritto ad accedere alla procedura di validazione, ma non garantisce il rilascio della certificazione.
+
+La certificazione sarà rilasciata esclusivamente alle strutture che supereranno positivamente tutte le verifiche previste dal disciplinare di Vacanze Sicure.
+
+---
+
+## Finalità
+
+Il contributo associativo remunera:
+
+- la gestione della piattaforma;
+- il mantenimento dei servizi;
+- la procedura di validazione;
+- l'assistenza ai proprietari;
+- il miglioramento continuo del sistema.
+
+Il contributo associativo non costituisce il corrispettivo per l'ottenimento della certificazione.
+
+---
+
+## Esito della Validazione
+
+La procedura potrà concludersi con uno dei seguenti esiti:
+
+- Struttura Validata;
+- Validazione sospesa con prescrizioni;
+- Richiesta di integrazioni documentali;
+- Validazione respinta.
+
+---
+
+## Assenza di Garanzia
+
+Il proprietario prende atto che il pagamento della quota associativa non comporta alcun diritto automatico:
+
+- alla pubblicazione della struttura;
+- al rilascio della certificazione;
+- all'utilizzo del marchio "Vacanze Sicure";
+- all'inserimento nei risultati di ricerca.
+
+Tali diritti matureranno esclusivamente dopo il completamento positivo della procedura di validazione.
+
+---
+
+## Principio di Imparzialità
+
+La procedura di validazione dovrà essere svolta secondo criteri oggettivi, uniformi e indipendenti.
+
+L'esito della validazione non potrà essere influenzato dalla quota associativa versata, dalla tipologia della struttura o da qualsiasi altro elemento estraneo ai criteri tecnici previsti dal disciplinare.
+
+## IDEA VS-0104 - Indipendenza del Validatore
+
+### Stato
+
+🟢 Approvata
+
+### Principio
+
+Il Validatore opera in piena autonomia e indipendenza.
+
+Il suo compenso non potrà essere collegato all'esito della procedura di validazione.
+
+La valutazione dovrà basarsi esclusivamente sui criteri tecnici previsti dal disciplinare di Vacanze Sicure.
+
+L'obiettivo è garantire imparzialità, trasparenza e credibilità dell'intero sistema di certificazione.
+
+# PRINCIPIO FONDAMENTALE VS-0001
+
+## La qualità prima della quantità
+
+### Stato
+
+🟢 Decisione Architetturale Approvata
+
+---
+
+## Principio
+
+Vacanze Sicure non persegue l'obiettivo di avere il maggior numero possibile di strutture aderenti.
+
+L'obiettivo prioritario della piattaforma è garantire agli ospiti la qualità, l'affidabilità e la trasparenza delle strutture pubblicate.
+
+La crescita quantitativa della piattaforma non potrà mai prevalere sulla qualità dell'offerta ricettiva.
+
+---
+
+## Missione
+
+Ogni struttura pubblicata dovrà rappresentare un modello di qualità verificata.
+
+La fiducia degli ospiti costituisce il patrimonio più importante della piattaforma.
+
+---
+
+## Conseguenze
+
+Questo principio comporta che:
+
+- una struttura non conforme non verrà pubblicata;
+- il pagamento della quota associativa non garantisce la certificazione;
+- la certificazione dovrà essere conquistata;
+- i Validatori opereranno in piena autonomia;
+- ogni struttura dovrà mantenere nel tempo gli standard richiesti.
+
+---
+
+## Obiettivo
+
+Vacanze Sicure intende diventare un marchio riconosciuto per la qualità delle strutture aderenti.
+
+Il successo della piattaforma sarà misurato principalmente dal livello di fiducia degli ospiti e dalla qualità delle strutture certificate, e non dal semplice numero di annunci pubblicati.
+
+---
+
+## Motto
+
+**"Meglio mille strutture eccellenti che centomila strutture sconosciute."**
+
