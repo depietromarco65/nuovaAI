@@ -587,3 +587,86 @@ Media
 ### Stato
 
 Nuova
+
+## IDEA VS-00XX - Architettura del Marchio Vacanze Sicure
+
+### Stato
+
+🟡 Da valutare
+
+---
+
+### Descrizione
+
+Vacanze Sicure dovrà essere sviluppato come un ecosistema di servizi e non come un semplice portale turistico.
+
+Il marchio "Vacanze Sicure" rappresenterà l'identità principale dell'intero progetto.
+
+I diversi servizi saranno identificati mediante una declinazione del marchio, mantenendo una forte coerenza grafica e comunicativa.
+
+---
+
+### Possibili marchi derivati
+
+- Vacanze Sicure (marchio principale)
+- Vacanze Sicure Ospite
+- Vacanze Sicure Host
+- Vacanze Sicure Partner
+- Vacanze Sicure PMS
+- Vacanze Sicure AI
+- Vacanze Sicure Travel
+- Vacanze Sicure Ispettori
+- Vacanze Sicure Academy
+- Vacanze Sicure Business
+
+---
+
+### Identità visiva
+
+Ogni servizio dovrà mantenere:
+
+- il medesimo simbolo;
+- il medesimo font;
+- la stessa filosofia grafica;
+- colori distintivi per identificare il tipo di utenza.
+
+Esempio:
+
+🔵 Ospite
+
+🟢 Host
+
+🟣 Portale
+
+🟠 Partner
+
+🔴 Amministrazione
+
+⚫ AI
+
+---
+
+### Obiettivi
+
+- rendere immediatamente riconoscibile ogni servizio;
+- rafforzare il marchio principale;
+- semplificare la comunicazione;
+- creare un ecosistema coerente;
+- facilitare l'espansione futura della piattaforma.
+
+---
+
+### Note progettuali
+
+Il logo principale dovrà poter essere declinato mantenendo un'identità comune.
+
+L'utente dovrà riconoscere immediatamente l'appartenenza di ogni servizio all'ecosistema Vacanze Sicure.
+
+---
+
+### Documenti collegati
+
+- 11_IDENTITA_VISIVA.md
+- 10_MODELLO_ECONOMICO.md
+- 01_PMS_CORE.md
+- 100_REGISTRO_IDEE.md
