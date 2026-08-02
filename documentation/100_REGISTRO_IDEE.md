@@ -2079,3 +2079,16 @@ Le strutture con candidatura in corso possono essere visibili, ma lo stato della
 
 La piattaforma deve privilegiare la massima trasparenza rispetto alla semplice quantità di annunci pubblicati.
 
+# Analisi automatica delle email
+
+L'Assistente AI può analizzare automaticamente le email provenienti da OTA, PMS, Channel Manager e servizi esterni.
+
+Tra le funzioni:
+
+- riconoscimento notifiche di sicurezza;
+- individuazione di possibili tentativi di phishing;
+- spiegazione del contenuto dell'email;
+- suggerimento delle azioni da intraprendere;
+- classificazione automatica per categoria (sicurezza, prenotazioni, pagamenti, documentazione, ecc.).
+
+L'AI archivia le email analizzate e le utilizza per migliorare la Knowledge Base.
