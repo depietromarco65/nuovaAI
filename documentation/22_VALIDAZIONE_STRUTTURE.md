@@ -283,3 +283,17 @@ Le segnalazioni provenienti dagli enti istituzionali seguono una procedura dedic
 Ogni segnalazione viene valutata in base al livello di criticità e alle evidenze disponibili.
 
 Le decisioni di sospensione o revoca della certificazione sono assunte esclusivamente al termine del procedimento previsto dalla piattaforma, salvo i casi di particolare urgenza disciplinati dal regolamento.
+
+# Matrice delle criticità
+
+La piattaforma utilizza una matrice di valutazione delle criticità.
+
+Ogni segnalazione riceve un punteggio determinato da:
+
+- ente segnalante;
+- gravità;
+- attendibilità;
+- documentazione;
+- eventuale provvedimento amministrativo.
+
+Il punteggio determina automaticamente la priorità della pratica e le verifiche da attivare.
