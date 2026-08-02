@@ -2063,4 +2063,19 @@ Può:
 
 Le FAQ devono rappresentare una base di conoscenza dinamica, costruita direttamente dalle esigenze reali degli utenti e mantenuta costantemente aggiornata dall'Assistente AI.
 
+## IDEA #048 – Candidatura con Stato Pubblico
+
+Vacanze Sicure non pubblica automaticamente strutture o attività.
+
+Chiunque può candidarsi.
+
+Ogni candidatura è pubblicamente identificata mediante uno stato di avanzamento rappresentato da un'icona.
+
+L'utente può conoscere in qualsiasi momento il livello di avanzamento della pratica.
+
+Solo le strutture certificate possono ricevere richieste di prenotazione.
+
+Le strutture con candidatura in corso possono essere visibili, ma lo stato della candidatura deve essere sempre chiaramente indicato.
+
+La piattaforma deve privilegiare la massima trasparenza rispetto alla semplice quantità di annunci pubblicati.
 
