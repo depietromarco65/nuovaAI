@@ -258,3 +258,18 @@ oppure
 Candidatura non approvata
 
 Lo storico rimane sempre consultabile.
+
+---
+
+# Consultazione istituzionale
+
+Le informazioni relative alla certificazione possono essere rese disponibili agli enti autorizzati secondo i livelli di accesso definiti dalla piattaforma e nel rispetto della normativa vigente.
+
+Ogni consultazione è tracciata e registrata.
+
+La disponibilità delle informazioni dipende:
+
+- dal ruolo dell'ente;
+- dalle autorizzazioni assegnate;
+- dalle convenzioni eventualmente sottoscritte;
+- dalle disposizioni di legge applicabili.
