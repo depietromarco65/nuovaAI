@@ -1364,3 +1364,15 @@ La piattaforma accompagnerà il turista dalla scelta della destinazione fino al 
 Ogni funzionalità, ogni procedura e ogni servizio dovranno essere progettati con un unico obiettivo:
 
 Aumentare la qualità dell'ospitalità, la trasparenza e la fiducia tra tutte le parti coinvolte.
+
+## PRINCIPIO FONDAMENTALE
+
+Vacanze Sicure non comunica il software.
+
+Comunica il valore che il software genera.
+
+L'utente non sceglie un PMS.
+
+L'utente sceglie una piattaforma che migliora la qualità dell'ospitalità, aumenta la fiducia tra le persone e valorizza il territorio.
+
+Ogni pagina del sito dovrà spiegare prima il beneficio e solo dopo la funzionalità tecnica.
