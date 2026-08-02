@@ -670,3 +670,183 @@ L'utente dovrà riconoscere immediatamente l'appartenenza di ogni servizio all'e
 - 10_MODELLO_ECONOMICO.md
 - 01_PMS_CORE.md
 - 100_REGISTRO_IDEE.md
+
+## IDEA VS-00XX - Sistema di Validazione delle Strutture
+
+### Stato
+
+🟢 Approvata
+
+---
+
+## Descrizione
+
+Ogni nuova struttura inserita nella piattaforma non potrà essere pubblicata immediatamente.
+
+La struttura entrerà automaticamente nello stato **"In Attesa di Validazione"** e sarà assegnata ad un Validatore competente per territorio.
+
+Solo al termine della procedura di validazione la struttura potrà essere pubblicata sul portale.
+
+---
+
+## Obiettivi
+
+Il sistema ha lo scopo di:
+
+- garantire la reale esistenza della struttura;
+- aumentare la fiducia degli ospiti;
+- evitare annunci falsi;
+- verificare la corrispondenza tra quanto dichiarato e la realtà;
+- migliorare la qualità complessiva della piattaforma.
+
+---
+
+## Workflow
+
+Nuova struttura
+
+↓
+
+Registrazione
+
+↓
+
+Assegnazione automatica al Validatore
+
+↓
+
+Verifica documentale
+
+↓
+
+Verifica della struttura
+
+↓
+
+Compilazione Scheda di Validazione
+
+↓
+
+Eventuale richiesta di integrazioni
+
+↓
+
+Approvazione
+
+↓
+
+Pubblicazione
+
+---
+
+## Stati della struttura
+
+Ogni struttura dovrà avere uno stato ben definito.
+
+🟡 In compilazione
+
+🟠 In attesa di validazione
+
+🔵 Validazione in corso
+
+🟣 In attesa di integrazioni
+
+🟢 Struttura validata
+
+🔴 Validazione respinta
+
+⚫ Struttura sospesa
+
+---
+
+## Icone di stato
+
+La piattaforma dovrà mostrare in modo chiaro lo stato della struttura.
+
+Esempio:
+
+🟠 Orologio → In attesa di validazione
+
+🔵 Lente → Validazione in corso
+
+🟣 Documento → Richiesta integrazioni
+
+🟢 Scudo Validato → Struttura verificata
+
+🔴 X → Validazione non superata
+
+---
+
+## Compiti del Validatore
+
+Il Validatore dovrà verificare almeno:
+
+- esistenza della struttura;
+- titolarità del gestore;
+- documentazione amministrativa;
+- localizzazione geografica;
+- fotografie;
+- corrispondenza tra descrizione e realtà;
+- servizi dichiarati;
+- stato manutentivo;
+- pulizia;
+- sicurezza;
+- accessibilità;
+- qualità dell'accoglienza.
+
+---
+
+## Scheda di Valutazione
+
+Ogni categoria di struttura dovrà avere una propria scheda di valutazione.
+
+Ad esempio:
+
+- Hotel
+- B&B
+- Casa Vacanze
+- Appartamento
+- Agriturismo
+- Campeggio
+- Glamping
+- Albergo Diffuso
+- Area Camper
+
+Ogni scheda conterrà criteri specifici e punteggi dedicati.
+
+---
+
+## Pubblicazione
+
+Solo le strutture che avranno completato con esito positivo la procedura di validazione potranno ottenere il badge ufficiale:
+
+🛡️ **Struttura Validata Vacanze Sicure**
+
+Il badge sarà visibile:
+
+- nella scheda della struttura;
+- nei risultati di ricerca;
+- nel profilo del proprietario;
+- nelle comunicazioni della piattaforma.
+
+---
+
+## Evoluzioni future
+
+Il sistema potrà prevedere:
+
+- validazioni periodiche;
+- rinnovo automatico della validazione;
+- segnalazioni degli ospiti;
+- controlli straordinari;
+- sospensione automatica in presenza di gravi anomalie.
+
+---
+
+## Documenti da realizzare
+
+- 22_VALIDAZIONE_STRUTTURE.md
+- 22.01_WORKFLOW_VALIDAZIONE.md
+- 22.02_SCHEDE_DI_VALUTAZIONE.md
+- 22.03_CRITERI_DI_VALUTAZIONE.md
+- 22.04_BADGE_E_CERTIFICAZIONI.md
