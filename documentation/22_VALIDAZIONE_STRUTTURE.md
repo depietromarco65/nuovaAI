@@ -110,3 +110,151 @@ Tra gli elementi da considerare:
 - eventuali difficoltà di orientamento.
 
 L'obiettivo è ridurre al minimo le criticità che potrebbero compromettere l'inizio del soggiorno.
+
+# Stato della candidatura
+
+## Principio
+
+Qualsiasi soggetto può candidarsi ad entrare nella piattaforma Vacanze Sicure.
+
+La candidatura non comporta automaticamente l'approvazione né la certificazione.
+
+Il pagamento della quota associativa consente esclusivamente l'apertura della pratica di candidatura e l'avvio del processo di valutazione.
+
+La quota associativa non garantisce in alcun modo:
+
+- la pubblicazione della struttura;
+- la pubblicazione dell'attività;
+- la certificazione;
+- la possibilità di ricevere richieste dagli ospiti.
+
+Solo il completamento con esito positivo dell'intero processo di validazione abilita la certificazione.
+
+---
+
+# Soggetti candidabili
+
+Possono candidarsi:
+
+- Case Vacanza
+- Hotel
+- B&B
+- Agriturismi
+- Residence
+- Campeggi
+- Villaggi turistici
+
+e tutte le attività di servizio quali:
+
+- Ristoranti
+- Lidi
+- Escursioni
+- Noleggio Auto
+- Noleggio Scooter
+- Noleggio Biciclette
+- Taxi
+- NCC
+- Guide Turistiche
+- Transfer
+- Fotografi
+- Servizi di Pulizia
+- Manutentori
+- Baby Sitter
+- Dog Sitter
+- Partner Convenzionati
+
+---
+
+# Stati della candidatura
+
+Ogni candidatura possiede uno stato identificato da un'icona univoca.
+
+⚪ Candidatura ricevuta
+
+La pratica è stata registrata.
+
+---
+
+🟡 Verifica documentale
+
+Controllo della documentazione.
+
+---
+
+🟠 Adeguamenti richiesti
+
+Sono necessari documenti o interventi prima di proseguire.
+
+---
+
+🔵 Validazione in corso
+
+Sono in corso verifiche tecniche e/o sopralluoghi.
+
+---
+
+🟢 Certificato Vacanze Sicure
+
+La candidatura è stata approvata.
+
+Solo questo stato abilita:
+
+- pubblicazione;
+- ricezione richieste;
+- certificazione.
+
+---
+
+⚫ Certificazione sospesa
+
+La certificazione è temporaneamente sospesa.
+
+La struttura rimane visibile con l'indicazione dello stato.
+
+Non riceve nuove richieste fino alla riattivazione.
+
+---
+
+🔴 Candidatura non approvata
+
+La candidatura non ha superato il processo di valutazione.
+
+L'interessato potrà presentare una nuova candidatura dopo aver risolto le criticità evidenziate.
+
+---
+
+# Timeline della candidatura
+
+Ogni candidatura mantiene una cronologia completa.
+
+Esempio:
+
+✓ Candidatura
+
+↓
+
+✓ Documentazione
+
+↓
+
+✓ Verifica
+
+↓
+
+✓ Prescrizioni
+
+↓
+
+✓ Validazione
+
+↓
+
+✓ Certificazione
+
+oppure
+
+↓
+
+Candidatura non approvata
+
+Lo storico rimane sempre consultabile.
