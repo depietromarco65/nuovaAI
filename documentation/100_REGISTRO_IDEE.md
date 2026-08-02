@@ -1353,4 +1353,14 @@ La piattaforma dovrà accompagnarlo durante tutto il periodo che precede il sogg
 - migliorare l'esperienza di viaggio;
 - creare un rapporto continuativo tra ospite e struttura.
 
+# PRINCIPIO FONDAMENTALE
 
+Vacanze Sicure non nasce per gestire prenotazioni.
+
+Vacanze Sicure nasce per creare fiducia.
+
+La piattaforma accompagnerà il turista dalla scelta della destinazione fino al ritorno a casa.
+
+Ogni funzionalità, ogni procedura e ogni servizio dovranno essere progettati con un unico obiettivo:
+
+Aumentare la qualità dell'ospitalità, la trasparenza e la fiducia tra tutte le parti coinvolte.
