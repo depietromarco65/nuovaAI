@@ -1716,3 +1716,351 @@ Ogni categoria è attivabile/disattivabile tramite livelli indipendenti.
 Ogni struttura possiede una scheda "Contesto" con tutte le distanze dai principali servizi.
 
 La mappa costituirà uno degli elementi distintivi di Vacanze Sicure.
+
+# 25_ASSISTENTE_AI.md
+
+# Assistente AI Vacanze Sicure
+
+## Principio
+
+L'Assistente AI deve essere il primo punto di contatto tra l'utente e la piattaforma.
+
+L'obiettivo è risolvere autonomamente la maggior parte delle richieste e coinvolgere un operatore umano solo quando realmente necessario.
+
+---
+
+# Presa in carico
+
+L'Assistente AI accoglie sempre l'utente.
+
+Esempio:
+
+"Ciao! Sono l'Assistente AI di Vacanze Sicure.
+Posso aiutarti a trovare una struttura, gestire una prenotazione, richiedere una certificazione o rispondere alle tue domande."
+
+---
+
+# Gestione della richiesta
+
+L'Assistente AI:
+
+- comprende la richiesta;
+- consulta la documentazione disponibile;
+- propone una soluzione;
+- indica i passaggi da seguire.
+
+---
+
+# Escalation
+
+Quando la richiesta richiede l'intervento umano, il sistema assegna automaticamente il ticket al reparto competente.
+
+Possibili destinazioni:
+
+- Assistenza Ospiti
+- Assistenza Proprietari
+- Validatori
+- Amministrazione
+- Supporto Tecnico
+- Commerciale
+
+L'utente viene informato che la richiesta è stata presa in carico.
+
+---
+
+# Soddisfazione
+
+Al termine della conversazione il sistema richiede sempre un feedback.
+
+Domanda:
+
+"La risposta è stata utile?"
+
+Valutazione:
+
+⭐⭐⭐⭐⭐
+
+oppure
+
+👍 Utile
+
+👎 Non utile
+
+---
+
+# Commenti
+
+L'utente può lasciare un commento libero.
+
+---
+
+# Apprendimento
+
+Ogni feedback viene memorizzato.
+
+Le conversazioni con valutazione negativa vengono analizzate per migliorare continuamente l'Assistente AI.
+
+---
+
+# Statistiche
+
+Il sistema monitora:
+
+- numero conversazioni;
+- tempo medio di risposta;
+- richieste risolte automaticamente;
+- richieste trasferite ad operatori;
+- valutazione media;
+- argomenti più richiesti.
+
+---
+
+# Obiettivo
+
+L'Assistente AI deve riuscire a risolvere autonomamente almeno l'80% delle richieste senza intervento umano, mantenendo sempre la possibilità di passare rapidamente ad un operatore quando necessario.
+
+---
+
+# Memoria Intelligente dell'Assistente AI
+
+## Principio
+
+L'Assistente AI apprende continuamente dall'utilizzo della piattaforma.
+
+Ogni conversazione costituisce una fonte di conoscenza che contribuisce al miglioramento del sistema.
+
+---
+
+# Registrazione delle conversazioni
+
+Per ogni conversazione vengono memorizzati:
+
+- Data e ora
+- Utente
+- Categoria della richiesta
+- Domanda originale
+- Risposta fornita
+- Documenti consultati
+- Eventuale intervento umano
+- Tempo di risposta
+- Esito finale
+- Valutazione dell'utente
+
+---
+
+# Base di Conoscenza
+
+Ogni domanda e relativa risposta vengono archiviate nella Knowledge Base di Vacanze Sicure.
+
+L'AI utilizza questo archivio per:
+
+- evitare risposte duplicate;
+- migliorare le risposte future;
+- proporre automaticamente le soluzioni più efficaci;
+- suggerire aggiornamenti della documentazione.
+
+---
+
+# Apprendimento continuo
+
+L'AI identifica automaticamente:
+
+- domande più frequenti;
+- domande senza risposta;
+- risposte non soddisfacenti;
+- nuovi argomenti ricorrenti;
+- informazioni mancanti nella documentazione.
+
+Quando rileva argomenti ricorrenti, propone automaticamente la creazione o l'aggiornamento delle FAQ e dei documenti del progetto.
+
+---
+
+# Miglioramento automatico
+
+Ogni risposta può essere classificata come:
+
+- Confermata
+- Migliorata
+- Corretta
+- Sostituita
+- Obsoleta
+
+L'AI utilizza sempre la versione più aggiornata.
+
+---
+
+# Ricerca semantica
+
+L'AI non ricerca soltanto parole chiave.
+
+Comprende il significato della domanda e recupera anche conversazioni simili, documentazione tecnica e procedure già utilizzate.
+
+---
+
+# Memoria storica
+
+Ogni decisione progettuale viene conservata.
+
+L'AI deve poter rispondere anche a domande del tipo:
+
+- Perché è stata presa questa decisione?
+- Quando è stata introdotta questa funzione?
+- Chi ha proposto questa modifica?
+- Quali alternative erano state valutate?
+
+---
+
+# Obiettivo
+
+L'Assistente AI deve diventare nel tempo il principale patrimonio di conoscenza di Vacanze Sicure, conservando tutta l'esperienza maturata dalla piattaforma e migliorando continuamente la qualità delle risposte.
+
+---
+
+# FAQ Dinamiche e Auto-Aggiornanti
+
+## Principio
+
+Le FAQ non vengono aggiornate manualmente.
+
+Sono generate e aggiornate automaticamente dall'Assistente AI sulla base delle domande realmente poste dagli utenti.
+
+---
+
+# Analisi automatica
+
+L'AI analizza continuamente tutte le conversazioni.
+
+Per ogni richiesta identifica:
+
+- argomento
+- categoria
+- frequenza
+- qualità della risposta
+- eventuali aggiornamenti
+
+---
+
+# Generazione FAQ
+
+Quando una domanda raggiunge una determinata frequenza, il sistema propone automaticamente la creazione di una nuova FAQ.
+
+La FAQ viene classificata nella categoria corretta.
+
+---
+
+# Aggiornamento continuo
+
+Ogni modifica alla risposta aggiorna automaticamente anche la relativa FAQ.
+
+In questo modo il contenuto rimane sempre allineato alla Knowledge Base.
+
+---
+
+# Categorie FAQ
+
+## Ospiti
+
+- Prenotazioni
+- Pagamenti
+- Cancellazioni
+- No-Show
+- Check-in
+- Check-out
+- Certificazione strutture
+- Passaporto Qualità
+- Assicurazione viaggio
+- Servizi
+
+---
+
+## Proprietari
+
+- Registrazione struttura
+- Validazione
+- Certificazione
+- Documentazione
+- Prenotazioni
+- Calendario
+- Tariffe
+- Commissioni
+- No-Show
+- Recensioni
+
+---
+
+## Validatori
+
+- Procedure
+- Check-list
+- Sopralluoghi
+- Prescrizioni
+- Sospensioni
+- Certificazioni
+- Audit
+
+---
+
+## Partner
+
+- Convenzioni
+- Servizi
+- Promozioni
+- Marketing
+
+---
+
+## Tecnico
+
+- Accesso
+- Password
+- Sicurezza
+- API
+- Integrazioni
+- Importazione dati
+
+---
+
+# FAQ Intelligenti
+
+Le FAQ non sono semplici domande e risposte.
+
+Ogni FAQ contiene:
+
+- domanda principale;
+- domande correlate;
+- procedure operative;
+- documentazione collegata;
+- video (se disponibili);
+- modulistica;
+- riferimenti normativi;
+- aggiornamenti.
+
+---
+
+# Collegamento alla Knowledge Base
+
+Ogni FAQ è collegata direttamente alla documentazione tecnica.
+
+Quando un documento viene aggiornato, tutte le FAQ interessate vengono aggiornate automaticamente.
+
+---
+
+# Revisione AI
+
+L'Assistente AI esegue controlli periodici.
+
+Può:
+
+- individuare FAQ obsolete;
+- unire FAQ simili;
+- eliminare duplicati;
+- suggerire nuove categorie;
+- proporre miglioramenti del testo.
+
+---
+
+# Obiettivo
+
+Le FAQ devono rappresentare una base di conoscenza dinamica, costruita direttamente dalle esigenze reali degli utenti e mantenuta costantemente aggiornata dall'Assistente AI.
+
+
