@@ -72,6 +72,28 @@ La scelta definitiva sarà oggetto di uno studio grafico dedicato.
 
 ---
 
+# 4.1 VALORI DEL MARCHIO
+
+Il marchio Vacanze Sicure dovrà comunicare immediatamente i seguenti valori:
+
+🤝 Fiducia
+
+🛡 Sicurezza
+
+🏡 Ospitalità
+
+🌍 Territorio
+
+❤️ Collaborazione
+
+🌿 Sostenibilità
+
+💡 Innovazione
+
+⭐ Qualità
+
+---
+
 # 5. COLORI ISTITUZIONALI
 
 I colori ufficiali saranno definiti successivamente.
