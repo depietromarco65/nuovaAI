@@ -245,3 +245,11 @@ Il proprietario può aderire volontariamente al Programma Turismo Solidale.
 L'adesione consente di rendere disponibili periodi, alloggi o condizioni economiche dedicate a progetti sociali, sanitari o di emergenza.
 
 La partecipazione è completamente facoltativa e può essere modificata o revocata in qualsiasi momento.
+
+# Adesione alla Rete di Ospitalità Solidale
+
+Le strutture ricettive possono aderire volontariamente alla Rete di Ospitalità Solidale.
+
+L'adesione consente di manifestare la disponibilità ad accogliere persone o famiglie in situazioni di emergenza, secondo le modalità e i limiti definiti dal proprietario e dalle eventuali convenzioni attive.
+
+L'adesione è libera, revocabile in qualsiasi momento e non comporta obblighi automatici di accettazione delle richieste.
