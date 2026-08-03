@@ -105,3 +105,17 @@ Possono aderire, a titolo volontario e previa verifica dei requisiti:
 - Enti convenzionati.
 
 Ogni struttura aderente è sottoposta a verifica dei requisiti minimi di sicurezza, agibilità e idoneità rispetto all'utilizzo previsto.
+
+# Ambiti di intervento
+
+La Rete di Ospitalità Solidale può essere attivata, secondo le modalità previste dai regolamenti e dalle convenzioni, nei casi di:
+
+- soggiorni per cure mediche;
+- familiari di pazienti ricoverati;
+- emergenze turistiche;
+- ricollocazione di turisti vittime di truffe;
+- calamità naturali;
+- emergenze di protezione civile;
+- situazioni di particolare vulnerabilità segnalate dagli enti competenti.
+
+Ogni richiesta viene valutata singolarmente e gestita nel rispetto della normativa vigente.
