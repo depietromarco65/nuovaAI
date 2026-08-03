@@ -251,3 +251,34 @@ Vacanze Sicure non è soltanto una piattaforma tecnologica.
 È un progetto di interesse collettivo che mette al centro la sicurezza delle persone, la qualità dell'ospitalità e la collaborazione tra pubblico, privato e società civile.
 
 La governance è progettata per garantire indipendenza, trasparenza e continuità nel tempo, assicurando che ogni decisione sia orientata alla tutela degli ospiti, alla valorizzazione delle strutture virtuose e allo sviluppo sostenibile del turismo.
+
+# Collaborazione con le Camere di Commercio e le Associazioni di Categoria
+
+Vacanze Sicure promuove il dialogo e la collaborazione con le Camere di Commercio e con le principali Associazioni di Categoria operanti nel settore turistico.
+
+L'obiettivo è favorire:
+
+- la diffusione della cultura della qualità;
+- la promozione della legalità;
+- la valorizzazione delle imprese virtuose;
+- la formazione degli operatori;
+- la condivisione di buone pratiche;
+- l'aggiornamento degli standard di certificazione;
+- la promozione del territorio.
+
+Tra i possibili interlocutori rientrano, a titolo esemplificativo:
+
+- Camere di Commercio;
+- Confcommercio;
+- Confesercenti;
+- Federalberghi;
+- FIAIP Turismo;
+- CNA Turismo;
+- Confartigianato Turismo;
+- Associazioni degli Host;
+- Consorzi turistici;
+- DMO (Destination Management Organization);
+- GAL (Gruppi di Azione Locale);
+- altri enti rappresentativi del settore.
+
+Le forme di collaborazione potranno essere disciplinate mediante protocolli d'intesa, convenzioni o accordi operativi, nel rispetto dell'autonomia e delle competenze di ciascun soggetto.
