@@ -287,3 +287,11 @@ L'ospite non sceglie semplicemente una struttura.
 Sceglie un'esperienza fondata su trasparenza, verificabilità, assistenza continua e fiducia.
 
 Ogni prenotazione è supportata da informazioni verificabili, da un percorso di certificazione e da strumenti di assistenza che accompagnano il viaggiatore prima, durante e dopo il soggiorno.
+
+# Richieste di Turismo Solidale
+
+Gli utenti che rientrano nei programmi di Turismo Solidale possono presentare una richiesta di assistenza.
+
+La piattaforma verifica i requisiti previsti e ricerca le strutture aderenti più idonee.
+
+L'Assistente AI accompagna il richiedente durante l'intera procedura.
