@@ -85,3 +85,23 @@ L'Assistente AI può:
 L'ospitalità rappresenta un valore sociale oltre che economico.
 
 Quando possibile, la piattaforma favorisce iniziative che contribuiscono al benessere delle persone e del territorio.37_TURISMO_SOLIDALE.md
+
+# Rete di Ospitalità Solidale
+
+Vacanze Sicure può sviluppare una rete di Ospitalità Solidale coinvolgendo enti pubblici, enti del Terzo Settore, organizzazioni religiose e associazioni di volontariato.
+
+L'obiettivo è mettere a disposizione, nei casi previsti, strutture idonee per ospitalità temporanea in situazioni di particolare necessità.
+
+Possono aderire, a titolo volontario e previa verifica dei requisiti:
+
+- Parrocchie;
+- Diocesi;
+- Caritas;
+- Gruppi Scout;
+- Associazioni di volontariato;
+- Fondazioni;
+- Enti del Terzo Settore;
+- Cooperative sociali;
+- Enti convenzionati.
+
+Ogni struttura aderente è sottoposta a verifica dei requisiti minimi di sicurezza, agibilità e idoneità rispetto all'utilizzo previsto.
