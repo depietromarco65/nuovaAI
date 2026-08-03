@@ -237,3 +237,11 @@ Ogni operazione viene registrata e associata all'utente che l'ha eseguita.
 L'Area Proprietari non è soltanto un pannello di controllo.
 
 È uno spazio di lavoro intelligente che accompagna il proprietario durante tutto il ciclo di vita della struttura, dalla candidatura alla certificazione, fino alla gestione delle prenotazioni e dei rapporti con gli ospiti.
+
+# Turismo Solidale
+
+Il proprietario può aderire volontariamente al Programma Turismo Solidale.
+
+L'adesione consente di rendere disponibili periodi, alloggi o condizioni economiche dedicate a progetti sociali, sanitari o di emergenza.
+
+La partecipazione è completamente facoltativa e può essere modificata o revocata in qualsiasi momento.
