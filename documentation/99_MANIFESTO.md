@@ -31,3 +31,13 @@ Ogni condizione della prenotazione deve essere chiara fin dall'inizio:
 Una prenotazione trasparente riduce incomprensioni, contestazioni e richieste di chiarimento.
 
 La fiducia nasce dalla chiarezza.
+
+## La fiducia si verifica
+
+La fiducia non può basarsi esclusivamente su fotografie, descrizioni o recensioni.
+
+Una struttura deve essere identificabile, verificabile e monitorata nel tempo.
+
+Vacanze Sicure nasce per offrire agli ospiti strumenti concreti per verificare l'affidabilità di una struttura prima della prenotazione.
+
+
