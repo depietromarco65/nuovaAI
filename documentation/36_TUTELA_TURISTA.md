@@ -214,3 +214,9 @@ Ogni pratica rappresenta un'opportunità per migliorare la sicurezza dell'intero
 Nei casi di particolare rilevanza sociale o sanitaria, Vacanze Sicure può attivare procedure straordinarie di assistenza e ricollocazione, anche in collaborazione con enti pubblici, associazioni e strutture aderenti al Programma Turismo Solidale.
 
 Le modalità operative sono disciplinate da specifici regolamenti e convenzioni.
+
+# Ricollocazione Solidale
+
+Qualora non sia possibile individuare tempestivamente una struttura ricettiva disponibile, la piattaforma può estendere la ricerca alle strutture aderenti alla Rete di Ospitalità Solidale.
+
+L'eventuale ricollocazione avviene esclusivamente presso strutture che abbiano aderito volontariamente al progetto e che risultino idonee secondo i requisiti definiti dalla piattaforma e dalle normative applicabili.
