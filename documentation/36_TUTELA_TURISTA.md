@@ -208,3 +208,9 @@ La tutela del turista non consiste soltanto nel risolvere un problema.
 Consiste nel prevenirlo attraverso la certificazione delle strutture, la trasparenza delle informazioni, il monitoraggio continuo e un sistema di assistenza capace di intervenire rapidamente quando si verificano situazioni critiche.
 
 Ogni pratica rappresenta un'opportunità per migliorare la sicurezza dell'intero sistema turistico.
+
+# Emergenze umanitarie e sanitarie
+
+Nei casi di particolare rilevanza sociale o sanitaria, Vacanze Sicure può attivare procedure straordinarie di assistenza e ricollocazione, anche in collaborazione con enti pubblici, associazioni e strutture aderenti al Programma Turismo Solidale.
+
+Le modalità operative sono disciplinate da specifici regolamenti e convenzioni.
