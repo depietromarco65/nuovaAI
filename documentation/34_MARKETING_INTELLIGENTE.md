@@ -291,3 +291,131 @@ La migliore comunicazione non convince.
 Dimostra.
 
 La fiducia nasce quando le persone riconoscono che chi comunica conosce realmente il loro lavoro e propone soluzioni concrete ai loro problemi.
+
+---
+
+# Onboarding
+
+## Principio
+
+L'onboarding rappresenta il primo contatto tra l'utente e Vacanze Sicure.
+
+Non deve limitarsi a confermare una registrazione.
+
+Deve accogliere, orientare e trasmettere immediatamente i valori della piattaforma.
+
+---
+
+## Benvenuto
+
+La comunicazione di benvenuto deve spiegare:
+
+- perché esiste Vacanze Sicure;
+- cosa può fare l'utente;
+- quali vantaggi otterrà;
+- quali saranno i prossimi passi.
+
+L'obiettivo è accompagnare l'utente e non semplicemente confermare la creazione dell'account.
+
+---
+
+## Primo Valore
+
+Ogni messaggio di benvenuto deve trasmettere almeno uno dei valori fondanti della piattaforma.
+
+Ad esempio:
+
+- fiducia;
+- trasparenza;
+- collaborazione;
+- qualità;
+- innovazione;
+- tutela dell'ospite;
+- valorizzazione del territorio.
+
+---
+
+## Onboarding Guidato
+
+Dopo la registrazione il sistema propone un percorso guidato.
+
+Ad esempio:
+
+1. completamento del profilo;
+2. verifica dell'identità;
+3. inserimento della struttura;
+4. caricamento delle fotografie;
+5. configurazione della disponibilità;
+6. attivazione dei servizi;
+7. certificazione della struttura.
+
+Ogni fase mostra chiaramente il livello di completamento raggiunto.
+
+---
+
+## Assistente AI
+
+L'Assistente AI accompagna l'utente durante tutto il percorso iniziale.
+
+Può:
+
+- spiegare ogni passaggio;
+- rispondere alle domande;
+- suggerire le attività successive;
+- individuare eventuali informazioni mancanti.
+
+---
+
+## Principio Vacanze Sicure
+
+Il primo giorno determina spesso la qualità dell'intera esperienza.
+
+Per questo motivo l'onboarding non rappresenta una semplice procedura tecnica, ma il primo passo nella costruzione di un rapporto di fiducia tra la piattaforma e i suoi utenti.
+
+---
+
+# Conferma dell'Identità
+
+## Principio
+
+La conferma dell'indirizzo email rappresenta il primo passo nella costruzione dell'identità digitale dell'utente.
+
+Non deve essere considerata una semplice verifica tecnica, ma l'inizio di un percorso guidato all'interno dell'ecosistema Vacanze Sicure.
+
+---
+
+## Comunicazione di Conferma
+
+Il messaggio di conferma deve:
+
+- rassicurare l'utente;
+- spiegare il valore del passo appena completato;
+- indicare chiaramente il passo successivo;
+- incoraggiare il completamento del profilo.
+
+Ogni comunicazione deve aiutare l'utente ad orientarsi e non limitarsi a confermare un'operazione tecnica.
+
+---
+
+## Percorso Guidato
+
+Dopo la conferma dell'email la piattaforma propone automaticamente il passo successivo.
+
+Ad esempio:
+
+- completare il profilo;
+- verificare l'identità digitale;
+- registrare la struttura;
+- configurare la disponibilità;
+- completare il Fascicolo della Struttura.
+
+L'utente conosce sempre il livello di avanzamento del proprio percorso.
+
+---
+
+## Principio Vacanze Sicure
+
+Ogni conferma rappresenta un'opportunità per accompagnare l'utente.
+
+La piattaforma non si limita a dire "operazione completata", ma spiega cosa è stato fatto, perché è importante e quale sarà il passo successivo.
+
