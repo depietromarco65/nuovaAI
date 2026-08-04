@@ -95,3 +95,21 @@ Vacanze Sicure nasce per mettere in relazione persone, strutture, servizi, terri
 Il sito web, il Booking Engine, il PMS, il CRM, il Channel Manager e l'Assistente AI sono strumenti.
 
 L'obiettivo è costruire un ecosistema capace di accompagnare l'intero ciclo dell'ospitalità, dalla scelta della destinazione fino al ritorno dell'ospite.
+
+---
+
+# Dalla Piattaforma all'Ecosistema
+
+Vacanze Sicure non nasce come un semplice software gestionale.
+
+Nel corso della progettazione il progetto si è evoluto fino a diventare un ecosistema digitale capace di mettere in relazione persone, strutture, servizi, istituzioni e territorio.
+
+Non sviluppiamo singole applicazioni.
+
+Progettiamo un sistema nel quale ogni componente dialoga con gli altri.
+
+Ogni nuova funzionalità deve contribuire a rafforzare l'ecosistema e non rappresentare un elemento isolato.
+
+L'obiettivo non è creare il miglior PMS.
+
+L'obiettivo è costruire il punto di riferimento digitale per l'ospitalità del territorio.
