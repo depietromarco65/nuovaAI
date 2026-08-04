@@ -524,3 +524,87 @@ L'interoperabilità rappresenta una scelta strategica e non un semplice requisit
 Vacanze Sicure si propone come **Hub Centrale dell'Ecosistema Turistico**, capace di dialogare con le piattaforme esistenti, valorizzarne le informazioni e trasformarle in servizi intelligenti per ospiti, proprietari, operatori e istituzioni.
 
 L'obiettivo finale non è soltanto sincronizzare dati, ma costruire un'infrastruttura aperta, affidabile e collaborativa che favorisca un turismo più trasparente, efficiente e sicuro.
+
+---
+
+# Integrazione con Sistemi Istituzionali
+
+Vacanze Sicure deve poter dialogare con le piattaforme istituzionali nazionali, regionali e locali previste dalla normativa vigente.
+
+L'obiettivo è ridurre gli adempimenti manuali degli operatori, evitando duplicazioni di inserimento dati e diminuendo il rischio di errori o omissioni.
+
+---
+
+## Esempi di integrazione
+
+La piattaforma può prevedere integrazioni con:
+
+- Alloggiati Web (Polizia di Stato);
+- SPOT Easy / DMS Puglia;
+- Ross1000 e sistemi regionali equivalenti;
+- ISTAT - Movimento Turistico;
+- Portali regionali del turismo;
+- Comuni;
+- SUAP;
+- Ministero del Turismo;
+- Banca Dati delle Strutture Ricettive (BDSR);
+- altri sistemi istituzionali nazionali o regionali.
+
+---
+
+## Promemoria intelligenti
+
+Il sistema monitora le scadenze amministrative associate a ciascuna struttura.
+
+Ad esempio:
+
+- invio dati statistici;
+- comunicazioni obbligatorie;
+- aggiornamento documentazione;
+- rinnovo certificazioni;
+- scadenza autorizzazioni.
+
+Le notifiche vengono inviate con congruo anticipo rispetto alle scadenze previste.
+
+---
+
+## Invio automatico
+
+Quando consentito dalla normativa e dalle interfacce tecniche disponibili, Vacanze Sicure può predisporre l'invio automatico dei dati verso i sistemi istituzionali.
+
+Qualora l'invio automatico non sia possibile, il sistema assiste l'operatore nella predisposizione dei dati necessari.
+
+---
+
+## Controlli preventivi
+
+Prima dell'invio dei dati, la piattaforma verifica automaticamente:
+
+- completezza delle informazioni;
+- coerenza dei dati;
+- eventuali anomalie;
+- incongruenze tra prenotazioni e comunicazioni obbligatorie.
+
+L'obiettivo è ridurre gli errori e prevenire eventuali contestazioni.
+
+---
+
+## Storico delle trasmissioni
+
+Ogni comunicazione effettuata verso sistemi esterni viene registrata nel Fascicolo della Struttura.
+
+Per ciascuna trasmissione vengono conservati:
+
+- data e ora;
+- sistema destinatario;
+- tipologia di comunicazione;
+- esito;
+- eventuali errori riscontrati.
+
+---
+
+## Principio Vacanze Sicure
+
+La piattaforma non si limita a gestire le prenotazioni.
+
+Supporta gli operatori anche negli adempimenti amministrativi e nei rapporti con gli enti pubblici, trasformando gli obblighi periodici in procedure semplici, guidate e, quando possibile, automatizzate.
