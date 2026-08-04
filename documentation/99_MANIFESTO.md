@@ -78,3 +78,20 @@ L'obiettivo non è aggiungere un'altra piattaforma.
 
 È eliminare la necessità di utilizzarne così tante.
 
+---
+
+# Non vendiamo un sito web
+
+Vacanze Sicure non nasce per realizzare siti web.
+
+Non nasce per migliorare il posizionamento su Google.
+
+Non nasce per sostituire Booking o Airbnb.
+
+Questi strumenti rappresentano soltanto una parte dell'ecosistema dell'ospitalità.
+
+Vacanze Sicure nasce per mettere in relazione persone, strutture, servizi, territori e istituzioni attraverso un'unica piattaforma.
+
+Il sito web, il Booking Engine, il PMS, il CRM, il Channel Manager e l'Assistente AI sono strumenti.
+
+L'obiettivo è costruire un ecosistema capace di accompagnare l'intero ciclo dell'ospitalità, dalla scelta della destinazione fino al ritorno dell'ospite.
