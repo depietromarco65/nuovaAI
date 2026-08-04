@@ -460,3 +460,29 @@ Vacanze Sicure non è un portale turistico. Non è un PMS. Non è un Channel Man
 È il sistema operativo dell'ospitalità.
 
 Questa frase comunica immediatamente che state costruendo qualcosa di più ampio di una singola categoria di software, ed è coerente con tutti i documenti che abbiamo sviluppato finora.
+
+---
+
+# Il Valore della Guida
+
+## Principio
+
+Vacanze Sicure non propone soltanto strumenti tecnologici.
+
+Offre un percorso di accompagnamento.
+
+Ogni comunicazione deve trasmettere un messaggio semplice:
+
+"Non sarai lasciato solo."
+
+La piattaforma accompagna l'operatore:
+
+- prima dell'apertura della struttura;
+- durante la configurazione;
+- nella gestione quotidiana;
+- negli adempimenti;
+- nella crescita della propria attività.
+
+L'obiettivo non è vendere un software.
+
+È costruire un rapporto di fiducia duraturo.
