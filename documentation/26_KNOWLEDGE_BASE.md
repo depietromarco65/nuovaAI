@@ -942,3 +942,100 @@ Per ogni errore vengono memorizzati:
 - stato della risoluzione.
 
 L'Assistente AI utilizza tali informazioni per riconoscere automaticamente errori già noti e suggerire le azioni più appropriate.
+
+---
+
+# Motore Normativo Contestuale
+
+## Principio
+
+La Knowledge Base di Vacanze Sicure non rappresenta un semplice archivio documentale.
+
+È una base di conoscenza intelligente che alimenta l'Assistente AI e tutti i moduli della piattaforma.
+
+Tra le sue componenti principali vi è il Motore Normativo Contestuale.
+
+---
+
+## Obiettivo
+
+Il Motore Normativo rende disponibili le informazioni legislative e amministrative pertinenti in funzione del contesto dell'utente.
+
+L'utente non deve conoscere le norme.
+
+È la piattaforma che individua automaticamente le disposizioni applicabili.
+
+---
+
+## Contesto
+
+Ogni risposta viene elaborata considerando, ad esempio:
+
+- Regione;
+- Comune;
+- tipologia della struttura;
+- regime fiscale;
+- forma giuridica;
+- autorizzazioni possedute;
+- servizi offerti;
+- numero di unità;
+- caratteristiche dell'attività.
+
+La stessa domanda può produrre risposte differenti in funzione del contesto operativo.
+
+---
+
+## Ambiti
+
+Il Motore Normativo comprende, a titolo esemplificativo:
+
+- normativa nazionale;
+- normativa regionale;
+- regolamenti comunali;
+- adempimenti amministrativi;
+- normativa fiscale;
+- sicurezza;
+- privacy;
+- turismo;
+- lavoro;
+- ambiente;
+- accessibilità.
+
+---
+
+## Integrazione
+
+Il Motore Normativo dialoga con:
+
+- Assistente AI;
+- Workflow;
+- Fascicolo della Struttura;
+- Fascicolo della Prenotazione;
+- Gestione Documentale;
+- Motore delle Scadenze;
+- Dashboard.
+
+---
+
+## Fonti
+
+Quando possibile, ogni informazione viene collegata alla relativa fonte ufficiale.
+
+Le fonti possono comprendere:
+
+- Gazzetta Ufficiale;
+- Ministeri;
+- Regioni;
+- Comuni;
+- Agenzia delle Entrate;
+- ISTAT;
+- Polizia di Stato;
+- altri enti competenti.
+
+---
+
+## Principio Vacanze Sicure
+
+La normativa non deve rappresentare un ostacolo.
+
+La piattaforma trasforma la complessità legislativa in informazioni contestualizzate, comprensibili e immediatamente utilizzabili dagli operatori.
