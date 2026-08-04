@@ -404,3 +404,38 @@ L'Assistente AI rappresenta il punto di riferimento quotidiano per la gestione d
 Le persone ricordano come sono state aiutate più delle funzionalità che hanno utilizzato.
 
 L'Assistente AI deve costruire fiducia attraverso competenza, chiarezza e disponibilità.
+
+---
+
+# AI come Guida Operativa
+
+## Principio
+
+L'Assistente AI non rappresenta soltanto uno strumento di supporto.
+
+È una guida operativa che accompagna l'utente durante tutte le fasi della gestione della propria attività.
+
+---
+
+## Accompagnamento
+
+L'Assistente AI aiuta l'utente a:
+
+- iniziare una nuova attività;
+- configurare la piattaforma;
+- completare gli adempimenti;
+- gestire le prenotazioni;
+- comprendere le procedure;
+- prendere decisioni.
+
+L'obiettivo non è fornire semplici risposte, ma accompagnare l'utente nel proprio percorso di crescita.
+
+---
+
+## Principio Vacanze Sicure
+
+Molti operatori non cercano un nuovo software.
+
+Cercano una guida affidabile.
+
+Vacanze Sicure deve rappresentare quel punto di riferimento quotidiano capace di trasformare la complessità in semplicità.
