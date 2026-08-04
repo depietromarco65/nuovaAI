@@ -253,3 +253,20 @@ Le strutture ricettive possono aderire volontariamente alla Rete di Ospitalità 
 L'adesione consente di manifestare la disponibilità ad accogliere persone o famiglie in situazioni di emergenza, secondo le modalità e i limiti definiti dal proprietario e dalle eventuali convenzioni attive.
 
 L'adesione è libera, revocabile in qualsiasi momento e non comporta obblighi automatici di accettazione delle richieste.
+
+# Salute Digitale
+
+La dashboard mostra lo stato dei principali servizi digitali della struttura.
+
+Tra i controlli disponibili:
+
+- dominio attivo;
+- certificato SSL;
+- verifica WHOIS;
+- caselle email;
+- DNS;
+- raggiungibilità del sito;
+- backup;
+- scadenze tecniche.
+
+Ogni anomalia viene spiegata con un linguaggio semplice e accompagnata da suggerimenti operativi.
