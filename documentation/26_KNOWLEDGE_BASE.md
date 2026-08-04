@@ -216,3 +216,89 @@ Tra le funzioni:
 - classificazione automatica per categoria (sicurezza, prenotazioni, pagamenti, documentazione, ecc.).
 
 L'AI archivia le email analizzate e le utilizza per migliorare la Knowledge Base.
+
+# Centro Unificato della Conoscenza
+
+## Principio
+
+La Knowledge Base rappresenta la memoria ufficiale di Vacanze Sicure.
+
+Ogni informazione viene archiviata una sola volta e può essere utilizzata da:
+
+- Assistente AI;
+- FAQ;
+- Area Proprietari;
+- Area Ospiti;
+- Area Istituzionale;
+- Validatori;
+- Operatori;
+- Documentazione;
+- Manuali;
+- Guide operative.
+
+L'obiettivo è evitare duplicazioni e garantire coerenza nelle risposte.
+
+# FAQ Specializzate
+
+Le FAQ non costituiscono un documento unico.
+
+Ogni risposta viene classificata secondo la categoria di appartenenza.
+
+Ad esempio:
+
+- FAQ Ospiti;
+- FAQ Proprietari;
+- FAQ Agenzie;
+- FAQ Property Manager;
+- FAQ Validatori;
+- FAQ Enti Istituzionali;
+- FAQ Operatori;
+- FAQ Assistenza;
+- FAQ Amministrazione;
+- FAQ AI.
+
+Una stessa risposta può appartenere contemporaneamente a più categorie.
+
+# Risposta Unica
+
+Ogni argomento viene descritto una sola volta.
+
+Le FAQ richiamano la risposta ufficiale presente nella Knowledge Base.
+
+In questo modo ogni modifica aggiorna automaticamente tutte le categorie interessate.
+
+Non esistono copie della stessa risposta.
+
+# Apprendimento Continuo
+
+L'Assistente AI registra in forma anonima:
+
+- domande ricevute;
+- frequenza;
+- categorie interessate;
+- argomenti più richiesti;
+- risposte fornite;
+- eventuali difficoltà riscontrate.
+
+Queste informazioni vengono utilizzate per migliorare continuamente la Knowledge Base.
+
+# Domande senza risposta
+
+Quando il sistema non individua una risposta sufficientemente attendibile:
+
+- informa l'utente;
+- genera automaticamente un ticket;
+- assegna il ticket all'ufficio competente;
+- registra la nuova domanda.
+
+Dopo la validazione della risposta da parte degli operatori autorizzati, la nuova informazione viene inserita nella Knowledge Base e diventa disponibile per tutti gli utenti autorizzati.
+
+L'Assistente AI apprende esclusivamente da contenuti verificati e approvati.
+
+# Collegamento tra documentazione e FAQ
+
+Ogni documento della piattaforma può essere collegato ad una o più FAQ.
+
+Le FAQ rappresentano una modalità semplificata di consultazione della documentazione ufficiale.
+
+La documentazione rimane l'unica fonte normativa e procedurale della piattaforma.
