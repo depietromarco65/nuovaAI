@@ -297,3 +297,68 @@ La sua funzione è mettere la conoscenza giusta, nel momento giusto, a disposizi
 Ogni risposta deriva esclusivamente dal patrimonio informativo ufficiale di Vacanze Sicure.
 
 Quando una risposta non esiste, l'Assistente AI avvia il processo necessario affinché quella conoscenza venga acquisita, validata e resa disponibile a tutta la comunità della piattaforma.
+
+---
+
+# Analisi Intelligente degli Errori
+
+## Principio
+
+L'Assistente AI monitora gli errori generati dalla piattaforma e li traduce automaticamente in informazioni comprensibili per l'utente.
+
+L'obiettivo è ridurre i tempi di diagnosi e facilitare la risoluzione dei problemi.
+
+---
+
+## Interpretazione Automatica
+
+Quando si verifica un errore, il sistema analizza automaticamente:
+
+- contesto operativo;
+- utente coinvolto;
+- pagina corrente;
+- funzionalità utilizzata;
+- log tecnico;
+- eventuali errori simili già registrati.
+
+L'utente visualizza una spiegazione comprensibile senza dover interpretare messaggi tecnici.
+
+---
+
+## Diagnosi AI
+
+L'Assistente AI può individuare:
+
+- probabile causa;
+- livello di gravità;
+- impatto sul sistema;
+- possibili soluzioni;
+- eventuali workaround temporanei.
+
+Quando disponibile, viene proposta direttamente la procedura consigliata.
+
+---
+
+## Supporto agli Operatori
+
+Per gli utenti non tecnici il sistema utilizza un linguaggio semplice.
+
+Per gli amministratori e gli sviluppatori rende disponibile anche il dettaglio tecnico completo.
+
+Entrambi visualizzano lo stesso evento con livelli di approfondimento differenti.
+
+---
+
+## Apprendimento Continuo
+
+Ogni errore risolto contribuisce ad arricchire la Knowledge Base tecnica della piattaforma.
+
+In presenza di errori ricorrenti, l'Assistente AI può suggerire modifiche progettuali o interventi preventivi.
+
+---
+
+## Principio Vacanze Sicure
+
+Un errore non rappresenta soltanto un malfunzionamento.
+
+È un'opportunità per migliorare continuamente la piattaforma e rendere il supporto sempre più efficace.
