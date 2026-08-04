@@ -334,3 +334,40 @@ L'innovazione nasce osservando il mercato, comprendendo i bisogni reali delle pe
 Ogni benchmark rappresenta un'opportunità di crescita.
 
 Ogni idea implementata deve contribuire a rendere Vacanze Sicure un ecosistema sempre più semplice, trasparente, intelligente e affidabile.
+
+---
+
+# Trustpilot - +Prenotazioni
+
+## Osservazione
+
+La maggior parte delle recensioni positive non elogia il prodotto.
+
+Elogia il team.
+
+Le persone ricordano:
+
+- disponibilità;
+- rapidità;
+- accompagnamento;
+- competenza;
+- pazienza;
+- ascolto.
+
+---
+
+## Decisione Progettuale
+
+Vacanze Sicure deve progettare l'esperienza utente affinché trasmetta le stesse sensazioni attraverso il software e l'Assistente AI.
+
+L'obiettivo non è soltanto realizzare una piattaforma efficiente.
+
+L'obiettivo è fare in modo che gli utenti si sentano accompagnati durante tutto il proprio percorso.
+
+---
+
+## Documenti collegati
+
+- 25_ASSISTENTE_AI.md
+- 34_MARKETING_INTELLIGENTE.md
+- 06_PROMEMORIA_DI_PROGETTAZIONE.md
