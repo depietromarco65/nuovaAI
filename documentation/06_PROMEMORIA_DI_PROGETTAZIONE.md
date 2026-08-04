@@ -383,3 +383,37 @@ Ad esempio:
 - non vietare una funzione, ma guidarne l'utilizzo.
 
 Vacanze Sicure privilegia soluzioni che aumentano la fiducia senza compromettere semplicità ed esperienza d'uso.
+
+---
+
+# Ogni Funzionalità Deve Risolvere un Problema Reale
+
+Prima di progettare una nuova funzione occorre individuare chiaramente il problema che intende risolvere.
+
+La piattaforma non deve introdurre funzionalità solo perché tecnologicamente possibili.
+
+Ogni funzione deve nascere da un'esigenza concreta osservata nella gestione quotidiana delle strutture ricettive.
+
+La progettazione segue sempre questo percorso:
+
+Problema
+
+↓
+
+Analisi
+
+↓
+
+Soluzione
+
+↓
+
+Automazione
+
+↓
+
+Misurazione dei risultati
+
+Le funzionalità non rappresentano il punto di partenza.
+
+Sono la conseguenza della comprensione dei problemi.
