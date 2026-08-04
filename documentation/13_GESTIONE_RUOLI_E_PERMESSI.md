@@ -527,3 +527,69 @@ Ogni utente visualizza esclusivamente gli strumenti necessari allo svolgimento d
 L'applicazione mobile non deve limitarsi a replicare il portale web.
 
 Deve diventare il principale strumento di lavoro quotidiano del proprietario, anticipando le esigenze dell'operatore e semplificando ogni attività attraverso informazioni contestuali, assistenza intelligente e accesso immediato alle funzionalità essenziali.
+
+---
+
+# Esperienze Digitali
+
+## Principio
+
+Vacanze Sicure è un'unica piattaforma composta da servizi condivisi e da differenti esperienze digitali.
+
+Non esistono applicazioni separate per ciascuna categoria di utenti.
+
+Esiste un unico ecosistema che adatta automaticamente interfaccia, funzionalità e contenuti in funzione dell'identità digitale e dei permessi dell'utente.
+
+---
+
+# Esperienze previste
+
+La piattaforma può presentarsi in modo differente, ad esempio, per:
+
+- Visitatore pubblico;
+- Ospite;
+- Proprietario;
+- Property Manager;
+- Collaboratore;
+- Manutentore;
+- Fornitore di servizi;
+- Ente pubblico;
+- Amministratore Vacanze Sicure.
+
+Ogni esperienza utilizza gli stessi dati e gli stessi servizi applicativi, mostrando esclusivamente le informazioni e gli strumenti necessari allo svolgimento delle attività consentite.
+
+---
+
+# Vantaggi
+
+Questo modello consente di:
+
+- utilizzare un'unica base dati;
+- evitare duplicazioni di funzionalità;
+- mantenere un'unica autenticazione;
+- garantire coerenza tra tutti i servizi;
+- semplificare manutenzione ed evoluzione della piattaforma;
+- personalizzare l'esperienza utente senza frammentare il sistema.
+
+---
+
+# Adattamento Dinamico
+
+L'interfaccia della piattaforma viene costruita dinamicamente in funzione di:
+
+- ruolo dell'utente;
+- permessi assegnati;
+- dispositivo utilizzato;
+- contesto operativo;
+- preferenze personali;
+- lingua.
+
+Lo stesso utente può accedere a esperienze differenti qualora ricopra più ruoli.
+
+---
+
+# Principio Vacanze Sicure
+
+Vacanze Sicure non sviluppa piattaforme differenti.
+
+Sviluppa un unico ecosistema capace di offrire esperienze digitali differenti, mantenendo un'infrastruttura comune, coerente e integrata.
