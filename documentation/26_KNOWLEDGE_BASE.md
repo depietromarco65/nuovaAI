@@ -302,3 +302,198 @@ Ogni documento della piattaforma può essere collegato ad una o più FAQ.
 Le FAQ rappresentano una modalità semplificata di consultazione della documentazione ufficiale.
 
 La documentazione rimane l'unica fonte normativa e procedurale della piattaforma.
+
+# Architettura della Knowledge Base
+
+## Principio
+
+La Knowledge Base costituisce l'unica fonte ufficiale della conoscenza di Vacanze Sicure.
+
+Ogni informazione viene archiviata una sola volta e successivamente utilizzata da tutti i sistemi della piattaforma.
+
+L'obiettivo è garantire coerenza, uniformità e aggiornamento continuo delle informazioni.
+
+---
+
+# Organizzazione della conoscenza
+
+La Knowledge Base non è organizzata esclusivamente per categorie di utenti.
+
+Ogni contenuto viene classificato attraverso un sistema di metadati che consente all'Assistente AI di individuare sempre la risposta più pertinente.
+
+La classificazione avviene secondo più dimensioni.
+
+## Destinatario
+
+La risposta può essere destinata ad una o più categorie di utenti.
+
+Ad esempio:
+
+- Ospite;
+- Proprietario;
+- Gestore;
+- Agenzia;
+- Property Manager;
+- Validatore;
+- Operatore;
+- Ente Istituzionale;
+- Amministratore;
+- Assistente AI.
+
+---
+
+## Argomento
+
+Ogni risposta appartiene ad uno o più argomenti.
+
+Ad esempio:
+
+- Certificazione;
+- Validazione;
+- Prenotazioni;
+- Preventivi;
+- Pagamenti;
+- Ricollocazione;
+- Ospitalità Solidale;
+- Comunicazioni;
+- Privacy;
+- Sicurezza;
+- Assistenza;
+- Servizi;
+- Notifiche;
+- Fascicoli Digitali.
+
+---
+
+## Livello di competenza
+
+Ogni contenuto viene classificato in base al livello di approfondimento richiesto.
+
+Ad esempio:
+
+- Base;
+- Intermedio;
+- Avanzato;
+- Tecnico;
+- Operativo;
+- Normativo.
+
+L'Assistente AI adatta automaticamente il linguaggio e il livello della risposta in funzione del destinatario.
+
+---
+
+## Fonte
+
+Ogni risposta è collegata al documento ufficiale dal quale deriva.
+
+Ad esempio:
+
+- 22_VALIDAZIONE_STRUTTURE.md;
+- 23_CERTIFICAZIONE.md;
+- 36_TUTELA_TURISTA.md;
+- 39_MODALITA_DI_ADESIONE.md.
+
+La documentazione ufficiale rappresenta sempre la fonte primaria.
+
+---
+
+## Versione
+
+Ogni contenuto conserva:
+
+- numero di versione;
+- data di pubblicazione;
+- data dell'ultimo aggiornamento;
+- autore della modifica;
+- motivazione dell'aggiornamento.
+
+Ogni revisione viene mantenuta nello storico.
+
+---
+
+## Stato
+
+Ogni risposta può assumere uno dei seguenti stati:
+
+- Bozza;
+- In revisione;
+- Validata;
+- Sospesa;
+- Archiviata.
+
+L'Assistente AI utilizza esclusivamente contenuti validati.
+
+---
+
+# Principio della risposta unica
+
+Ogni informazione viene descritta una sola volta.
+
+La stessa risposta può essere richiamata da:
+
+- Assistente AI;
+- FAQ;
+- Manuali;
+- Guide;
+- Procedure operative;
+- Documentazione tecnica;
+- Area Ospiti;
+- Area Proprietari;
+- Area Istituzionale.
+
+Ogni aggiornamento modifica automaticamente tutte le informazioni collegate.
+
+Non esistono duplicazioni della stessa risposta.
+
+---
+
+# Apprendimento continuo
+
+L'Assistente AI registra in forma anonima:
+
+- domande ricevute;
+- frequenza delle richieste;
+- categoria dell'utente;
+- argomento trattato;
+- difficoltà riscontrate.
+
+Queste informazioni vengono utilizzate per migliorare continuamente la Knowledge Base.
+
+---
+
+# Gestione delle domande senza risposta
+
+Quando una domanda non trova una risposta sufficientemente attendibile nella Knowledge Base:
+
+1. l'Assistente AI informa l'utente che non è disponibile una risposta ufficiale;
+2. viene generato automaticamente un ticket;
+3. il ticket viene assegnato al gruppo competente;
+4. gli operatori analizzano la richiesta;
+5. viene predisposta una risposta ufficiale;
+6. la risposta viene sottoposta a revisione e validazione;
+7. una volta approvata, entra a far parte della Knowledge Base.
+
+Da quel momento la nuova conoscenza diventa immediatamente disponibile per:
+
+- Assistente AI;
+- FAQ;
+- Manuali;
+- Guide;
+- Documentazione;
+- Operatori autorizzati.
+
+Ogni nuova domanda rappresenta un'opportunità di crescita del patrimonio informativo della piattaforma.
+
+---
+
+# Filosofia della conoscenza
+
+L'Assistente AI non inventa le risposte.
+
+Ogni risposta deriva esclusivamente da contenuti ufficiali, verificati e approvati.
+
+Quando una risposta non esiste, il sistema non improvvisa ma avvia un processo di acquisizione della conoscenza.
+
+La Knowledge Base cresce insieme all'esperienza maturata dalla piattaforma, garantendo nel tempo risposte sempre più complete, coerenti e affidabili.
+
+La conoscenza costituisce uno dei patrimoni più importanti di Vacanze Sicure e viene gestita secondo principi di qualità, tracciabilità, trasparenza e miglioramento continuo.
