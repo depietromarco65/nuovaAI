@@ -915,3 +915,11 @@ Ogni problema risolto diventa patrimonio comune.
 Ogni risposta validata migliora l'intera piattaforma.
 
 La Knowledge Base costituisce l'unica fonte ufficiale dalla quale derivano tutte le informazioni distribuite dal sistema.
+
+Questa risposta ti è stata utile?
+
+👍 Sì
+
+👎 No
+
+➕ Mancava qualcosa?
