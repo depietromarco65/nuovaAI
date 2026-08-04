@@ -173,3 +173,89 @@ L'indice considera diversi fattori, tra cui:
 - collaborazione con la piattaforma.
 
 L'indice viene utilizzato esclusivamente come strumento informativo e di supporto alle decisioni, secondo criteri trasparenti definiti dalla piattaforma.
+
+# IDEA 100.XX
+
+## Categoria
+
+🏛 Idea Istituzionale
+
+---
+
+## Titolo
+
+Rete di Collaborazione con Camere di Commercio e Associazioni di Categoria.
+
+---
+
+## Descrizione
+
+Creare una rete permanente di collaborazione con le Camere di Commercio e le principali Associazioni di Categoria per promuovere la qualità dell'offerta turistica, la formazione degli operatori e la diffusione della Certificazione Vacanze Sicure.
+
+Le collaborazioni potranno riguardare:
+
+- eventi;
+- convegni;
+- formazione;
+- campagne informative;
+- tavoli tecnici;
+- osservatori permanenti;
+- raccolta dati;
+- promozione del territorio;
+- aggiornamento degli standard di certificazione.
+
+---
+
+## Benefici
+
+- maggiore credibilità del progetto;
+- coinvolgimento delle imprese;
+- diffusione della cultura della qualità;
+- collaborazione pubblico-privato;
+- maggiore riconoscibilità del marchio Vacanze Sicure.
+
+---
+
+## Priorità
+
+⭐⭐⭐⭐⭐ (Molto alta)
+
+---
+
+## Documenti collegati
+
+- 02_GOVERNANCE_DEL_PROGETTO.md
+- 22_VALIDAZIONE_STRUTTURE.md
+- 23_CERTIFICAZIONE.md
+- 37_TURISMO_SOLIDALE.md
+
+- # IDEA 100.XX
+
+## Categoria
+
+🤖 Idea AI
+
+---
+
+## Titolo
+
+Monitoraggio della salute digitale della struttura.
+
+---
+
+## Descrizione
+
+L'Assistente AI monitora periodicamente lo stato dei principali servizi digitali utilizzati dalla struttura.
+
+Ad esempio:
+
+- dominio web;
+- certificato SSL;
+- scadenza del dominio;
+- verifica WHOIS;
+- caselle email;
+- configurazione DNS;
+- sito web raggiungibile;
+- eventuali errori di sicurezza.
+
+Quando viene rilevata un'anomalia, il proprietario riceve una notifica con la spiegazione del problema e le possibili azioni da intraprendere.
