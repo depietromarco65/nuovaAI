@@ -270,3 +270,19 @@ Tra i controlli disponibili:
 - scadenze tecniche.
 
 Ogni anomalia viene spiegata con un linguaggio semplice e accompagnata da suggerimenti operativi.
+
+# Configurazione della modalità operativa
+
+Ogni proprietario può configurare il comportamento della propria struttura.
+
+Tra le opzioni disponibili:
+
+- sola vetrina;
+- richiesta informazioni;
+- preventivi;
+- richiesta di prenotazione;
+- prenotazione immediata;
+- Formula Fiduciaria;
+- gestione completa.
+
+Le impostazioni possono essere modificate in qualsiasi momento.
