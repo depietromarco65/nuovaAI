@@ -398,3 +398,68 @@ Questa decisione interessa direttamente:
 # Stato
 
 ✅ Approvata
+
+---
+
+# Metodo di Progettazione
+
+Ogni nuova funzionalità di Vacanze Sicure deve essere progettata secondo criteri uniformi e documentabili.
+
+Prima di considerare completa una funzionalità è necessario rispondere almeno alle seguenti domande.
+
+## 1. Chi può utilizzarla?
+
+Individuare i ruoli autorizzati ad accedere alla funzionalità.
+
+## 2. Chi può modificarla?
+
+Definire chi può creare, aggiornare o eliminare i dati.
+
+## 3. Chi può autorizzarla o revocarla?
+
+Stabilire quali soggetti possono approvare, sospendere o revocare la funzionalità o gli effetti prodotti.
+
+## 4. Ogni operazione è tracciata?
+
+Ogni modifica rilevante deve produrre una registrazione permanente nell'Audit Log.
+
+## 5. Quale Fascicolo viene aggiornato?
+
+Ogni attività deve indicare chiaramente quale Fascicolo viene alimentato:
+
+- Fascicolo della Persona;
+- Fascicolo della Struttura;
+- Fascicolo della Prenotazione;
+- Fascicolo della Certificazione;
+- altri Fascicoli previsti.
+
+## 6. Quali notifiche devono essere generate?
+
+Ogni evento significativo deve produrre le notifiche previste verso i soggetti interessati.
+
+## 7. Quali documenti del progetto sono coinvolti?
+
+Ogni nuova funzionalità deve indicare esplicitamente i documenti progettuali ai quali fa riferimento.
+
+## 8. È coerente con la filosofia del progetto?
+
+Ogni nuova funzionalità deve contribuire ad almeno uno dei principi fondamentali di Vacanze Sicure:
+
+- aumentare la fiducia;
+- migliorare la trasparenza;
+- semplificare il lavoro;
+- tutelare ospiti e operatori;
+- favorire la collaborazione;
+- preservare la tracciabilità.
+
+Se una funzionalità non è in grado di rispondere chiaramente a queste domande, la progettazione deve considerarsi incompleta.
+
+---
+
+# Regola Fondamentale
+
+Ogni nuova idea deve trasformarsi in una decisione progettuale documentata prima di diventare una funzionalità software.
+
+Vacanze Sicure non sviluppa funzionalità improvvisate.
+
+Ogni evoluzione nasce da un processo di analisi, documentazione, confronto e validazione.
