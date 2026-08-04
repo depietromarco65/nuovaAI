@@ -486,3 +486,38 @@ La piattaforma accompagna l'operatore:
 L'obiettivo non è vendere un software.
 
 È costruire un rapporto di fiducia duraturo.
+
+---
+
+# Educazione del Mercato
+
+## Principio
+
+Vacanze Sicure non si limita a mettere in contatto domanda e offerta.
+
+La piattaforma aiuta entrambe le parti a comprendere il mercato attraverso informazioni oggettive e contestualizzate.
+
+L'obiettivo è ridurre incomprensioni, aspettative irrealistiche e conflitti.
+
+---
+
+## Informazioni Contestuali
+
+Durante la ricerca o la pubblicazione di un'offerta, il sistema può fornire automaticamente indicazioni come:
+
+- andamento medio dei prezzi;
+- livello di occupazione del periodo richiesto;
+- disponibilità residua;
+- alternative compatibili con il budget;
+- suggerimenti su periodi meno richiesti;
+- località alternative.
+
+Le informazioni hanno finalità informative e non vincolano le decisioni degli utenti.
+
+---
+
+## Principio Vacanze Sicure
+
+Un mercato più trasparente genera decisioni migliori.
+
+L'informazione riduce il conflitto e favorisce un rapporto di fiducia tra ospiti e operatori.
