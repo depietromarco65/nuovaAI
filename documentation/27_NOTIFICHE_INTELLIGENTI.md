@@ -252,3 +252,7 @@ Quando viene pubblicata una nuova risposta o viene modificata una risposta esist
 - gli enti convenzionati;
 
 in funzione della categoria di appartenenza e della rilevanza dell'aggiornamento.
+
+Tra 5 giorni scade l'invio dei dati ISTAT.
+
+Vuoi che prepari automaticamente il file?
