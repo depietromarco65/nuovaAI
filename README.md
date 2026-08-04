@@ -1,148 +1,322 @@
-# Vacanze Sicure nel Salento
-## PMS · CRM · Booking Engine · AI Assistant · Channel Manager
+# Vacanze Sicure
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Python](https://img.shields.io/badge/python-3.12+-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
+## Ecosistema Digitale per il Turismo Basato sulla Fiducia
 
----
-
-# Descrizione
-
-Vacanze Sicure nel Salento è una piattaforma software professionale sviluppata per la gestione completa delle strutture ricettive del Salento.
-
-Il progetto nasce dall'esperienza maturata nella gestione diretta di strutture turistiche e dall'esigenza di integrare in un unico ecosistema tutte le attività operative.
-
-L'obiettivo è realizzare una piattaforma moderna, modulare e scalabile che comprenda:
-
-- PMS (Property Management System)
-- CRM (Customer Relationship Management)
-- Booking Engine proprietario
-- AI Assistant
-- Channel Manager
-- Portale Turistico
-- Area Cliente
-- Area Proprietario
-- Back Office
-- API REST
+![Version](https://img.shields.io/badge/version-2.0-blue)
+![Status](https://img.shields.io/badge/status-Design%20Phase-green)
+![Architecture](https://img.shields.io/badge/architecture-Document%20Driven-orange)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
 
-# Filosofia del progetto
+# Cos'è Vacanze Sicure
 
-Il progetto segue alcuni principi fondamentali.
+**Vacanze Sicure** è un ecosistema digitale progettato per mettere in relazione ospiti, proprietari, operatori turistici, istituzioni e servizi attraverso un modello basato su fiducia, trasparenza e collaborazione.
 
-## Database First
+Il progetto nasce dall'esperienza diretta nella gestione di strutture ricettive e dall'esigenza di superare il concetto tradizionale di OTA (Online Travel Agency) o PMS (Property Management System).
 
-Ogni informazione viene gestita attraverso il database.
+L'obiettivo è costruire una piattaforma unica che integri:
 
-La configurazione dell'applicazione non è hardcoded ma viene letta dal database.
+- gestione delle strutture;
+- gestione delle prenotazioni;
+- assistenza intelligente;
+- certificazione;
+- tutela del turista;
+- interoperabilità con OTA e PMS;
+- servizi istituzionali;
+- Intelligenza Artificiale;
+- Knowledge Base;
+- marketing intelligente;
+- strumenti di collaborazione.
 
----
+Vacanze Sicure non nasce per vendere prenotazioni.
 
-## Modularità
-
-Ogni modulo è indipendente.
-
-Nuove funzionalità potranno essere aggiunte senza modificare il resto del sistema.
-
----
-
-## Multi Struttura
-
-La piattaforma permette la gestione contemporanea di un numero illimitato di strutture ricettive.
-
----
-
-## Multi Utente
-
-Sono previsti differenti livelli di autorizzazione:
-
-- Super Amministratore
-- Proprietario
-- Operatore
-- Reception
-- Collaboratore
-- Cliente
+**Nasce per costruire fiducia tra chi ospita e chi viaggia.**
 
 ---
 
-# Moduli principali
+# Visione
 
-- Gestione Strutture
-- Gestione Unità Ricettive
-- Prenotazioni
-- Calendario
-- CRM
-- Preventivi
-- Contratti
-- Documenti
-- Pagamenti
-- Fatture
-- Revenue Management
-- Housekeeping
-- Manutenzioni
-- Messaggistica
-- WhatsApp
-- Email
-- AI Assistant
-- Statistiche
-- Dashboard
-- Report
-- API
+Immaginiamo un ecosistema nel quale:
+
+- gli ospiti possano prenotare con maggiore serenità;
+- i proprietari possano lavorare meglio;
+- le istituzioni possano collaborare;
+- gli operatori possano condividere strumenti comuni;
+- la tecnologia diventi un supporto e non un ostacolo.
 
 ---
 
-# Ambito territoriale
+# Filosofia
 
-La piattaforma è progettata esclusivamente per le strutture ricettive ubicate nel Salento geografico.
+Ogni scelta progettuale deve contribuire ad almeno uno dei seguenti obiettivi:
 
-Comprende:
+- aumentare la fiducia;
+- migliorare la trasparenza;
+- semplificare il lavoro degli operatori;
+- tutelare ospiti e proprietari;
+- favorire la collaborazione;
+- garantire la tracciabilità;
+- valorizzare la qualità dell'ospitalità.
 
-- Provincia di Lecce
-- Comuni salentini della provincia di Brindisi
-- Comuni salentini della provincia di Taranto
+Prima del software vengono progettati:
+
+- principi;
+- processi;
+- documentazione;
+- modello dati;
+- workflow;
+- regole decisionali.
+
+Il software rappresenta la naturale conseguenza della documentazione.
 
 ---
 
-# Tecnologie
+# Architettura del progetto
 
-Backend
+Vacanze Sicure è organizzato in domini funzionali.
 
-- Python
+## Documenti fondamentali
+
+```
+00_FILOSOFIA_DEL_PROGETTO.md
+01_ARCHITETTURA_DEL_PROGETTO.md
+02_GOVERNANCE_DEL_PROGETTO.md
+03_CARTA_DEI_DIRITTI_E_DOVERI.md
+04_CATALOGO_DOCUMENTALE.md
+```
+
+---
+
+## Identità e Sicurezza
+
+```
+12_IDENTITA_DIGITALE.md
+13_GESTIONE_RUOLI_E_PERMESSI.md
+14_WORKFLOW_AUTORIZZATIVI.md
+```
+
+---
+
+## Motore AI
+
+```
+24_KNOWLEDGE_ENGINE.md
+25_ASSISTENTE_AI.md
+26_KNOWLEDGE_BASE.md
+27_NOTIFICHE_INTELLIGENTI.md
+28_CONTENT_ENGINE.md
+29_SEARCH_ENGINE.md
+31_RECOMMENDATION_ENGINE.md
+```
+
+---
+
+## Aree Funzionali
+
+```
+32_AREA_PROPRIETARI.md
+33_AREA_OSPITI.md
+38_SISTEMA_UNICO_PRENOTAZIONI.md
+39_MODALITA_DI_ADESIONE.md
+40_MODELLO_ECONOMICO.md
+```
+
+---
+
+## Certificazione e Tutela
+
+```
+22_VALIDAZIONE_STRUTTURE.md
+23_CERTIFICAZIONE.md
+36_TUTELA_TURISTA.md
+37_TURISMO_SOLIDALE.md
+```
+
+---
+
+## Infrastruttura
+
+```
+60_GESTIONE_PAGAMENTI.md
+61_REPORTISTICA.md
+62_INTEGRAZIONI_E_INTEROPERABILITA.md
+DATABASE_MASTER.md
+```
+
+---
+
+## Analisi e Memoria
+
+```
+09_ANALISI_COMPARATIVA_PIATTAFORME.md
+09_BENCHMARK_PIATTAFORME.md
+100_REGISTRO_IDEE.md
+101_ANALISI_E_BENCHMARK.md
+102_MEMORIA_EVOLUTIVA.md
+```
+
+---
+
+# Metodo di progettazione
+
+Ogni nuova funzionalità segue sempre lo stesso percorso.
+
+```
+Idea
+
+↓
+
+Registro Idee
+
+↓
+
+Analisi Benchmark
+
+↓
+
+Decisione Progettuale
+
+↓
+
+Documento Funzionale
+
+↓
 
 Database
 
-- SQLite
-- PostgreSQL (futuro)
+↓
 
-Frontend
+Sviluppo
+
+↓
+
+Test
+
+↓
+
+Rilascio
+```
+
+Il software non viene mai progettato direttamente.
+
+Ogni funzionalità nasce dalla documentazione approvata.
+
+---
+
+# Principi della documentazione
+
+Vacanze Sicure applica il principio della **Fonte Unica (Single Source of Truth).**
+
+Ogni informazione deve essere documentata una sola volta.
+
+Prima di creare un nuovo documento è obbligatorio verificare se l'argomento appartiene ad un dominio già esistente.
+
+La documentazione cresce per approfondimento, non per frammentazione.
+
+---
+
+# Componenti principali
+
+La piattaforma comprende:
+
+- Property Management System (PMS)
+- Booking Engine
+- CRM
+- AI Assistant
+- Knowledge Engine
+- Search Engine
+- Recommendation Engine
+- Sistema Unico Prenotazioni
+- Fascicolo della Prenotazione
+- Fascicolo della Struttura
+- Certificazione
+- Validazione
+- Gestione Pagamenti
+- Reportistica
+- Notifiche Intelligenti
+- Channel Manager
+- API Gateway
+- Integrazioni con OTA
+- Integrazioni con PMS
+- Integrazioni con sistemi istituzionali
+- Portale Turistico
+- Area Proprietari
+- Area Ospiti
+- Area Istituzionale
+
+---
+
+# Interoperabilità
+
+Vacanze Sicure è progettata per dialogare con l'intero ecosistema turistico.
+
+Sono previste integrazioni con:
+
+- OTA;
+- PMS;
+- Channel Manager;
+- sistemi regionali;
+- sistemi nazionali;
+- API;
+- Webhook;
+- iCal;
+- servizi di pagamento;
+- servizi di autenticazione digitale.
+
+L'obiettivo è eliminare la duplicazione delle attività e centralizzare la gestione delle informazioni.
+
+---
+
+# Tecnologie previste
+
+## Backend
+
+- Python
+
+## Database
+
+- SQLite (sviluppo)
+- PostgreSQL (produzione)
+
+## Frontend
 
 - Streamlit
 - HTML
 - CSS
 - JavaScript
 
-AI
+## AI
 
 - OpenAI
+- Knowledge Engine proprietario
 
 ---
 
-# Struttura repository
+# Struttura del repository
 
 ```
 docs/
-dataset/
 database/
-scripts/
+dataset/
 src/
+scripts/
 tests/
 assets/
 config/
-backups/
 logs/
+backups/
 ```
+
+---
+
+# Stato del progetto
+
+Attualmente il progetto si trova nella fase di progettazione documentale.
+
+L'architettura funzionale, il modello dati, i processi operativi e i principi fondamentali vengono definiti prima dello sviluppo software.
+
+Questa scelta garantisce una maggiore coerenza dell'intero sistema e riduce il rischio di modifiche strutturali durante lo sviluppo.
 
 ---
 
@@ -150,35 +324,84 @@ logs/
 
 ## Fase 1
 
-Architettura
+Analisi del problema
+
+✅
 
 ## Fase 2
 
-Database
+Definizione della filosofia
+
+✅
 
 ## Fase 3
 
-Core PMS
+Architettura documentale
+
+🚧
 
 ## Fase 4
 
-CRM
+Database Master
+
+🚧
 
 ## Fase 5
 
-Booking Engine
+Core Platform
+
+⬜
 
 ## Fase 6
 
-Portale Turistico
+Sistema Unico Prenotazioni
+
+⬜
 
 ## Fase 7
 
-AI Assistant
+Knowledge Engine
+
+⬜
 
 ## Fase 8
 
-Channel Manager
+Assistente AI
+
+⬜
+
+## Fase 9
+
+Integrazioni
+
+⬜
+
+## Fase 10
+
+Portale Pubblico
+
+⬜
+
+## Fase 11
+
+Applicazioni Mobile
+
+⬜
+
+---
+
+# Come contribuire
+
+Ogni proposta segue il metodo di progettazione ufficiale.
+
+Prima di implementare qualsiasi funzionalità è necessario:
+
+1. analizzare il problema;
+2. verificare la documentazione esistente;
+3. individuare il documento competente;
+4. aggiornare la documentazione;
+5. approvare la decisione progettuale;
+6. procedere con lo sviluppo.
 
 ---
 
@@ -188,14 +411,16 @@ MIT License
 
 ---
 
-# Stato progetto
+# Una piattaforma diversa
 
-Versione corrente:
+Vacanze Sicure non vuole essere soltanto un nuovo portale turistico.
 
-**v1.0**
+Vuole diventare un'infrastruttura digitale aperta capace di mettere in relazione persone, strutture, operatori e istituzioni attraverso strumenti comuni, processi trasparenti e tecnologie intelligenti.
 
-In sviluppo.
+La tecnologia è il mezzo.
+
+La fiducia è il vero obiettivo.
 
 ---
 
-© 2026 Vacanze Sicure nel Salento
+© 2026 Vacanze Sicure
