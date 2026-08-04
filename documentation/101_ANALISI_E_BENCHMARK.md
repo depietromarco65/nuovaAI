@@ -486,3 +486,43 @@ Ogni funzionalità deve contribuire contemporaneamente a:
 L'automazione non costituisce il fine della piattaforma.
 
 È uno degli strumenti attraverso i quali realizzare un ecosistema turistico più trasparente, collaborativo e affidabile.
+
+OLOGOGO
+
+Punti di forza
+
+- Nessuna commissione
+- Abbonamento semplice
+- Sincronizzazione iCal
+- Trasparenza dei costi
+
+Punti deboli
+
+- Nessuna certificazione
+- Nessun fascicolo
+- Nessuna AI contestuale
+- Nessuna gestione amministrativa
+- Nessuna interoperabilità istituzionale
+- Nessun sistema di fiducia
+- Nessuna gestione delle pratiche
+
+Ispirazioni
+
+- Modello economico semplice
+- Comunicazione molto chiara
+- Home essenziale
+
+- | Area                    | Valutazione | Note |
+| ----------------------- | ----------- | ---- |
+| Modello economico       | ⭐⭐⭐⭐⭐       |      |
+| Esperienza ospite       | ⭐⭐⭐⭐⭐       |      |
+| Esperienza proprietario | ⭐⭐⭐⭐⭐       |      |
+| AI                      | ⭐⭐⭐⭐⭐       |      |
+| Certificazione          | ⭐⭐⭐⭐⭐       |      |
+| Workflow                | ⭐⭐⭐⭐⭐       |      |
+| Integrazioni            | ⭐⭐⭐⭐⭐       |      |
+| Fiducia e trasparenza   | ⭐⭐⭐⭐⭐       |      |
+| Innovazioni da adottare |             |      |
+| Limiti riscontrati      |             |      |
+| Idee per Vacanze Sicure |             |      |
+
