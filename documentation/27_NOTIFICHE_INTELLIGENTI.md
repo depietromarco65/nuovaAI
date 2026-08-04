@@ -210,3 +210,18 @@ L'utente decide cosa seguire.
 La piattaforma lo informa solo quando accade qualcosa di realmente importante.
 
 Le notifiche devono essere utili, pertinenti e mai invasive.
+
+# Notifiche Tecniche
+
+L'Assistente AI avvisa il proprietario quando rileva situazioni che potrebbero compromettere la presenza online della struttura.
+
+Ad esempio:
+
+- dominio in scadenza;
+- dominio sospeso;
+- certificato SSL scaduto;
+- verifica WHOIS incompleta;
+- email non funzionanti;
+- sito non raggiungibile.
+
+Le notifiche vengono inviate con adeguato anticipo, quando possibile, per consentire un intervento tempestivo.
