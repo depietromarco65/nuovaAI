@@ -2,13 +2,33 @@
 
 # MARKETING INTELLIGENTE
 
-## Principio
+## Missione
 
-Vacanze Sicure non si limita a pubblicare annunci.
+Il Marketing Intelligente di Vacanze Sicure non ha l'obiettivo di vendere a tutti i costi.
 
-La piattaforma aiuta proprietari e aziende di servizi a promuovere le proprie attività nel momento giusto, verso il pubblico più interessato.
+Ha l'obiettivo di mettere in relazione le persone giuste con le esperienze più adatte, nel momento migliore e attraverso il canale più efficace.
 
-Ogni campagna viene supportata dall'Assistente AI e dai dati raccolti dalla piattaforma.
+Ogni comunicazione deve creare valore sia per l'ospite sia per il proprietario.
+
+---
+
+# Filosofia
+
+Vacanze Sicure non considera il marketing come uno strumento di pressione commerciale.
+
+Lo considera uno strumento di relazione.
+
+Ogni comunicazione deve:
+
+- essere utile;
+- essere contestuale;
+- essere trasparente;
+- rispettare il destinatario;
+- contribuire a costruire fiducia.
+
+L'obiettivo non è aumentare semplicemente il numero delle prenotazioni.
+
+L'obiettivo è migliorare la qualità della relazione tra ospiti, proprietari e territorio.
 
 ---
 
@@ -19,8 +39,30 @@ Il sistema consente di:
 - aumentare le prenotazioni dirette;
 - ridurre i periodi di bassa occupazione;
 - valorizzare le strutture certificate;
-- promuovere i servizi certificati;
-- fidelizzare gli ospiti.
+- promuovere esperienze autentiche;
+- fidelizzare gli ospiti;
+- favorire il ritorno dei clienti;
+- valorizzare il territorio.
+
+---
+
+# Marketing Contestuale
+
+Ogni proposta viene costruita considerando il contesto.
+
+Ad esempio:
+
+- periodo dell'anno;
+- disponibilità;
+- eventi;
+- meteo;
+- distanza;
+- interessi;
+- storico dell'utente;
+- composizione del gruppo;
+- budget.
+
+Il sistema evita comunicazioni irrilevanti.
 
 ---
 
@@ -30,53 +72,162 @@ Il proprietario può creare:
 
 - offerte last minute;
 - offerte early booking;
-- offerte per soggiorni lunghi;
-- offerte per soggiorni brevi;
-- promozioni stagionali;
+- soggiorni lunghi;
+- soggiorni brevi;
+- offerte stagionali;
 - pacchetti vacanza;
 - codici sconto;
-- offerte dedicate ai clienti fidelizzati.
+- promozioni dedicate;
+- offerte riservate ai clienti abituali.
+
+---
+
+# Recommendation Marketing
+
+La piattaforma non propone automaticamente le offerte più economiche.
+
+Suggerisce le esperienze più coerenti con il profilo dell'utente.
+
+L'obiettivo è migliorare la qualità della scelta e non aumentare semplicemente il numero dei click.
 
 ---
 
 # Marketing AI
 
-L'Assistente AI suggerisce automaticamente:
+L'Assistente AI può suggerire:
 
-- il periodo migliore per una promozione;
-- il prezzo consigliato;
+- il momento migliore per pubblicare un'offerta;
 - il target ideale;
-- il testo dell'annuncio;
-- immagini da valorizzare;
-- canali di diffusione.
+- il prezzo consigliato;
+- il testo della comunicazione;
+- le immagini più efficaci;
+- i servizi da valorizzare;
+- il canale di diffusione più opportuno.
+
+L'AI propone.
+
+La decisione finale rimane sempre dell'operatore.
 
 ---
 
-# Ripescaggio clienti
+# Ripescaggio Clienti
 
-Quando una struttura torna disponibile per:
+Quando una struttura torna disponibile a seguito di:
 
 - cancellazione;
 - No-Show;
 - partenza anticipata;
 
-il sistema individua automaticamente gli utenti compatibili e propone una campagna di ripescaggio.
+il sistema individua automaticamente gli utenti compatibili.
+
+L'Assistente AI può proporre:
+
+- clienti già interessati;
+- clienti abituali;
+- utenti presenti nella lista dei desideri;
+- utenti compatibili con il periodo.
+
+---
+
+# Marketing Relazionale
+
+La piattaforma aiuta il proprietario a mantenere il rapporto con gli ospiti anche dopo il soggiorno.
+
+Ad esempio:
+
+- richiesta recensione;
+- ringraziamento;
+- promemoria per una nuova stagione;
+- comunicazione di nuovi servizi;
+- auguri personalizzati;
+- offerte dedicate ai clienti fidelizzati.
+
+---
+
+# Valorizzazione delle Novità
+
+Quando il proprietario aggiorna la propria struttura con nuovi servizi o migliorie, il sistema può suggerire di informare gli ospiti che potrebbero essere interessati.
+
+Ad esempio:
+
+- nuova piscina;
+- ristrutturazione;
+- area benessere;
+- colonnina di ricarica elettrica;
+- accessibilità migliorata;
+- nuovi servizi per famiglie;
+- nuovi servizi per animali.
+
+L'obiettivo è valorizzare gli investimenti effettuati e mantenere vivo il rapporto con i clienti.
+
+---
+
+# Tone of Voice
+
+Ogni comunicazione deve rispettare uno stile coerente con i valori della piattaforma.
+
+Vacanze Sicure comunica come un consulente, non come un venditore.
+
+Evita:
+
+- messaggi aggressivi;
+- urgenze artificiali;
+- promesse irrealistiche;
+- comunicazioni invasive.
+
+Privilegia:
+
+- chiarezza;
+- semplicità;
+- disponibilità;
+- trasparenza;
+- linguaggio umano;
+- informazioni utili.
 
 ---
 
 # Statistiche
 
-Per ogni promozione vengono registrati:
+Per ogni campagna vengono registrati:
 
 - visualizzazioni;
+- aperture;
 - click;
 - richieste;
 - prenotazioni;
 - conversione;
-- fatturato generato.
+- fatturato generato;
+- canale utilizzato.
+
+Le statistiche hanno finalità di miglioramento e supporto alle decisioni.
 
 ---
 
-# Principio Vacanze Sicure
+# Integrazione
 
-Ogni promozione deve creare valore sia per il proprietario che per l'ospite, evitando comunicazioni inutili o invasive.
+Il Marketing Intelligente dialoga con:
+
+- Recommendation Engine;
+- Search Engine;
+- Content Engine;
+- Communication Engine;
+- Assistente AI;
+- Sistema Unico Prenotazioni;
+- Area Proprietari;
+- Area Ospiti.
+
+---
+
+# Principi Vacanze Sicure
+
+Ogni promozione deve creare valore sia per il proprietario che per l'ospite.
+
+Ogni comunicazione deve aiutare l'utente a prendere una decisione consapevole.
+
+L'obiettivo non è massimizzare le conversioni a qualsiasi costo.
+
+L'obiettivo è costruire relazioni durature basate sulla fiducia, sulla qualità delle informazioni e sul rispetto delle persone.
+
+Il marketing non interrompe il viaggio.
+
+Lo accompagna.
