@@ -345,3 +345,105 @@ Ogni analisi rappresenta un'opportunità per migliorare l'intero ecosistema.
 L'innovazione non consiste nell'inventare tutto da zero.
 
 Consiste nel comprendere il presente per progettare il futuro.
+
+# Caso di studio
+## Dashboard dell'Operatore: area di lavoro o area commerciale?
+
+## Osservazione
+
+L'analisi di numerose piattaforme evidenzia come l'area riservata dell'operatore venga spesso utilizzata principalmente per promuovere servizi aggiuntivi a pagamento.
+
+Banner pubblicitari, offerte commerciali, Top Listing, promozioni, upgrade e strumenti opzionali occupano frequentemente la parte più visibile della dashboard.
+
+Le informazioni realmente utili per la gestione quotidiana della struttura risultano invece secondarie.
+
+---
+
+## Criticità
+
+Questa impostazione rischia di trasformare il pannello di controllo in uno spazio commerciale anziché in uno strumento operativo.
+
+L'operatore, entrando nella propria area riservata, dovrebbe poter conoscere immediatamente lo stato della propria attività e le eventuali azioni da compiere.
+
+---
+
+## Principio Vacanze Sicure
+
+L'Area Operatore rappresenta uno spazio di lavoro.
+
+Non uno spazio pubblicitario.
+
+Ogni elemento visualizzato deve avere come obiettivo principale quello di aiutare il proprietario nella gestione della propria attività.
+
+---
+
+## Ordine delle priorità
+
+All'accesso il sistema dovrebbe mostrare prioritariamente:
+
+- stato della certificazione;
+- prenotazioni in arrivo;
+- richieste di preventivo;
+- documenti in scadenza;
+- notifiche importanti;
+- eventuali criticità;
+- suggerimenti operativi dell'Assistente AI;
+- indicatori sintetici dell'attività.
+
+Solo successivamente potranno essere presentati servizi aggiuntivi o nuove funzionalità.
+
+---
+
+## Principio di non invasività
+
+Vacanze Sicure evita comunicazioni commerciali che possano interferire con le attività operative dell'utente.
+
+Ogni proposta di servizio deve essere:
+
+- pertinente;
+- contestuale;
+- discreta;
+- facilmente ignorabile;
+- realmente utile.
+
+---
+
+## Dashboard intelligente
+
+L'Area Operatore evolve da semplice pannello di controllo ad Assistente Operativo.
+
+L'obiettivo non è vendere servizi.
+
+L'obiettivo è aiutare il proprietario a lavorare meglio.
+
+La dashboard deve rispondere, ancora prima che il proprietario lo chieda, alla domanda:
+
+"Cosa devo fare oggi?"
+
+---
+
+## Esempio
+
+Buongiorno Marco.
+
+✓ Certificazione valida.
+
+✓ Calendario aggiornato.
+
+⚠ Hai un preventivo in scadenza tra 12 ore.
+
+📄 Un documento scadrà tra 20 giorni.
+
+🏡 Due ospiti arriveranno domani.
+
+💡 L'Assistente AI suggerisce di aggiornare le fotografie del soggiorno.
+
+---
+
+## Conclusione
+
+Una dashboard efficace non si misura dal numero di banner presenti.
+
+Si misura dal tempo che permette di risparmiare all'operatore e dalla capacità di evidenziare immediatamente le informazioni davvero importanti.
+
+Vacanze Sicure adotta il principio della "Dashboard di Servizio": ogni elemento presente deve contribuire a migliorare il lavoro dell'operatore, rafforzare la qualità dell'ospitalità e aumentare la fiducia nel sistema.
