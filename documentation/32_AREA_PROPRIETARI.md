@@ -304,3 +304,90 @@ Ad esempio:
 
 Per ogni utente possono essere configurati permessi differenti.
 
+# Gestione delle Pratiche
+
+La dashboard del proprietario non gestisce semplicemente prenotazioni, ma vere e proprie pratiche.
+
+Ogni pratica rappresenta l'intero ciclo di relazione con un ospite e raccoglie tutte le informazioni necessarie alla gestione del soggiorno.
+
+Ogni pratica contiene:
+
+- dati dell'ospite;
+- stato della richiesta;
+- cronologia delle comunicazioni;
+- preventivi;
+- prenotazioni;
+- pagamenti;
+- documentazione;
+- notifiche;
+- attività dell'Assistente AI;
+- eventi registrati;
+- Fascicolo della Prenotazione.
+
+---
+
+## Vista sintetica
+
+L'elenco delle pratiche mostra immediatamente le informazioni essenziali.
+
+Ad esempio:
+
+- nome dell'ospite;
+- periodo richiesto;
+- stato della pratica;
+- importo;
+- priorità;
+- eventuali notifiche.
+
+L'operatore può comprendere la situazione senza aprire la pratica.
+
+---
+
+## Vista dettagliata
+
+Aprendo una pratica vengono visualizzati:
+
+- cronologia completa;
+- messaggi;
+- documenti;
+- pagamenti;
+- preventivi;
+- calendario;
+- attività svolte;
+- suggerimenti dell'Assistente AI.
+
+---
+
+## Contesto
+
+Il sistema non mostra soltanto la richiesta.
+
+Fornisce anche il contesto.
+
+Ad esempio:
+
+- cliente abituale;
+- soggiorni precedenti;
+- preferenze;
+- lingua;
+- richieste particolari;
+- eventuali criticità;
+- lavori recentemente eseguiti nella struttura.
+
+L'obiettivo è aiutare il proprietario a comprendere immediatamente con chi sta interagendo.
+
+---
+
+## Assistente AI
+
+L'Assistente AI può suggerire, ad esempio:
+
+- ricordare un soggiorno precedente;
+- proporre un messaggio personalizzato;
+- segnalare modifiche recenti della struttura che potrebbero interessare il cliente;
+- suggerire offerte dedicate;
+- ricordare attività ancora da completare.
+
+L'Assistente AI propone.
+
+La decisione finale rimane sempre dell'operatore.
