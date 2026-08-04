@@ -571,3 +571,77 @@ Lo stesso utente può accedere a esperienze differenti qualora ricopra più ruol
 Vacanze Sicure non sviluppa piattaforme differenti.
 
 Sviluppa un unico ecosistema capace di offrire esperienze digitali differenti, mantenendo un'infrastruttura comune, coerente e integrata.
+
+---
+
+# Opportunità e Suggerimenti AI
+
+## Principio
+
+L'Assistente AI monitora continuamente l'andamento della struttura e individua situazioni che potrebbero rappresentare opportunità di miglioramento.
+
+L'obiettivo non è prendere decisioni al posto del proprietario, ma fornire suggerimenti basati sui dati disponibili.
+
+---
+
+## Analisi della Disponibilità
+
+Il sistema analizza automaticamente il calendario delle disponibilità.
+
+Può individuare, ad esempio:
+
+- periodi rimasti inutilmente chiusi;
+- intervalli troppo brevi tra due prenotazioni;
+- soggiorni minimi che limitano le prenotazioni;
+- disponibilità non pubblicate sui canali esterni;
+- periodi con elevata domanda.
+
+Per ogni situazione viene fornita una spiegazione e una proposta di intervento.
+
+---
+
+## Analisi delle Opportunità
+
+L'Assistente AI può segnalare:
+
+- possibili perdite di fatturato;
+- periodi ad alta richiesta;
+- eventi locali che potrebbero aumentare la domanda;
+- disponibilità improvvise a seguito di cancellazioni;
+- possibilità di proporre offerte mirate.
+
+Le opportunità vengono presentate con una stima dell'impatto economico, quando disponibile.
+
+---
+
+## Suggerimenti Operativi
+
+L'Assistente AI può suggerire, ad esempio:
+
+- riaprire un periodo chiuso;
+- modificare il soggiorno minimo;
+- aggiornare il prezzo;
+- creare una promozione;
+- contattare clienti abituali;
+- attivare una campagna di ripescaggio;
+- valorizzare nuovi servizi della struttura.
+
+Ogni suggerimento è accompagnato dalla motivazione che lo ha generato.
+
+---
+
+## Decisione Finale
+
+L'Assistente AI propone.
+
+Il proprietario mantiene sempre il controllo e decide se applicare o meno il suggerimento.
+
+Nessuna modifica viene eseguita automaticamente senza autorizzazione.
+
+---
+
+## Principio Vacanze Sicure
+
+L'Intelligenza Artificiale non deve limitarsi a segnalare un problema.
+
+Deve spiegare perché rappresenta un'opportunità, quale beneficio potrebbe derivarne e quali azioni il proprietario può intraprendere per migliorare la gestione della propria struttura.
