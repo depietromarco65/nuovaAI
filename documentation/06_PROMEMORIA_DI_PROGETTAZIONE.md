@@ -437,3 +437,22 @@ Ogni schermata, ogni messaggio e ogni interazione devono trasmettere la sensazio
 Vacanze Sicure non deve essere ricordata per le sue funzionalità.
 
 Deve essere ricordata per come fa sentire le persone mentre la utilizzano.
+
+---
+
+# Nessuna Idea Deve Andare Persa
+
+Ogni idea ritenuta utile durante la progettazione deve essere documentata.
+
+Le idee non devono rimanere nelle conversazioni o nella memoria dei progettisti.
+
+Ogni intuizione deve essere:
+
+- valutata;
+- documentata;
+- collegata al documento di riferimento;
+- aggiornata nel tempo.
+
+Quando un'idea non è ancora sufficientemente definita, viene registrata come proposta di evoluzione anziché essere dimenticata.
+
+La conoscenza rappresenta uno dei patrimoni più importanti del progetto.
