@@ -474,3 +474,24 @@ Vacanze Sicure non nasce scrivendo codice.
 Nasce definendo un modello organizzativo capace di migliorare il lavoro delle persone.
 
 Il software rappresenta l'implementazione del modello e non il punto di partenza della progettazione.
+
+---
+
+# Ogni Osservazione è un'Opportunità
+
+Ogni confronto con il mercato rappresenta un'occasione di apprendimento.
+
+Una schermata, una recensione, una newsletter, una conversazione con un operatore o una nuova funzionalità osservata su altre piattaforme devono essere analizzate criticamente.
+
+L'obiettivo non è copiare.
+
+L'obiettivo è comprendere:
+
+- quale problema risolve;
+- perché è stata progettata;
+- quali limiti presenta;
+- come Vacanze Sicure possa offrire una soluzione migliore.
+
+Ogni osservazione significativa deve essere trasformata in una decisione progettuale documentata.
+
+La conoscenza acquisita rappresenta uno dei patrimoni più importanti del progetto.
