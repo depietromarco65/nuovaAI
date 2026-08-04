@@ -205,3 +205,63 @@ La piattaforma non impone un'unica soluzione.
 Accompagna la crescita dell'operatore proponendo, nel tempo, il piano più conveniente.
 
 Il successo di Vacanze Sicure coincide con il successo dei suoi operatori.
+
+---
+
+# Piano a Margine sul Prezzo
+
+## Principio
+
+L'operatore definisce il prezzo netto che desidera incassare.
+
+La piattaforma applica automaticamente un margine commerciale destinato a coprire il costo del servizio.
+
+Ad esempio.
+
+Prezzo desiderato dall'operatore:
+
+100 €
+
+Margine Vacanze Sicure:
+
+10%
+
+Prezzo pubblicato:
+
+110 €
+
+In caso di prenotazione, l'operatore riceve l'importo netto stabilito.
+
+---
+
+## Vantaggi
+
+L'operatore conosce sempre l'importo che incasserà.
+
+Non deve effettuare calcoli sulle commissioni.
+
+Il prezzo finale viene determinato automaticamente dalla piattaforma.
+
+---
+
+## Flessibilità
+
+La percentuale di margine potrà essere configurata in funzione:
+
+- del piano scelto;
+- del tipo di struttura;
+- degli accordi commerciali;
+- delle campagne promozionali.
+
+---
+
+## Trasparenza
+
+L'operatore visualizza sempre:
+
+- prezzo netto desiderato;
+- margine applicato;
+- prezzo finale pubblicato;
+- importo effettivamente incassato.
+
+La piattaforma mantiene la massima trasparenza nella determinazione del prezzo.
