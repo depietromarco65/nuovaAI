@@ -240,3 +240,15 @@ L'Assistente AI invia notifiche automatiche riguardanti:
 - prenotazione confermata.
 
 Le notifiche sono personalizzabili dal proprietario.
+
+# Aggiornamento della Knowledge Base
+
+Quando viene pubblicata una nuova risposta o viene modificata una risposta esistente, il sistema può notificare:
+
+- gli operatori interessati;
+- i validatori;
+- i proprietari;
+- gli ospiti;
+- gli enti convenzionati;
+
+in funzione della categoria di appartenenza e della rilevanza dell'aggiornamento.
