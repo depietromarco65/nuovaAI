@@ -64,3 +64,20 @@ L'Assistente AI interpreta i dati e propone:
 # Principio Vacanze Sicure
 
 I dati devono aiutare il proprietario a prendere decisioni consapevoli.
+
+---
+
+# Monitoraggio della Stabilità
+
+La piattaforma produce report dedicati alla qualità del sistema.
+
+Ad esempio:
+
+- errori più frequenti;
+- funzionalità maggiormente coinvolte;
+- tempi medi di risoluzione;
+- impatto sugli utenti;
+- anomalie ricorrenti;
+- miglioramenti introdotti.
+
+L'obiettivo è supportare il miglioramento continuo della piattaforma attraverso dati oggettivi.
