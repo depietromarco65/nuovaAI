@@ -431,3 +431,99 @@ Le deleghe attribuiscono esclusivamente il diritto di operare e non trasferiscon
 La gestione dei ruoli e dei permessi rappresenta uno degli elementi fondamentali dell'architettura di Vacanze Sicure.
 
 Separando l'identità della persona dalle autorizzazioni operative, la piattaforma garantisce maggiore sicurezza, flessibilità e tracciabilità, consentendo a ogni utente di assumere ruoli differenti nel corso del tempo senza perdere la propria storia, reputazione e identità digitale.
+
+---
+
+# Esperienza Mobile
+
+## Principio
+
+Vacanze Sicure deve essere progettata secondo un approccio **Mobile First**.
+
+L'applicazione mobile non rappresenta una semplice estensione del portale web, ma uno strumento operativo pensato per accompagnare il proprietario durante l'intera giornata lavorativa.
+
+L'obiettivo è consentire la gestione della struttura ovunque ci si trovi, riducendo al minimo il tempo necessario per svolgere le attività quotidiane.
+
+---
+
+# Dashboard Operativa
+
+All'apertura dell'app il proprietario non visualizza il calendario, ma una Dashboard Operativa che riassume le attività più importanti della giornata.
+
+Ad esempio:
+
+- check-in previsti;
+- check-out programmati;
+- nuove richieste;
+- preventivi da confermare;
+- pagamenti ricevuti;
+- comunicazioni in attesa;
+- scadenze amministrative;
+- manutenzioni programmate;
+- notifiche dell'Assistente AI.
+
+La dashboard rappresenta il punto di partenza dell'attività quotidiana.
+
+---
+
+# Assistente Operativo
+
+L'Assistente AI supporta il proprietario suggerendo le azioni più opportune.
+
+Ad esempio:
+
+- inviare il messaggio di benvenuto;
+- richiedere i documenti mancanti;
+- ricordare una scadenza amministrativa;
+- preparare la comunicazione per il check-in;
+- segnalare un ospite abituale;
+- suggerire un'offerta personalizzata.
+
+L'Assistente AI propone.
+
+La decisione finale rimane sempre dell'operatore.
+
+---
+
+# Gestione Rapida
+
+Le operazioni più frequenti devono essere eseguibili con pochi tocchi.
+
+Ad esempio:
+
+- confermare una prenotazione;
+- inviare una comunicazione;
+- registrare un pagamento;
+- aggiornare la disponibilità;
+- consultare il Fascicolo della Prenotazione;
+- contattare l'ospite;
+- aprire il navigatore;
+- registrare una manutenzione.
+
+---
+
+# Unica Applicazione
+
+Vacanze Sicure prevede un'unica applicazione.
+
+Le funzionalità disponibili cambiano automaticamente in base al ruolo dell'utente autenticato.
+
+Ad esempio:
+
+- Ospite;
+- Proprietario;
+- Collaboratore;
+- Property Manager;
+- Manutentore;
+- Istituzione;
+- Amministratore.
+
+Ogni utente visualizza esclusivamente gli strumenti necessari allo svolgimento delle proprie attività.
+
+---
+
+# Principio Vacanze Sicure
+
+L'applicazione mobile non deve limitarsi a replicare il portale web.
+
+Deve diventare il principale strumento di lavoro quotidiano del proprietario, anticipando le esigenze dell'operatore e semplificando ogni attività attraverso informazioni contestuali, assistenza intelligente e accesso immediato alle funzionalità essenziali.
