@@ -391,3 +391,22 @@ L'Assistente AI può suggerire, ad esempio:
 L'Assistente AI propone.
 
 La decisione finale rimane sempre dell'operatore.
+
+Calendario
+
+↓
+
+Prenotazioni
+
+↓
+
+Scadenze amministrative
+
+↓
+
+Promemoria
+
+↓
+
+Notifiche AI
+
