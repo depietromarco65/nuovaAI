@@ -286,3 +286,21 @@ Tra le opzioni disponibili:
 - gestione completa.
 
 Le impostazioni possono essere modificate in qualsiasi momento.
+
+# Gestione multiutenza
+
+Ogni organizzazione può definire diversi ruoli operativi.
+
+Ad esempio:
+
+- amministratore;
+- titolare;
+- direttore;
+- receptionist;
+- addetto alle prenotazioni;
+- addetto amministrativo;
+- manutentore;
+- validatore interno.
+
+Per ogni utente possono essere configurati permessi differenti.
+
