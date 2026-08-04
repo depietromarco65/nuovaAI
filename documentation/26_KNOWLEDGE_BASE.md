@@ -497,3 +497,421 @@ Quando una risposta non esiste, il sistema non improvvisa ma avvia un processo d
 La Knowledge Base cresce insieme all'esperienza maturata dalla piattaforma, garantendo nel tempo risposte sempre più complete, coerenti e affidabili.
 
 La conoscenza costituisce uno dei patrimoni più importanti di Vacanze Sicure e viene gestita secondo principi di qualità, tracciabilità, trasparenza e miglioramento continuo.
+
+# KNOWLEDGE ENGINE
+
+## Principio
+
+La Knowledge Base rappresenta il cuore informativo di Vacanze Sicure.
+
+Ogni informazione viene archiviata una sola volta e successivamente utilizzata da tutti i componenti della piattaforma.
+
+Non esistono copie della stessa informazione.
+
+Ogni risposta viene generata consultando esclusivamente la documentazione ufficiale validata.
+
+---
+
+# Il ciclo della conoscenza
+
+Ogni informazione segue il seguente ciclo di vita.
+
+Domanda
+
+↓
+
+Ricerca nella Knowledge Base
+
+↓
+
+Risposta trovata
+
+↓
+
+Adattamento al destinatario
+
+↓
+
+Invio della risposta
+
+oppure
+
+↓
+
+Risposta non trovata
+
+↓
+
+Apertura Ticket
+
+↓
+
+Analisi
+
+↓
+
+Validazione
+
+↓
+
+Inserimento nella Knowledge Base
+
+↓
+
+Disponibile per tutti.
+
+---
+
+# Utilizzatori della Knowledge Base
+
+La Knowledge Base alimenta:
+
+• Assistente AI
+
+• Area Ospiti
+
+• Area Proprietari
+
+• Area Validatori
+
+• Area Istituzionale
+
+• FAQ
+
+• Manuali
+
+• Procedure
+
+• Help Contestuale
+
+• Motore di Ricerca
+
+• Formazione
+
+• Centro Assistenza
+
+Ogni componente utilizza la stessa fonte ufficiale.
+
+---
+
+# Metadata
+
+Ogni elemento della Knowledge Base possiede una scheda tecnica.
+
+## Identificativo
+
+ID univoco.
+
+---
+
+## Titolo
+
+Titolo dell'argomento.
+
+---
+
+## Categoria
+
+Ad esempio:
+
+- Certificazione
+- Validazione
+- Prenotazioni
+- Pagamenti
+- Ospitalità Solidale
+- Comunicazioni
+- Marketing
+- AI
+- Sicurezza
+- Privacy
+
+---
+
+## Destinatari
+
+Uno o più.
+
+Ad esempio:
+
+- Ospite
+- Proprietario
+- Agenzia
+- Property Manager
+- Validatore
+- Operatore
+- Ente
+- Amministratore
+
+---
+
+## Livello
+
+- Base
+
+- Intermedio
+
+- Avanzato
+
+- Tecnico
+
+- Normativo
+
+---
+
+## Documento sorgente
+
+Documento ufficiale dal quale deriva.
+
+Esempio
+
+22_VALIDAZIONE_STRUTTURE.md
+
+---
+
+## Versione
+
+Numero versione.
+
+---
+
+## Data creazione
+
+---
+
+## Ultimo aggiornamento
+
+---
+
+## Autore
+
+---
+
+## Stato
+
+Bozza
+
+In Revisione
+
+Validata
+
+Archiviata
+
+Sospesa
+
+---
+
+## Keywords
+
+Elenco delle parole chiave.
+
+---
+
+## Tag
+
+Argomenti correlati.
+
+---
+
+# FAQ dinamiche
+
+Le FAQ non vengono scritte manualmente.
+
+Sono una vista della Knowledge Base.
+
+La stessa risposta può essere pubblicata in:
+
+FAQ Ospiti
+
+FAQ Proprietari
+
+FAQ Agenzie
+
+FAQ Enti
+
+FAQ AI
+
+FAQ Validatori
+
+senza essere duplicata.
+
+---
+
+# Help Contestuale
+
+Ogni schermata della piattaforma può interrogare automaticamente la Knowledge Base.
+
+Esempio
+
+L'utente si trova sul campo
+
+"CIN"
+
+↓
+
+clicca sul punto interrogativo
+
+↓
+
+la spiegazione viene recuperata automaticamente dalla Knowledge Base.
+
+---
+
+# Assistente AI
+
+L'Assistente AI consulta sempre la Knowledge Base.
+
+Non inventa risposte.
+
+Non utilizza informazioni non validate.
+
+Può solamente:
+
+• cercare
+
+• filtrare
+
+• sintetizzare
+
+• adattare il linguaggio
+
+• proporre esempi
+
+senza alterare il significato della documentazione ufficiale.
+
+---
+
+# Ticket della Conoscenza
+
+Quando una domanda non possiede una risposta ufficiale.
+
+Il sistema:
+
+1.
+registra la domanda.
+
+2.
+classifica l'argomento.
+
+3.
+individua il gruppo competente.
+
+4.
+apre automaticamente un Ticket della Conoscenza.
+
+5.
+assegna la priorità.
+
+6.
+notifica il responsabile.
+
+7.
+attende la risposta.
+
+8.
+la risposta viene validata.
+
+9.
+entra nella Knowledge Base.
+
+10.
+diventa disponibile per tutta la piattaforma.
+
+---
+
+# Apprendimento
+
+Il sistema produce statistiche.
+
+Ad esempio.
+
+Le 100 domande più frequenti.
+
+Gli argomenti poco documentati.
+
+Le categorie con maggiori richieste.
+
+Le risposte mai consultate.
+
+Le risposte obsolete.
+
+Le risposte da aggiornare.
+
+---
+
+# Versionamento
+
+Ogni modifica mantiene lo storico.
+
+È sempre possibile conoscere:
+
+chi ha modificato una risposta;
+
+quando;
+
+perché;
+
+quale versione era in vigore.
+
+---
+
+# Collegamenti
+
+Ogni risposta può essere collegata a:
+
+Documenti
+
+Procedure
+
+Video
+
+Modulistica
+
+Normativa
+
+FAQ
+
+Guide
+
+Tutorial
+
+News
+
+Comunicazioni
+
+---
+
+# Ricerca intelligente
+
+La ricerca utilizza:
+
+titolo;
+
+testo;
+
+keywords;
+
+tag;
+
+sinonimi;
+
+categoria;
+
+destinatario;
+
+livello;
+
+documento sorgente.
+
+---
+
+# Filosofia
+
+La conoscenza rappresenta il patrimonio più importante di Vacanze Sicure.
+
+Ogni esperienza genera nuova conoscenza.
+
+Ogni problema risolto diventa patrimonio comune.
+
+Ogni risposta validata migliora l'intera piattaforma.
+
+La Knowledge Base costituisce l'unica fonte ufficiale dalla quale derivano tutte le informazioni distribuite dal sistema.
