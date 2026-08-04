@@ -72,3 +72,27 @@ L'utente conosce preventivamente:
 - eventuali servizi opzionali;
 - modalità di rinnovo;
 - modalità di recesso.
+
+# Neutralità della piattaforma
+
+Vacanze Sicure garantisce parità di trattamento tra tutte le strutture aderenti.
+
+Il contributo economico versato dall'operatore, la tipologia di abbonamento o gli eventuali servizi aggiuntivi acquistati non influenzano il posizionamento nei risultati di ricerca né il livello di visibilità.
+
+La visibilità è determinata esclusivamente da criteri oggettivi, trasparenti e documentabili.
+
+# Modelli economici disponibili
+
+La piattaforma può prevedere differenti modalità di contribuzione economica.
+
+Ad esempio:
+
+- quota annuale;
+- contributo per singola prenotazione;
+- quota mista;
+- servizi opzionali;
+- convenzioni.
+
+Ogni operatore sceglie liberamente il modello più adatto alle proprie esigenze.
+
+La scelta del modello economico non modifica il livello di certificazione né i criteri di visibilità.
