@@ -2,97 +2,206 @@
 
 # MODELLO ECONOMICO
 
-## Principio
+## Missione
 
-L'adesione a Vacanze Sicure contribuisce al finanziamento delle attività di sviluppo, certificazione, assistenza, formazione e miglioramento continuo della piattaforma.
+Vacanze Sicure adotta un modello economico flessibile, trasparente e orientato alle esigenze degli operatori.
 
-Il versamento della quota non costituisce in alcun modo diritto automatico alla pubblicazione della struttura né al rilascio della Certificazione Vacanze Sicure.
+Non esiste un'unica modalità di adesione.
 
-Ogni candidatura segue il proprio percorso di valutazione.
+Ogni struttura può scegliere il piano più adatto al proprio modello di business, al numero di unità gestite e al volume delle prenotazioni.
+
+L'obiettivo è eliminare le barriere economiche all'ingresso e consentire una crescita graduale insieme alla piattaforma.
 
 ---
 
-# Obiettivi
+# Principi
 
-Il modello economico deve garantire:
+Il modello economico si basa su alcuni principi fondamentali.
 
-- sostenibilità della piattaforma;
 - trasparenza;
+- libertà di scelta;
 - semplicità;
-- equità;
-- assenza di conflitti di interesse.
+- assenza di costi nascosti;
+- possibilità di cambiare piano;
+- crescita condivisa.
+
+Vacanze Sicure guadagna quando i propri operatori crescono.
 
 ---
 
-# Quota di adesione
+# Piano Pay per Booking
 
-Ogni categoria può prevedere una quota annuale differenziata.
+Pensato per chi desidera iniziare senza alcun costo fisso.
 
-Le quote sono stabilite dal Consiglio Direttivo o dall'organo competente e pubblicate sul portale.
+## Caratteristiche
+
+- nessun canone mensile;
+- nessun canone annuale;
+- pagamento solo in caso di prenotazione confermata.
+
+Costo
+
+**50 € per ogni prenotazione confermata.**
+
+Ideale per:
+
+- nuove strutture;
+- attività stagionali;
+- chi desidera provare la piattaforma senza impegni.
 
 ---
 
-# La quota comprende
+# Piano Smart
 
-La quota può comprendere:
+Pensato per piccoli proprietari.
 
+## Caratteristiche
+
+- 29 € al mese;
+- fino a 10 unità ricettive;
+- tutte le funzionalità principali della piattaforma;
+- nessun costo aggiuntivo per prenotazione.
+
+Ideale per:
+
+- Case Vacanza;
+- B&B;
+- Affittacamere;
+- piccoli Residence.
+
+---
+
+# Piano Annuale
+
+Pensato per gli operatori che utilizzano la piattaforma durante tutto l'anno.
+
+## Caratteristiche
+
+- 299 € all'anno;
+- fino a 10 unità ricettive;
+- utilizzo completo della piattaforma;
+- nessun costo aggiuntivo per prenotazione.
+
+Ideale per chi desidera ridurre il costo annuale rispetto al canone mensile.
+
+---
+
+# Piano Professional
+
+Pensato per:
+
+- Property Manager;
+- gestori di numerose strutture;
+- reti di ospitalità;
+- società di gestione;
+- gruppi alberghieri.
+
+Il piano viene costruito su misura considerando:
+
+- numero di strutture;
+- volume delle prenotazioni;
+- servizi richiesti;
+- moduli attivati;
+- integrazioni necessarie;
+- livello di assistenza.
+
+L'obiettivo è proporre una soluzione sostenibile sia per l'operatore sia per la piattaforma.
+
+---
+
+# Piano Enterprise
+
+Per grandi organizzazioni.
+
+Ad esempio:
+
+- catene alberghiere;
+- consorzi;
+- DMO;
+- enti pubblici;
+- destinazioni turistiche;
+- grandi Property Manager.
+
+Le condizioni economiche vengono definite attraverso un accordo personalizzato.
+
+---
+
+# Cambio Piano
+
+L'operatore può modificare il proprio piano in qualsiasi momento.
+
+L'Assistente AI analizza periodicamente:
+
+- numero di prenotazioni;
+- numero di strutture;
 - utilizzo della piattaforma;
-- Fascicolo Digitale della Struttura;
-- candidatura;
-- gestione documentale;
-- assistenza AI;
-- notifiche;
-- aggiornamenti software;
-- formazione di base.
+- servizi attivati.
 
-Eventuali servizi aggiuntivi possono essere disciplinati separatamente.
+Quando individua un piano più conveniente propone automaticamente il cambio.
+
+Ad esempio.
+
+> Nell'ultimo anno hai gestito 47 prenotazioni.
+
+> Con il Piano Annuale avresti risparmiato 365 €.
+
+> Vuoi effettuare il passaggio dal prossimo rinnovo?
+
+L'AI suggerisce.
+
+L'utente decide.
 
 ---
 
-# Certificazione
+# Nessun Vincolo
 
-La certificazione è subordinata esclusivamente al superamento delle verifiche previste.
+Vacanze Sicure non impone contratti pluriennali.
 
-Il pagamento della quota non garantisce:
+L'operatore può:
 
-- il rilascio della certificazione;
-- la permanenza della certificazione;
-- il posizionamento nei risultati;
-- l'ottenimento di prenotazioni.
+- cambiare piano;
+- sospendere il servizio;
+- riattivarlo;
+- passare ad un piano superiore o inferiore.
+
+La piattaforma cresce insieme all'attività dell'operatore.
 
 ---
 
 # Trasparenza
 
-Ogni quota viene chiaramente descritta.
+Ogni costo viene mostrato in modo semplice e comprensibile.
 
-L'utente conosce preventivamente:
+Non sono previsti:
 
-- servizi inclusi;
-- eventuali servizi opzionali;
-- modalità di rinnovo;
-- modalità di recesso.
+- costi nascosti;
+- commissioni impreviste;
+- penali di recesso;
+- attivazioni automatiche;
+- servizi non richiesti.
 
-# Neutralità della piattaforma
+---
 
-Vacanze Sicure garantisce parità di trattamento tra tutte le strutture aderenti.
+# Evoluzione
 
-Il contributo economico versato dall'operatore, la tipologia di abbonamento o gli eventuali servizi aggiuntivi acquistati non influenzano il posizionamento nei risultati di ricerca né il livello di visibilità.
+Il modello economico potrà evolvere introducendo:
 
-La visibilità è determinata esclusivamente da criteri oggettivi, trasparenti e documentabili.
+- convenzioni territoriali;
+- agevolazioni per strutture certificate;
+- accordi con associazioni di categoria;
+- incentivi per il Turismo Solidale;
+- partnership istituzionali.
 
-# Modelli economici disponibili
+Ogni modifica sarà comunicata con la massima trasparenza.
 
-La piattaforma può prevedere differenti modalità di contribuzione economica.
+---
 
-Ad esempio:
+# Principio Vacanze Sicure
 
-- quota annuale;
-- contributo per singola prenotazione;
-- quota mista;
-- servizi opzionali;
-- convenzioni.
+Ogni operatore deve poter scegliere il modello economico più adatto alla propria attività.
 
-Ogni operatore sceglie liberamente il modello più adatto alle proprie esigenze.
+La piattaforma non impone un'unica soluzione.
 
-La scelta del modello economico non modifica il livello di certificazione né i criteri di visibilità.
+Accompagna la crescita dell'operatore proponendo, nel tempo, il piano più conveniente.
+
+Il successo di Vacanze Sicure coincide con il successo dei suoi operatori.
