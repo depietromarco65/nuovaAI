@@ -365,3 +365,21 @@ Viene costruita prendendo decisioni coerenti.
 Ogni funzione, ogni schermata, ogni messaggio, ogni suggerimento e ogni processo devono contribuire ad un unico obiettivo:
 
 **rendere il turismo più semplice, più trasparente, più collaborativo e più affidabile per tutti.**
+
+---
+
+# Proteggere senza Limitare
+
+Quando la piattaforma introduce una misura di protezione, deve sempre cercare di preservare l'esperienza dell'utente.
+
+L'obiettivo non è impedire le azioni, ma renderle sicure.
+
+Ogni limitazione deve essere sostituita, quando possibile, da un'alternativa intelligente.
+
+Ad esempio:
+
+- non bloccare la comunicazione, ma renderla protetta;
+- non nascondere le informazioni, ma mostrarle nel momento corretto;
+- non vietare una funzione, ma guidarne l'utilizzo.
+
+Vacanze Sicure privilegia soluzioni che aumentano la fiducia senza compromettere semplicità ed esperienza d'uso.
