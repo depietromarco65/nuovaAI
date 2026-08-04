@@ -495,3 +495,21 @@ L'obiettivo è comprendere:
 Ogni osservazione significativa deve essere trasformata in una decisione progettuale documentata.
 
 La conoscenza acquisita rappresenta uno dei patrimoni più importanti del progetto.
+
+---
+
+# Progettare Emozioni Positive
+
+Ogni funzionalità deve essere valutata non soltanto per ciò che permette di fare, ma anche per l'esperienza che genera.
+
+L'utente deve percepire:
+
+- fiducia;
+- sicurezza;
+- semplicità;
+- accompagnamento;
+- competenza.
+
+Le persone ricordano più facilmente come si sono sentite utilizzando una piattaforma che l'elenco delle sue funzionalità.
+
+Per questo motivo ogni schermata, ogni messaggio e ogni processo devono contribuire a costruire un rapporto positivo e duraturo con l'utente.
