@@ -86,6 +86,26 @@ Il proprietario può consultare i principali elementi che influenzano il proprio
 
 L'AI suggerisce come migliorarlo.
 
+# Indipendenza del Ranking
+
+L'algoritmo di ranking è indipendente dal modello economico scelto dall'operatore.
+
+Non vengono attribuiti vantaggi in funzione di:
+
+- importi versati;
+- numero di prenotazioni;
+- servizi acquistati;
+- sponsorizzazioni.
+
+Il ranking considera esclusivamente elementi oggettivi quali:
+
+- stato della certificazione;
+- completezza della scheda;
+- qualità delle informazioni;
+- aggiornamento dei dati;
+- affidabilità della struttura;
+- preferenze espresse dall'utente;
+- pertinenza rispetto alla ricerca effettuata.
 ---
 
 # Principio Vacanze Sicure
