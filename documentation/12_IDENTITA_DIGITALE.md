@@ -1,79 +1,102 @@
-# Identità Digitale
+# 12_IDENTITA_DIGITALE.md
 
-## Principio
+# IDENTITÀ DIGITALE
 
-Vacanze Sicure identifica prima la persona e successivamente i ruoli che essa può assumere all'interno della piattaforma.
+## 1. Filosofia
 
-L'identità digitale viene verificata mediante sistemi ufficiali di identificazione elettronica, riducendo il rischio di identità false e semplificando la registrazione.
+## 2. Principi Fondamentali
 
----
+## 3. La Persona
 
-# Modalità di registrazione
+### 3.1 Identità Unica
+### 3.2 Dati Anagrafici
+### 3.3 Contatti
+### 3.4 Storico
+### 3.5 Livello di Affidabilità
 
-L'utente può registrarsi mediante:
+## 4. Le Organizzazioni
 
-## Livello 1 - Email
+### 4.1 Persona Fisica
+### 4.2 Persona Giuridica
+### 4.3 Enti Pubblici
+### 4.4 Enti Religiosi
+### 4.5 Associazioni
+### 4.6 Cooperative
+### 4.7 Fondazioni
 
-- email
-- password
-- verifica indirizzo email
+## 5. I Ruoli
 
-Livello minimo.
+### 5.1 Ospite
+### 5.2 Proprietario
+### 5.3 Gestore
+### 5.4 Property Manager
+### 5.5 Agenzia
+### 5.6 Validatore
+### 5.7 Operatore
+### 5.8 Partner
+### 5.9 Ente Istituzionale
 
----
+## 6. Deleghe
 
-## Livello 2 - SPID
+### 6.1 Deleghe Temporanee
+### 6.2 Deleghe Permanenti
+### 6.3 Revoca
+### 6.4 Storico Deleghe
 
-Registrazione mediante SPID.
+## 7. Modalità di Registrazione
 
-Il sistema acquisisce automaticamente, nei limiti consentiti:
+### 7.1 Registrazione Email
+### 7.2 SPID
+### 7.3 Carta d'Identità Elettronica (CIE)
+### 7.4 eIDAS
+### 7.5 Registrazione Assistita
 
-- nome;
-- cognome;
-- codice fiscale;
-- data di nascita.
+## 8. Verifica dell'Identità
 
-L'identità è considerata verificata.
+### 8.1 Email
+### 8.2 Telefono
+### 8.3 Documento
+### 8.4 SPID
+### 8.5 CIE
 
----
+## 9. Livelli di Identità
 
-## Livello 3 - Carta d'Identità Elettronica (CIE)
+### Livello 0
+Identità dichiarata.
 
-Registrazione mediante autenticazione CIE.
+### Livello 1
+Email verificata.
 
-L'identità viene certificata dal sistema pubblico.
+### Livello 2
+Telefono verificato.
 
----
+### Livello 3
+Documento verificato.
 
-## Livello 4 - eIDAS
+### Livello 4
+SPID o CIE.
 
-Per cittadini europei.
+### Livello 5
+Identità certificata.
 
-Utilizzo delle identità digitali riconosciute dal regolamento europeo eIDAS.
+### Livello 6
+Identità istituzionale.
 
----
+## 10. Gestione Multi-Ruolo
 
-# Evoluzione futura
+## 11. Gestione Multi-Organizzazione
 
-Il sistema potrà integrare ulteriori modalità di autenticazione elettronica riconosciute dalla normativa vigente.
+## 12. Sicurezza
 
----
+### 12.1 Autenticazione
+### 12.2 Autorizzazioni
+### 12.3 Tracciabilità
+### 12.4 Audit
 
-# Vantaggi
+## 13. Privacy
 
-L'utilizzo dell'identità digitale consente di:
+## 14. Evoluzioni Future
 
-- ridurre registrazioni fraudolente;
-- evitare errori nella compilazione dei dati;
-- semplificare l'iscrizione;
-- aumentare la fiducia tra gli utenti;
-- agevolare i processi di certificazione;
-- semplificare l'accesso ai servizi.
+## 15. Principi Vacanze Sicure
 
----
-
-# Principio Vacanze Sicure
-
-La fiducia inizia dall'identità.
-
-Quando possibile, la piattaforma privilegia sistemi di identificazione elettronica ufficiali rispetto all'inserimento manuale dei dati.
+## 16. Documenti Correlati
