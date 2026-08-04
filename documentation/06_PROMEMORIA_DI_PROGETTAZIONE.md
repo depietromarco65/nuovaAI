@@ -456,3 +456,21 @@ Ogni intuizione deve essere:
 Quando un'idea non è ancora sufficientemente definita, viene registrata come proposta di evoluzione anziché essere dimenticata.
 
 La conoscenza rappresenta uno dei patrimoni più importanti del progetto.
+
+---
+
+# Prima il Modello, poi il Software
+
+Ogni nuova funzionalità deve essere progettata seguendo questo percorso:
+
+1. individuare il problema;
+2. definire il principio;
+3. progettare il processo;
+4. descrivere l'esperienza dell'utente;
+5. solo successivamente progettare il software.
+
+Vacanze Sicure non nasce scrivendo codice.
+
+Nasce definendo un modello organizzativo capace di migliorare il lavoro delle persone.
+
+Il software rappresenta l'implementazione del modello e non il punto di partenza della progettazione.
