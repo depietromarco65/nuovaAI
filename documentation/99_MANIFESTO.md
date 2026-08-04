@@ -40,4 +40,10 @@ Una struttura deve essere identificabile, verificabile e monitorata nel tempo.
 
 Vacanze Sicure nasce per offrire agli ospiti strumenti concreti per verificare l'affidabilità di una struttura prima della prenotazione.
 
+## La fiducia non è in vendita
 
+Vacanze Sicure non vende posizioni privilegiate nei risultati di ricerca.
+
+La fiducia degli utenti rappresenta il patrimonio più importante della piattaforma.
+
+Ogni struttura viene proposta agli ospiti sulla base della qualità, della trasparenza e della coerenza con le esigenze espresse dal viaggiatore, mai in funzione del contributo economico versato.
