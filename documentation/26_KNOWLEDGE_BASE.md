@@ -923,3 +923,22 @@ Questa risposta ti è stata utile?
 👎 No
 
 ➕ Mancava qualcosa?
+
+---
+
+# Knowledge Base Tecnica
+
+La Knowledge Base comprende anche una sezione dedicata agli eventi tecnici.
+
+Per ogni errore vengono memorizzati:
+
+- identificativo;
+- descrizione;
+- contesto;
+- log originale;
+- causa individuata;
+- soluzione adottata;
+- versione interessata;
+- stato della risoluzione.
+
+L'Assistente AI utilizza tali informazioni per riconoscere automaticamente errori già noti e suggerire le azioni più appropriate.
