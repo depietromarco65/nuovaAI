@@ -419,3 +419,44 @@ Ogni conferma rappresenta un'opportunità per accompagnare l'utente.
 
 La piattaforma non si limita a dire "operazione completata", ma spiega cosa è stato fatto, perché è importante e quale sarà il passo successivo.
 
+---
+
+# Posizionamento
+
+## Principio
+
+Vacanze Sicure non si propone come un semplice portale di prenotazioni né come un gestionale tradizionale.
+
+È un ecosistema digitale che accompagna proprietari, ospiti e istituzioni durante l'intero ciclo dell'ospitalità.
+
+L'obiettivo non è aumentare esclusivamente il numero delle prenotazioni.
+
+L'obiettivo è migliorare l'organizzazione, la qualità dei servizi, la fiducia reciproca e la gestione complessiva dell'attività ricettiva.
+
+---
+
+## Messaggio
+
+Vacanze Sicure non aumenta soltanto le prenotazioni.
+
+Aiuta gli operatori a gestire meglio tutto ciò che accade prima, durante e dopo il soggiorno.
+
+Ogni funzionalità nasce per semplificare il lavoro quotidiano e migliorare l'esperienza delle persone.
+
+---
+
+## Identità
+
+Vacanze Sicure non è un portale.
+
+È il sistema operativo dell'ospitalità.
+
+E qui, secondo me, nasce la frase che potrebbe accompagnare il progetto per anni
+
+Dopo aver analizzato decine di piattaforme, credo che questa sintetizzi davvero la vostra identità:
+
+Vacanze Sicure non è un portale turistico. Non è un PMS. Non è un Channel Manager. Non è un Booking Engine.
+
+È il sistema operativo dell'ospitalità.
+
+Questa frase comunica immediatamente che state costruendo qualcosa di più ampio di una singola categoria di software, ed è coerente con tutti i documenti che abbiamo sviluppato finora.
