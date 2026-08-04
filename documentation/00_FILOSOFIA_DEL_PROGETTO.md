@@ -294,3 +294,107 @@ Non stiamo costruendo un nuovo portale turistico.
 Stiamo costruendo un nuovo rapporto di fiducia tra chi viaggia e chi accoglie.
 
 Questa è la filosofia che guida ogni documento, ogni processo, ogni decisione e ogni futura evoluzione di Vacanze Sicure.
+
+# Decisione Progettuale n. 005
+
+## Data
+
+04 Agosto 2026
+
+---
+
+# Titolo
+
+Principio di Trasparenza Amministrativa
+
+---
+
+# Origine
+
+Durante la progettazione dell'Identity & Access Management (IAM) della piattaforma è emersa la necessità di disciplinare i poteri degli amministratori di sistema.
+
+Vacanze Sicure deve poter intervenire tecnicamente su qualsiasi elemento del sistema per garantire continuità del servizio, assistenza agli utenti, risoluzione di anomalie e sicurezza dell'infrastruttura.
+
+Tale possibilità deve però essere regolata secondo principi di trasparenza e responsabilità.
+
+---
+
+# Decisione progettuale
+
+Vacanze Sicure può disporre di ruoli amministrativi con privilegi estesi sull'intero ecosistema.
+
+Tali privilegi sono finalizzati esclusivamente a:
+
+- garantire il corretto funzionamento della piattaforma;
+- assistere gli utenti;
+- risolvere anomalie tecniche;
+- recuperare dati;
+- effettuare manutenzioni;
+- gestire migrazioni;
+- intervenire in situazioni di emergenza.
+
+---
+
+# Principio
+
+L'esistenza di privilegi elevati non implica libertà di utilizzo.
+
+Ogni accesso ai dati e ogni modifica effettuata da un amministratore devono essere:
+
+- motivati;
+- autorizzati secondo le procedure interne;
+- integralmente tracciati;
+- associati all'identità dell'operatore;
+- non modificabili;
+- verificabili in qualsiasi momento.
+
+---
+
+# Break Glass Access
+
+Gli accessi straordinari ai dati ("Break Glass Access") sono consentiti esclusivamente nei casi previsti dalle procedure operative.
+
+Ogni accesso straordinario deve riportare:
+
+- motivazione;
+- operatore;
+- data;
+- ora;
+- oggetto dell'intervento;
+- esito.
+
+---
+
+# Audit permanente
+
+Nessuna operazione amministrativa può essere eseguita senza produrre una registrazione permanente nel sistema di Audit.
+
+Le registrazioni di Audit costituiscono parte integrante della documentazione ufficiale della piattaforma.
+
+---
+
+# Principio Vacanze Sicure
+
+**Nessun amministratore è invisibile.**
+
+Ogni intervento effettuato sul sistema lascia sempre una traccia verificabile.
+
+La trasparenza vale anche per chi amministra la piattaforma.
+
+---
+
+# Impatto sul progetto
+
+Questa decisione interessa direttamente:
+
+- 00_FILOSOFIA_DEL_PROGETTO.md
+- 12_IDENTITA_DIGITALE.md
+- 13_GESTIONE_RUOLI_E_PERMESSI.md
+- 14_WORKFLOW_AUTORIZZATIVI.md
+- DATABASE_MASTER.md
+
+---
+
+# Stato
+
+✅ Approvata
