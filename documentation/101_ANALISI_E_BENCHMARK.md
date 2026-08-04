@@ -447,3 +447,42 @@ Una dashboard efficace non si misura dal numero di banner presenti.
 Si misura dal tempo che permette di risparmiare all'operatore e dalla capacità di evidenziare immediatamente le informazioni davvero importanti.
 
 Vacanze Sicure adotta il principio della "Dashboard di Servizio": ogni elemento presente deve contribuire a migliorare il lavoro dell'operatore, rafforzare la qualità dell'ospitalità e aumentare la fiducia nel sistema.
+
+# Caso di studio
+## Holidu - Dal Property Management alla Fiducia
+
+### Osservazione
+
+Holidu comunica principalmente i benefici operativi della piattaforma:
+
+- più prenotazioni;
+- meno lavoro amministrativo;
+- sincronizzazione dei canali;
+- assistenza locale;
+- automazione.
+
+La promessa è quella di rendere più efficiente il lavoro dell'host.
+
+---
+
+### Riflessione
+
+Vacanze Sicure condivide l'obiettivo di semplificare il lavoro degli operatori, ma amplia la prospettiva.
+
+L'efficienza operativa rappresenta uno strumento.
+
+La fiducia rappresenta l'obiettivo.
+
+---
+
+### Principio progettuale
+
+Ogni funzionalità deve contribuire contemporaneamente a:
+
+- semplificare il lavoro dell'operatore;
+- aumentare la fiducia dell'ospite;
+- migliorare la qualità della relazione tra le parti.
+
+L'automazione non costituisce il fine della piattaforma.
+
+È uno degli strumenti attraverso i quali realizzare un ecosistema turistico più trasparente, collaborativo e affidabile.
