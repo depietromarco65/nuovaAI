@@ -417,3 +417,23 @@ Misurazione dei risultati
 Le funzionalità non rappresentano il punto di partenza.
 
 Sono la conseguenza della comprensione dei problemi.
+
+---
+
+# Le persone ricordano l'esperienza
+
+Una funzionalità ben progettata è importante.
+
+Un'esperienza positiva lo è ancora di più.
+
+Ogni schermata, ogni messaggio e ogni interazione devono trasmettere la sensazione che la piattaforma:
+
+- comprende il problema;
+- accompagna l'utente;
+- offre soluzioni concrete;
+- comunica con chiarezza;
+- è presente quando serve.
+
+Vacanze Sicure non deve essere ricordata per le sue funzionalità.
+
+Deve essere ricordata per come fa sentire le persone mentre la utilizzano.
