@@ -463,3 +463,23 @@ Ogni nuova idea deve trasformarsi in una decisione progettuale documentata prima
 Vacanze Sicure non sviluppa funzionalità improvvisate.
 
 Ogni evoluzione nasce da un processo di analisi, documentazione, confronto e validazione.
+
+---
+
+# La Visione
+
+Vacanze Sicure nasce nel Salento, ma non per costruire un semplice software destinato alle strutture ricettive.
+
+Nasce per progettare un ecosistema digitale capace di mettere in relazione persone, processi, servizi, istituzioni e territorio.
+
+Ogni componente della piattaforma contribuisce a creare un ambiente collaborativo nel quale informazioni, strumenti e competenze dialogano tra loro.
+
+L'obiettivo non è realizzare il miglior PMS, il miglior Booking Engine o il miglior Channel Manager.
+
+L'obiettivo è costruire il sistema operativo dell'ospitalità.
+
+Un ecosistema aperto, interoperabile, intelligente e orientato alla fiducia.
+
+Il Salento rappresenta il territorio nel quale questo modello viene progettato, sperimentato e perfezionato.
+
+La visione è creare un modello replicabile, capace di adattarsi ad altri territori rispettandone identità, normative e peculiarità.
