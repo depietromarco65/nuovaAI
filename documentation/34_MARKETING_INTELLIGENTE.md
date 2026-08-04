@@ -231,3 +231,63 @@ L'obiettivo è costruire relazioni durature basate sulla fiducia, sulla qualità
 Il marketing non interrompe il viaggio.
 
 Lo accompagna.
+
+---
+
+# Storytelling e Comunicazione
+
+## Principio
+
+Vacanze Sicure comunica attraverso esperienze, risultati e casi concreti.
+
+Ogni messaggio deve partire dai problemi reali degli operatori e proporre soluzioni comprensibili, evitando slogan generici o promesse non dimostrabili.
+
+---
+
+## Comunicazione Basata sui Problemi
+
+Le comunicazioni devono dimostrare di conoscere il contesto operativo dell'utente.
+
+Prima di presentare una soluzione, la piattaforma deve dimostrare di aver compreso:
+
+- le difficoltà quotidiane;
+- i tempi di lavoro;
+- gli adempimenti amministrativi;
+- la gestione degli ospiti;
+- le esigenze economiche della struttura.
+
+---
+
+## Comunicazione Basata sui Risultati
+
+Quando vengono presentati benefici o miglioramenti, essi devono essere supportati da elementi oggettivi.
+
+Ad esempio:
+
+- casi reali;
+- statistiche;
+- indicatori di performance;
+- testimonianze verificabili;
+- confronti prima/dopo.
+
+La fiducia si costruisce attraverso dati e trasparenza.
+
+---
+
+## Linguaggio
+
+Vacanze Sicure comunica come un professionista che lavora accanto all'operatore.
+
+Non utilizza un linguaggio aggressivo o orientato esclusivamente alla vendita.
+
+Ogni comunicazione deve aiutare il destinatario a comprendere, valutare e decidere in modo consapevole.
+
+---
+
+## Principio Vacanze Sicure
+
+La migliore comunicazione non convince.
+
+Dimostra.
+
+La fiducia nasce quando le persone riconoscono che chi comunica conosce realmente il loro lavoro e propone soluzioni concrete ai loro problemi.
