@@ -47,3 +47,34 @@ Vacanze Sicure non vende posizioni privilegiate nei risultati di ricerca.
 La fiducia degli utenti rappresenta il patrimonio più importante della piattaforma.
 
 Ogni struttura viene proposta agli ospiti sulla base della qualità, della trasparenza e della coerenza con le esigenze espresse dal viaggiatore, mai in funzione del contributo economico versato.
+
+---
+
+# Il problema che vogliamo risolvere
+
+L'ospitalità moderna è frammentata.
+
+Ogni operatore utilizza decine di strumenti differenti:
+
+- portali di prenotazione;
+- gestionali;
+- comunicazioni;
+- adempimenti amministrativi;
+- pagamenti;
+- documentazione;
+- reportistica.
+
+Ogni piattaforma risolve un problema specifico.
+
+Nessuna mette realmente in relazione tutte le attività quotidiane.
+
+Vacanze Sicure nasce per superare questa frammentazione.
+
+Non sostituisce semplicemente un software.
+
+Costruisce un ecosistema nel quale persone, dati, processi e servizi collaborano tra loro.
+
+L'obiettivo non è aggiungere un'altra piattaforma.
+
+È eliminare la necessità di utilizzarne così tante.
+
