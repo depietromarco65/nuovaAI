@@ -265,3 +265,85 @@ L'operatore visualizza sempre:
 - importo effettivamente incassato.
 
 La piattaforma mantiene la massima trasparenza nella determinazione del prezzo.
+
+---
+
+# Modello a Prezzo Netto Garantito
+
+## Principio
+
+L'operatore non definisce il prezzo di vendita al pubblico.
+
+Definisce esclusivamente l'importo netto che desidera incassare.
+
+Vacanze Sicure applica automaticamente il proprio margine commerciale e determina il prezzo finale pubblicato.
+
+---
+
+## Esempio
+
+L'operatore desidera incassare:
+
+100 €
+
+La piattaforma applica un margine del 10%.
+
+Prezzo pubblicato:
+
+110 €
+
+In caso di prenotazione:
+
+- l'ospite paga 110 €;
+- l'operatore riceve 100 €;
+- la piattaforma trattiene il proprio margine.
+
+L'importo desiderato dall'operatore rimane invariato.
+
+---
+
+## Vantaggi
+
+L'operatore:
+
+- conosce sempre il proprio incasso;
+- non deve calcolare commissioni;
+- non subisce trattenute sull'importo desiderato;
+- può concentrarsi esclusivamente sul valore della propria struttura.
+
+---
+
+## Margine Dinamico
+
+Il margine della piattaforma può essere configurato in funzione di:
+
+- piano di adesione;
+- periodo;
+- campagne promozionali;
+- accordi commerciali;
+- strategie di marketing.
+
+Ogni variazione viene comunicata con la massima trasparenza.
+
+---
+
+## Controllo del Prezzo
+
+L'operatore visualizza sempre:
+
+- prezzo netto desiderato;
+- margine applicato;
+- prezzo finale pubblicato;
+- importo netto garantito.
+
+L'operatore mantiene sempre il controllo del proprio ricavo.
+
+---
+
+## Principio Vacanze Sicure
+
+L'operatore non deve preoccuparsi delle commissioni.
+
+Deve semplicemente decidere quanto desidera incassare.
+
+Vacanze Sicure si occupa di determinare il prezzo finale nel rispetto delle strategie commerciali della piattaforma e della competitività del mercato.
