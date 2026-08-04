@@ -225,3 +225,18 @@ Ad esempio:
 - sito non raggiungibile.
 
 Le notifiche vengono inviate con adeguato anticipo, quando possibile, per consentire un intervento tempestivo.
+
+# Notifiche delle trattative
+
+L'Assistente AI invia notifiche automatiche riguardanti:
+
+- nuovo preventivo;
+- preventivo in scadenza;
+- richiesta ricevuta;
+- richiesta accettata;
+- richiesta rifiutata;
+- controproposta disponibile;
+- disponibilità liberata;
+- prenotazione confermata.
+
+Le notifiche sono personalizzabili dal proprietario.
