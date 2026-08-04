@@ -526,3 +526,68 @@ Ispirazioni
 | Limiti riscontrati      |             |      |
 | Idee per Vacanze Sicure |             |      |
 
+# Traum-Ferienwohnungen
+
+## Tipologia
+
+Portale di annunci e prenotazioni dirette.
+
+---
+
+## Filosofia
+
+...
+
+---
+
+## Punti di forza
+
+...
+
+---
+
+## Punti deboli
+
+...
+
+---
+
+## Idee da adottare
+
+...
+
+---
+
+## Idee da migliorare
+
+...
+
+---
+
+## Funzionalità mancanti
+
+...
+
+---
+
+## Documenti di Vacanze Sicure interessati
+
+30.01_HOME_PAGE.md
+
+38_SISTEMA_UNICO_PRENOTAZIONI.md
+
+39_MODALITA_DI_ADESIONE.md
+
+100.10_GESTIONE_COMUNICAZIONI.md
+
+---
+
+## Decisioni progettuali
+
+...
+
+---
+
+## Stato
+
+Analizzato
