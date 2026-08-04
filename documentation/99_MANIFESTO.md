@@ -113,3 +113,31 @@ Ogni nuova funzionalità deve contribuire a rafforzare l'ecosistema e non rappre
 L'obiettivo non è creare il miglior PMS.
 
 L'obiettivo è costruire il punto di riferimento digitale per l'ospitalità del territorio.
+
+---
+
+# Il Metodo Vacanze Sicure
+
+Vacanze Sicure non propone un insieme di strumenti indipendenti.
+
+Propone un metodo di lavoro.
+
+Ogni componente della piattaforma è progettata per collaborare con gli altri.
+
+L'obiettivo non è aumentare semplicemente il numero delle prenotazioni.
+
+L'obiettivo è migliorare l'intera gestione dell'ospitalità.
+
+Un operatore che utilizza Vacanze Sicure non adotta un nuovo software.
+
+Adotta un nuovo modo di organizzare, promuovere e gestire la propria attività.
+
+Il metodo si fonda su cinque principi:
+
+- semplicità;
+- fiducia;
+- interoperabilità;
+- accompagnamento;
+- miglioramento continuo.
+
+Ogni funzionalità della piattaforma deve contribuire a rafforzare questi principi.
