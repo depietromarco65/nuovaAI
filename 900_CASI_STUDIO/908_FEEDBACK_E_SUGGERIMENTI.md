@@ -1,23 +1,34 @@
 # FEEDBACK E SUGGERIMENTI
 
-Ogni osservazione proveniente da:
+Ogni osservazione proveniente dall'ecosistema rappresenta una possibile opportunità di miglioramento.
 
-- clienti;
-- host;
+Possono contribuire:
+
 - ospiti;
+- host;
+- property manager;
 - collaboratori;
 - partner;
-- enti pubblici;
 - sviluppatori;
+- enti pubblici;
+- attività commerciali;
+- investitori;
+- competitor;
+- stampa;
+- social network;
+- associazioni di categoria.
 
-deve essere presa in considerazione.
+Ogni feedback viene analizzato dal Centro Studi.
 
-Il feedback rappresenta una delle principali fonti di miglioramento continuo.
+L'obiettivo non è raccogliere opinioni.
 
-Ogni suggerimento viene analizzato dal Centro Studi e può trasformarsi in:
+L'obiettivo è comprendere se un'osservazione può generare:
 
-- nuovo workflow;
-- nuova funzionalità;
-- modifica organizzativa;
-- aggiornamento documentale;
-- Caso Studio.
+- una nuova funzionalità;
+- un nuovo workflow;
+- una modifica organizzativa;
+- una revisione documentale;
+- un aggiornamento dell'AI;
+- una nuova strategia.
+
+Nessun suggerimento viene ignorato senza essere prima valutato.
