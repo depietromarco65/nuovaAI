@@ -86,3 +86,20 @@ Ad esempio:
 - eventi.
 
 Evitare urgenze artificiali o ripetute che possano ridurre la fiducia nel tempo.
+## Storytelling "Sono tornato"
+
+La newsletter inizia con:
+
+"Dopo mesi di silenzio..."
+
+Non nasconde l'assenza.
+La trasforma in una nuova promessa.
+
+Schema:
+
+- riconoscimento del passato
+- spiegazione del cambiamento
+- promessa
+- mantenimento della promessa
+
+È un buon esempio di comunicazione autentica.
