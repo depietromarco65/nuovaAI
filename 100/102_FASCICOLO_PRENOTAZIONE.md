@@ -305,3 +305,29 @@ La prenotazione non rappresenta un semplice evento amministrativo.
 Rappresenta un percorso composto da persone, documenti, attività, comunicazioni ed esperienze.
 
 Il Fascicolo Prenotazione conserva la memoria completa di questo percorso e mette tutte le informazioni a disposizione dell'ecosistema in modo semplice, sicuro e contestuale.
+
+## Da inserire in 102_FASCICOLO_PRENOTAZIONE.md
+
+### Acquisizione Automatica delle Prenotazioni
+
+Le prenotazioni provenienti da Channel Manager o OTA devono alimentare automaticamente il Fascicolo Prenotazione.
+
+Il sistema può acquisire:
+
+- identificativo della prenotazione;
+- canale di provenienza;
+- stato;
+- ospite;
+- periodo del soggiorno;
+- struttura;
+- unità ricettiva;
+- numero ospiti;
+- importi;
+- pagamenti;
+- politiche di cancellazione;
+- richieste speciali;
+- servizi inclusi;
+- servizi opzionali;
+- informazioni aggiuntive.
+
+Ogni dato acquisito viene automaticamente classificato e reso disponibile ai moduli dell'ecosistema.
