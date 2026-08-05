@@ -371,3 +371,24 @@ Le informazioni ricevute dalle OTA consentono di analizzare:
 - evoluzione dei flussi informativi.
 
 Il Centro Studi utilizza tali dati per migliorare l'integrazione dell'ecosistema con i principali canali di distribuzione.
+## Fonte dati: ShinyStat
+
+Tipo:
+
+Analytics Web.
+
+Periodicità:
+
+Settimanale.
+
+Dati raccolti:
+
+- visite
+- pagine viste
+- andamento giornaliero
+- totale storico
+- ranking categoria
+
+Utilizzo:
+
+Monitorare l'efficacia delle attività di marketing e delle campagne.
