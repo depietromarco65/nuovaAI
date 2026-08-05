@@ -465,3 +465,18 @@ Deve poter contare sul fatto che ogni informazione sia corretta, aggiornata, con
 L'integrazione dei dati non è una funzione tecnica.
 
 È il fondamento che rende possibile un ecosistema realmente intelligente.
+## Integrazione ShinyStat
+
+Il Motore di Integrazione acquisisce automaticamente i dati provenienti dai report ShinyStat.
+
+Campi importabili:
+
+- periodo
+- visite
+- pagine viste
+- visite cumulative
+- pagine cumulative
+- visite giornaliere
+- ranking
+
+I dati vengono normalizzati e resi disponibili ai moduli di analisi.
