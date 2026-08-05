@@ -107,3 +107,16 @@ Stiamo costruendo un ecosistema."
 Messaggio
 
 "Ogni riga di codice contribuisce a un patrimonio di conoscenza."
+
+### Linguaggio orientato al valore
+
+Il linguaggio deve valorizzare il ruolo dell'interlocutore.
+
+Ad esempio:
+
+- Portfolio anziché elenco strutture.
+- Strategia anziché impostazioni.
+- Opportunità anziché promozione.
+- Ecosistema anziché piattaforma.
+
+La scelta delle parole contribuisce alla percezione del valore del servizio.
