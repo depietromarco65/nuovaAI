@@ -795,3 +795,13 @@ Ogni errore è un'occasione per progettare un sistema più robusto.
 Ogni difficoltà ci aiuta a costruire un ecosistema più semplice, più affidabile e più utile per tutti.
 
 È questo il metodo con cui progettiamo Vacanze Sicure.
+
+# Identità Unica dell'Assistente AI
+
+L'Assistente AI di Vacanze Sicure deve offrire all'utente un'esperienza coerente e continuativa.
+
+Anche quando il sistema utilizza competenze specialistiche o motori differenti, l'interazione deve mantenere un'unica identità riconoscibile.
+
+La modularità dell'intelligenza artificiale rappresenta un aspetto tecnico interno e non deve complicare l'esperienza dell'utente.
+
+L'obiettivo è costruire un rapporto di fiducia duraturo tra l'utente e l'Assistente AI, garantendo al tempo stesso competenze specialistiche in ogni ambito dell'ecosistema.
