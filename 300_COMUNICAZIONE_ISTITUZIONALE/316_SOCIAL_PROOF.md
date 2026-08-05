@@ -289,3 +289,18 @@ Ad esempio:
 "Questa disponibilità è stata comunicata anche ad altri clienti interessati."
 
 Informazioni di questo tipo trasmettono correttezza e aiutano il cliente a comprendere il contesto senza ricorrere a tecniche di pressione artificiale.
+
+## Autorevolezza implicita
+
+L'autore non dice:
+
+"Sono bravo."
+
+Dimostra competenza attraverso:
+
+- report annuale
+- interviste
+- partecipazione a WordCamp
+- anni di utilizzo degli strumenti
+
+La prova sociale è indiretta.
