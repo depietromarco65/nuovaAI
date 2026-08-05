@@ -330,3 +330,18 @@ Devono essere individuate tempestivamente comunicazioni riguardanti:
 - modifiche normative richieste dalle piattaforme.
 
 Ogni comunicazione rilevante deve essere classificata e trasmessa al Centro Studi per valutare eventuali impatti sull'ecosistema Vacanze Sicure e predisporre le opportune azioni correttive o informative.
+## Da inserire in 412_OSSERVATORIO_PERMANENTE.md
+
+### Analisi delle Motivazioni di Mancata Prenotazione
+
+L'Osservatorio Permanente raccoglie e classifica le motivazioni che impediscono la conclusione delle prenotazioni.
+
+Ad esempio:
+
+- servizi mancanti;
+- caratteristiche della struttura;
+- disponibilità limitata;
+- esigenze specifiche degli ospiti;
+- tempistiche della richiesta.
+
+Le informazioni vengono condivise con il Centro Studi per individuare possibili miglioramenti dell'offerta e della comunicazione.
