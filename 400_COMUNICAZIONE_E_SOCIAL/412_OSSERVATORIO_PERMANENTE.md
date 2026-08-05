@@ -379,3 +379,76 @@ L'Osservatorio rappresenta la sua capacità di osservare, imparare ed evolvere.
 Vacanze Sicure non si limita a gestire il turismo.
 
 Lo osserva, lo comprende e contribuisce alla sua evoluzione attraverso decisioni fondate sulla conoscenza.
+
+---
+
+# Collaborazione con il Centro Studi
+
+## Principio
+
+L'Osservatorio Permanente non prende decisioni strategiche.
+
+Il suo compito è osservare, raccogliere, classificare e segnalare le informazioni rilevanti.
+
+Quando vengono individuati eventi, fenomeni o cambiamenti che possono influenzare il settore turistico o l'evoluzione della piattaforma, l'Osservatorio trasmette le proprie analisi al Centro Studi Vacanze Sicure.
+
+---
+
+## Cosa viene segnalato
+
+L'Osservatorio può evidenziare, ad esempio:
+
+- modifiche normative;
+- nuove opportunità di mercato;
+- bandi e finanziamenti;
+- criticità ricorrenti;
+- cambiamenti tecnologici;
+- evoluzione delle OTA;
+- nuovi competitor;
+- esigenze emergenti degli ospiti;
+- problematiche segnalate dagli host;
+- innovazioni introdotte da altre piattaforme;
+- cambiamenti economici;
+- eventi che possono influenzare il turismo.
+
+---
+
+## Attività del Centro Studi
+
+Ricevute le segnalazioni, il Centro Studi può:
+
+- approfondire l'argomento;
+- confrontare più fonti;
+- valutarne l'affidabilità;
+- stimarne l'impatto;
+- individuare rischi e opportunità;
+- proporre modifiche progettuali;
+- suggerire nuove funzionalità;
+- predisporre documentazione;
+- elaborare comunicazioni dedicate ai soggetti interessati.
+
+---
+
+## Comunicazione
+
+Quando un'informazione viene ritenuta rilevante, il Centro Studi può predisporre comunicazioni specifiche rivolte a:
+
+- ospiti;
+- host;
+- property manager;
+- attività commerciali;
+- enti pubblici;
+- partner;
+- investitori;
+- sviluppatori;
+- amministratori della piattaforma.
+
+Ogni comunicazione viene adattata alle esigenze e al linguaggio del destinatario.
+
+---
+
+## Principio Vacanze Sicure
+
+Osservare non significa soltanto raccogliere informazioni.
+
+Significa trasformarle in conoscenza utile, favorire decisioni consapevoli e condividere tempestivamente ciò che può generare valore per l'intero ecosistema.
