@@ -607,3 +607,88 @@ La conoscenza è uno degli asset più importanti dell'ecosistema.
 Ogni idea documentata aumenta il valore del progetto.
 
 Ogni idea dimenticata rappresenta una perdita di conoscenza.
+
+---
+
+# Memoria Progettuale Permanente
+
+## Principio
+
+Durante la progettazione emergono continuamente idee, intuizioni, osservazioni e decisioni.
+
+Queste rappresentano uno dei patrimoni più importanti del progetto e non devono mai andare perdute.
+
+Ogni idea significativa, indipendentemente dal fatto che provenga dai progettisti, dall'analisi di competitor, da recensioni, da conversazioni con operatori, da normative o da casi reali, deve essere trasformata in conoscenza documentata.
+
+---
+
+## Metodo
+
+Ogni idea segue il seguente percorso:
+
+OSSERVAZIONE
+
+↓
+
+PROBLEMA
+
+↓
+
+IDEA
+
+↓
+
+DECISIONE PROGETTUALE
+
+↓
+
+DOCUMENTO DI RIFERIMENTO
+
+↓
+
+IMPLEMENTAZIONE
+
+↓
+
+EVOLUZIONE
+
+---
+
+## Registro delle Idee
+
+Ogni idea approvata deve essere:
+
+- documentata;
+- collegata ai documenti interessati;
+- eventualmente ripresa in futuro;
+- migliorata nel tempo.
+
+Le idee non devono rimanere all'interno delle conversazioni.
+
+Devono diventare parte integrante della memoria del progetto.
+
+---
+
+## Collaborazione
+
+La memoria progettuale comprende indistintamente:
+
+- idee proposte dai progettisti;
+- idee emerse durante il confronto;
+- intuizioni nate dall'analisi del mercato;
+- osservazioni ricavate da casi reali;
+- soluzioni individuate durante la progettazione.
+
+Il valore dell'idea non dipende dalla sua origine ma dalla capacità di migliorare il progetto.
+
+---
+
+## Principio Vacanze Sicure
+
+Ogni decisione deve poter rispondere alla domanda:
+
+"Perché è stata progettata in questo modo?"
+
+La risposta deve essere sempre rintracciabile nella documentazione.
+
+La memoria progettuale costituisce uno degli asset strategici di Vacanze Sicure.
