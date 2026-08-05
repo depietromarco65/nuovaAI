@@ -1,6 +1,25 @@
-# TEMPLATE CASO STUDIO
+# TEMPLATE ESPERIENZA
 
 ## Titolo
+
+---
+
+## Data
+
+---
+
+## Fonte
+
+Ad esempio:
+
+- Host
+- Ospite
+- Partner
+- Benchmark
+- Sentenza
+- Articolo
+- Osservatorio Permanente
+- Centro Studi
 
 ---
 
@@ -8,65 +27,39 @@
 
 ---
 
-## Situazione iniziale
+## Descrizione
 
 ---
 
-## Problema
+## Cosa è accaduto
 
 ---
 
-## Soluzione adottata
+## Aspetti positivi
 
 ---
 
-## Risultato
+## Criticità
 
 ---
 
-## Cosa ha funzionato
+## Lezioni Apprese
 
 ---
 
-## Cosa non ha funzionato
+## Idee generate
 
 ---
 
-## Lezioni apprese
+## Documenti interessati
 
 ---
 
-## Idee nate
+## Workflow interessati
 
 ---
 
-## Documenti coinvolti
-
----
-
-## Workflow coinvolti
-
----
-
-## Moduli software coinvolti
-
----
-
-## Centro Studi
-
-Analisi.
-
----
-
-## Osservatorio
-
-Eventuali collegamenti.
-
----
-
-## AI
-
-Conoscenza da apprendere.
+## Moduli software interessati
 
 ---
 
@@ -77,3 +70,11 @@ Alta
 Media
 
 Bassa
+
+---
+
+## Note Centro Studi
+
+---
+
+## Azioni future
