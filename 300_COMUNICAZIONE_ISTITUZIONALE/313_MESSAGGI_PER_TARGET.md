@@ -120,3 +120,17 @@ Ad esempio:
 - Ecosistema anziché piattaforma.
 
 La scelta delle parole contribuisce alla percezione del valore del servizio.
+## Da inserire in 313_MESSAGGI_PER_TARGET.md
+
+### Comunicazioni Contestuali
+
+Le comunicazioni devono essere inviate esclusivamente ai soggetti realmente interessati.
+
+Ad esempio:
+
+- clienti che avevano richiesto disponibilità;
+- utenti interessati ad una specifica struttura;
+- ospiti con esigenze compatibili;
+- clienti che avevano richiesto un determinato periodo.
+
+La comunicazione deve risultare pertinente, utile e tempestiva.
