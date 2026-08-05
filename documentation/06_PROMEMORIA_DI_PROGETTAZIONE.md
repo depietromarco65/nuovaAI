@@ -805,3 +805,17 @@ Anche quando il sistema utilizza competenze specialistiche o motori differenti, 
 La modularità dell'intelligenza artificiale rappresenta un aspetto tecnico interno e non deve complicare l'esperienza dell'utente.
 
 L'obiettivo è costruire un rapporto di fiducia duraturo tra l'utente e l'Assistente AI, garantendo al tempo stesso competenze specialistiche in ogni ambito dell'ecosistema.
+
+---
+
+# Gestione dei Documenti in Sospeso
+
+Quando durante la progettazione emerge la necessità di creare un nuovo documento, questo viene inserito nell'elenco dei documenti da sviluppare.
+
+Prima di aprire nuovi argomenti, si privilegia il completamento dei documenti già pianificati, salvo casi urgenti o analisi di particolare rilevanza.
+
+L'obiettivo è mantenere una documentazione coerente, completa e progressivamente consolidata, evitando la proliferazione di file incompleti.
+
+La progettazione segue il principio:
+
+"Prima consolidare, poi espandere."
