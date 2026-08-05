@@ -529,3 +529,22 @@ Il Workspace rappresenta il punto di incontro tra persone, informazioni, process
 Non è una schermata del software.
 
 È l'ambiente operativo dell'intero ecosistema Vacanze Sicure.
+## Da inserire in 716_WORKSPACE_OPERATIVI.md
+
+### Workspace Giornaliero
+
+Il sistema può generare automaticamente un Workspace dedicato alla giornata operativa.
+
+Il Workspace Giornaliero può raccogliere:
+
+- arrivi previsti;
+- partenze previste;
+- check-in;
+- check-out;
+- pulizie;
+- manutenzioni;
+- attività assegnate;
+- comunicazioni urgenti;
+- eventuali anomalie.
+
+L'obiettivo è fornire agli operatori una visione completa delle attività della giornata.
