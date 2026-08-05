@@ -780,3 +780,18 @@ L'obiettivo non è dimostrare di avere sempre ragione.
 L'obiettivo è migliorare continuamente.
 
 Ogni critica analizzata con apertura e metodo può trasformarsi in un'opportunità di crescita per l'intero ecosistema.
+
+
+## Il nostro approccio
+
+In Vacanze Sicure non cerchiamo di dimostrare di avere sempre ragione.
+
+Cerchiamo di comprendere i problemi reali.
+
+Ogni critica rappresenta un'opportunità di miglioramento.
+
+Ogni errore è un'occasione per progettare un sistema più robusto.
+
+Ogni difficoltà ci aiuta a costruire un ecosistema più semplice, più affidabile e più utile per tutti.
+
+È questo il metodo con cui progettiamo Vacanze Sicure.
