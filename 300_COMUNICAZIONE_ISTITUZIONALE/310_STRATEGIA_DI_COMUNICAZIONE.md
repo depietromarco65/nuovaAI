@@ -802,3 +802,16 @@ La piattaforma deve accompagnare automaticamente ogni pratica durante il suo int
 L'obiettivo non è digitalizzare la carta.
 
 L'obiettivo è trasformare ogni procedimento in un processo intelligente, collaborativo e integrato con l'intero ecosistema Vacanze Sicure.
+## Newsletter che non vende
+
+L'obiettivo principale non è la conversione immediata.
+
+Obiettivi:
+
+- mantenere il rapporto
+- aumentare fiducia
+- mostrare competenza
+- educare il mercato
+- creare appuntamento ricorrente
+
+La vendita arriverà nelle comunicazioni successive.
