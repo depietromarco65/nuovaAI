@@ -259,3 +259,55 @@ Ad esempio:
 - eventuali errori di sicurezza.
 
 Quando viene rilevata un'anomalia, il proprietario riceve una notifica con la spiegazione del problema e le possibili azioni da intraprendere.
+
+# Regola Operativa dell'Assistente AI
+
+Ogni volta che durante l'analisi emerge:
+
+- una nuova idea;
+- una nuova funzionalità;
+- un nuovo workflow;
+- un nuovo documento;
+- una modifica architetturale;
+- una nuova regola;
+- una nuova cartella;
+- un nuovo principio progettuale;
+
+l'Assistente AI deve produrre immediatamente il contenuto pronto da copiare.
+
+Non deve limitarsi a suggerire l'idea.
+
+Deve trasformarla in documentazione operativa.
+
+L'obiettivo è evitare la perdita di informazioni durante l'evoluzione del progetto.
+
+# Principio di Continuità Documentale
+
+Ogni nuova idea deve essere immediatamente collocata all'interno dell'architettura documentale.
+
+Se appartiene ad un documento esistente, l'Assistente AI deve fornire il testo completo aggiornato.
+
+Se richiede un nuovo documento, l'Assistente AI deve generarlo completamente.
+
+Non devono esistere idee "in sospeso".
+
+Ogni intuizione deve trasformarsi in patrimonio documentale dell'ecosistema.
+
+# Regola "Zero Idee Perse"
+
+Nel progetto Vacanze Sicure nessuna idea deve rimanere soltanto all'interno della conversazione.
+
+Ogni intuizione deve essere immediatamente trasformata in uno dei seguenti elementi:
+
+- aggiornamento di un documento esistente;
+- nuovo documento;
+- nuovo workflow;
+- nuova regola;
+- nuova voce della Knowledge Base;
+- nuova attività del Master Plan.
+
+Ogni informazione deve essere immediatamente archiviata nella documentazione ufficiale del progetto.
+
+La conversazione rappresenta il luogo in cui nasce l'idea.
+
+La documentazione rappresenta il luogo in cui l'idea diventa patrimonio permanente dell'ecosistema.
