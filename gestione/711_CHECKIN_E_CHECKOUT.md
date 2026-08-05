@@ -103,3 +103,24 @@ Fidelizzazione
 Il check-in rappresenta l'inizio dell'esperienza.
 
 Il check-out rappresenta l'inizio della relazione futura.
+
+## Da inserire in 711_CHECKIN_E_CHECKOUT.md
+
+### Preparazione Automatica degli Arrivi
+
+Il sistema deve predisporre automaticamente la lista degli arrivi previsti.
+
+Per ogni arrivo possono essere visualizzati:
+
+- ospite;
+- struttura;
+- unità ricettiva;
+- periodo del soggiorno;
+- numero di prenotazione;
+- note dell'ospite;
+- stato del check-in;
+- documentazione;
+- pagamenti;
+- eventuali richieste particolari.
+
+L'obiettivo è consentire agli operatori di preparare l'accoglienza prima dell'arrivo degli ospiti.
