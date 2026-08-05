@@ -251,3 +251,21 @@ L'Assistente AI può:
 Il Fascicolo Struttura rappresenta la memoria digitale della struttura.
 
 Ogni attività, documento, comunicazione, evento e decisione viene registrata per garantire continuità operativa, trasparenza, qualità e miglioramento continuo.
+
+## Da inserire in 701_FASCICOLO_STRUTTURA.md
+
+### Stato dei Canali di Distribuzione
+
+Il Fascicolo Struttura può contenere lo stato operativo di ciascun canale di distribuzione collegato.
+
+Per ogni canale possono essere registrati:
+
+- stato dell'account;
+- verifiche richieste;
+- documentazione inviata;
+- sospensioni;
+- riattivazioni;
+- notifiche ricevute;
+- storico degli interventi.
+
+L'obiettivo è consentire agli operatori di conoscere immediatamente la situazione di ogni canale senza dover consultare piattaforme esterne.
