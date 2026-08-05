@@ -402,3 +402,19 @@ Ogni comunicazione entra a far parte della memoria dell'ecosistema, alimenta i F
 L'obiettivo non è inviare comunicazioni.
 
 L'obiettivo è costruire relazioni di fiducia tra persone, organizzazioni e territorio, mantenendo ogni interazione contestualizzata, documentata e disponibile per tutto l'ecosistema.
+
+## Da inserire in 611_COMMUNICATION_ENGINE.md
+
+### Comunicazioni Delegate
+
+Alcuni canali esterni non trasmettono direttamente il contenuto della comunicazione, ma notificano la presenza di un nuovo messaggio.
+
+In questi casi il Communication Engine deve registrare:
+
+- piattaforma di origine;
+- tipo di evento;
+- data e ora;
+- collegamento alla prenotazione o al Fascicolo;
+- stato della comunicazione (da leggere, letta, gestita).
+
+Quando possibile, il sistema può recuperare automaticamente il contenuto tramite integrazioni autorizzate; in caso contrario registra l'evento e guida l'operatore all'accesso sulla piattaforma esterna.
