@@ -99,3 +99,22 @@ Ad esempio:
 - decisione tardiva del cliente.
 
 Queste informazioni rappresentano una fonte di conoscenza per il Centro Studi.
+
+## Da inserire in 709_MONITORAGGIO_E_PERFORMANCE.md
+
+### Analisi delle Prenotazioni
+
+Ogni prenotazione alimenta automaticamente gli indicatori di performance.
+
+Ad esempio:
+
+- ADR;
+- RevPAR;
+- permanenza media;
+- provenienza delle prenotazioni;
+- occupazione;
+- commissioni pagate;
+- canale utilizzato;
+- anticipo medio della prenotazione.
+
+Le analisi vengono condivise con il Centro Studi.
