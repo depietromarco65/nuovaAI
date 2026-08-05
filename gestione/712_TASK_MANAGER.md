@@ -118,3 +118,21 @@ Task automatico:
 - confermare il ripristino dell'annuncio.
 
 Il Task viene assegnato al soggetto competente e monitorato fino alla conclusione.
+
+## Da inserire in 712_TASK_MANAGER.md
+
+### Task Automatici Pre Arrivo
+
+L'avvicinarsi della data di check-in può generare automaticamente attività operative.
+
+Ad esempio:
+
+- preparazione della camera;
+- verifica della pulizia;
+- controllo manutenzioni;
+- predisposizione della documentazione;
+- verifica del pagamento;
+- preparazione delle chiavi;
+- predisposizione dei servizi richiesti.
+
+Ogni attività viene assegnata automaticamente ai collaboratori competenti.
