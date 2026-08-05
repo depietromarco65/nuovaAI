@@ -357,3 +357,17 @@ Il sistema può utilizzare questa conoscenza per:
 - migliorare la comunicazione nei periodi di alta domanda.
 
 L'obiettivo non è creare urgenza artificiale, ma aiutare il cliente a prendere decisioni consapevoli sulla base dell'andamento reale del mercato.
+## Da inserire in 412_OSSERVATORIO_PERMANENTE.md
+
+### Monitoraggio delle OTA
+
+Le informazioni ricevute dalle OTA consentono di analizzare:
+
+- politiche di cancellazione;
+- modalità di pagamento;
+- commissioni;
+- servizi richiesti;
+- nuove informazioni trasmesse;
+- evoluzione dei flussi informativi.
+
+Il Centro Studi utilizza tali dati per migliorare l'integrazione dell'ecosistema con i principali canali di distribuzione.
