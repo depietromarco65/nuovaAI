@@ -82,3 +82,20 @@ Ad esempio:
 - criticità aperte.
 
 Questi indicatori consentono di monitorare in tempo reale l'andamento operativo della struttura.
+## Da inserire in 709_MONITORAGGIO_E_PERFORMANCE.md
+
+### Analisi delle Opportunità Perse
+
+Il sistema può analizzare le motivazioni delle prenotazioni non concluse.
+
+Ad esempio:
+
+- struttura non idonea;
+- numero bagni insufficiente;
+- prezzo;
+- distanza;
+- servizi mancanti;
+- disponibilità esaurita;
+- decisione tardiva del cliente.
+
+Queste informazioni rappresentano una fonte di conoscenza per il Centro Studi.
