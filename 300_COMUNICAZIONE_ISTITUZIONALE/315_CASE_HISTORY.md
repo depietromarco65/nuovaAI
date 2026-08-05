@@ -47,3 +47,17 @@ Esperienza positiva.
 ↓
 
 Nuova funzionalità Fascicolo Ospite.
+
+### Utilizzare risultati misurabili
+
+Quando disponibili, i benefici devono essere supportati da dati misurabili.
+
+Preferire:
+
+- percentuali;
+- indicatori;
+- statistiche;
+- risultati aggregati;
+- casi reali.
+
+Le affermazioni devono poter essere dimostrate.
