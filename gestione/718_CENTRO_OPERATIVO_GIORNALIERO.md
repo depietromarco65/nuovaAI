@@ -252,3 +252,20 @@ Ogni informazione deve essere disponibile nel momento giusto, nel contesto giust
 L'obiettivo non è mostrare dati.
 
 L'obiettivo è aiutare persone e Assistente AI a prendere decisioni rapide, consapevoli e coordinate, trasformando la complessità operativa in un flusso di lavoro semplice, integrato e orientato al miglioramento continuo.
+## Da inserire in 718_CENTRO_OPERATIVO_GIORNALIERO.md
+
+### Nuove Prenotazioni
+
+Il Centro Operativo evidenzia immediatamente le nuove prenotazioni ricevute.
+
+Per ogni prenotazione vengono mostrati:
+
+- canale di provenienza;
+- struttura;
+- periodo;
+- ospiti;
+- stato del pagamento;
+- documentazione da predisporre;
+- eventuali criticità.
+
+L'operatore può avviare direttamente tutte le attività necessarie.
