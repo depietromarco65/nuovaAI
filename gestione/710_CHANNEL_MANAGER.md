@@ -104,3 +104,28 @@ Analizza:
 Il Channel Manager non rappresenta solamente un connettore tecnologico.
 
 Rappresenta il punto di coordinamento tra l'ecosistema Vacanze Sicure e il mercato della distribuzione online.
+
+## Da inserire in 710_CHANNEL_MANAGER.md
+
+### Monitoraggio dello Stato dei Canali
+
+Il Channel Manager non deve limitarsi alla sincronizzazione di disponibilità e prezzi.
+
+Deve monitorare anche lo stato operativo dei canali collegati.
+
+Ad esempio:
+
+- account attivo;
+- account sospeso;
+- verifica richiesta;
+- documentazione incompleta;
+- errori di sincronizzazione;
+- annunci non pubblicati;
+- limitazioni operative.
+
+In presenza di anomalie il sistema deve:
+
+- notificare gli operatori;
+- creare automaticamente un Task;
+- collegare l'evento al Fascicolo Struttura;
+- suggerire le azioni necessarie per la risoluzione.
