@@ -452,3 +452,59 @@ Ogni comunicazione viene adattata alle esigenze e al linguaggio del destinatario
 Osservare non significa soltanto raccogliere informazioni.
 
 Significa trasformarle in conoscenza utile, favorire decisioni consapevoli e condividere tempestivamente ciò che può generare valore per l'intero ecosistema.
+
+---
+
+# Classificazione delle Informazioni
+
+Ogni informazione acquisita dall'Osservatorio viene classificata secondo una o più aree tematiche.
+
+La classificazione consente di individuare rapidamente i soggetti interessati, valutare l'impatto delle novità e predisporre eventuali approfondimenti o comunicazioni dedicate.
+
+Le principali aree comprendono, a titolo esemplificativo:
+
+- normativa turistica;
+- locazioni brevi;
+- strutture ricettive;
+- sicurezza sul lavoro;
+- privacy e protezione dei dati personali;
+- fiscalità;
+- lavoro e personale;
+- antincendio;
+- edilizia e urbanistica;
+- ambiente;
+- accessibilità;
+- sicurezza informatica;
+- commercio;
+- marketing;
+- intelligenza artificiale;
+- pagamenti elettronici;
+- identità digitale;
+- pubblica amministrazione;
+- turismo esperienziale;
+- mobilità;
+- sostenibilità;
+- tutela del consumatore.
+
+L'elenco è dinamico e può evolvere nel tempo.
+
+---
+
+# Valutazione dell'Impatto
+
+Per ogni informazione rilevante l'Osservatorio produce una scheda di analisi contenente almeno:
+
+- fonte;
+- data;
+- livello di attendibilità;
+- area tematica;
+- soggetti coinvolti;
+- territorio interessato;
+- livello di priorità;
+- impatto operativo;
+- impatto economico;
+- impatto normativo;
+- impatto tecnologico;
+- eventuali azioni suggerite.
+
+Quando necessario la scheda viene trasmessa al Centro Studi per gli opportuni approfondimenti.
