@@ -513,3 +513,97 @@ L'utente deve percepire:
 Le persone ricordano più facilmente come si sono sentite utilizzando una piattaforma che l'elenco delle sue funzionalità.
 
 Per questo motivo ogni schermata, ogni messaggio e ogni processo devono contribuire a costruire un rapporto positivo e duraturo con l'utente.
+
+---
+
+# Nessuna Idea Deve Essere Persa
+
+## Principio
+
+Ogni idea significativa emersa durante la progettazione rappresenta un patrimonio del progetto.
+
+Non importa se l'idea nasce da:
+
+- un'intuizione;
+- un benchmark;
+- una recensione;
+- una conversazione con un host;
+- una normativa;
+- una newsletter;
+- un errore;
+- un problema operativo;
+- un confronto tra i progettisti.
+
+Ogni idea deve essere valutata, documentata e collegata al documento più appropriato.
+
+Le idee non devono rimanere nelle conversazioni.
+
+Devono entrare a far parte della conoscenza permanente di Vacanze Sicure.
+
+---
+
+## Metodo
+
+Ogni nuova idea segue il seguente percorso.
+
+OSSERVAZIONE
+
+↓
+
+PROBLEMA
+
+↓
+
+IDEA
+
+↓
+
+PRINCIPIO
+
+↓
+
+DOCUMENTO
+
+↓
+
+IMPLEMENTAZIONE
+
+↓
+
+VALIDAZIONE
+
+---
+
+## Tracciabilità
+
+Ogni decisione progettuale deve poter rispondere almeno ad una domanda.
+
+"Perché questa funzionalità esiste?"
+
+La risposta deve poter essere ricostruita attraverso la documentazione del progetto.
+
+---
+
+## Evoluzione
+
+Le idee non sono definitive.
+
+Possono essere:
+
+- migliorate;
+- integrate;
+- unite ad altre idee;
+- sostituite;
+- archiviate.
+
+La documentazione rappresenta la memoria evolutiva del progetto.
+
+---
+
+## Principio Vacanze Sicure
+
+La conoscenza è uno degli asset più importanti dell'ecosistema.
+
+Ogni idea documentata aumenta il valore del progetto.
+
+Ogni idea dimenticata rappresenta una perdita di conoscenza.
