@@ -280,3 +280,18 @@ La conoscenza genera decisioni.
 Le decisioni guidano lo sviluppo.
 
 Per questo motivo il Master Plan costituisce il documento più importante dell'intero progetto.
+### Principio dei Motori
+
+Ogni "Motore" dell'ecosistema Vacanze Sicure rappresenta un servizio trasversale che opera a supporto di tutti gli altri moduli.
+
+Un Motore non appartiene ad una singola funzionalità, ma fornisce servizi condivisi all'intero ecosistema.
+
+Esempi di Motori:
+
+- Motore Documentale;
+- Motore di Integrazione Dati;
+- Communication Engine;
+- Assistente AI;
+- Knowledge Base.
+
+L'architettura basata sui Motori garantisce modularità, riuso delle funzionalità e semplicità di evoluzione del sistema.
