@@ -124,3 +124,19 @@ Per ogni arrivo possono essere visualizzati:
 - eventuali richieste particolari.
 
 L'obiettivo è consentire agli operatori di preparare l'accoglienza prima dell'arrivo degli ospiti.
+## Da inserire in 711_CHECKIN_E_CHECKOUT.md
+
+### Preparazione Automatica del Check-in
+
+L'acquisizione della prenotazione consente al sistema di predisporre automaticamente il processo di check-in.
+
+Possono essere evidenziati:
+
+- documenti mancanti;
+- orario di arrivo;
+- richieste particolari;
+- servizi acquistati;
+- pagamenti residui;
+- note operative.
+
+L'obiettivo è ridurre i tempi di accoglienza e migliorare l'esperienza dell'ospite.
