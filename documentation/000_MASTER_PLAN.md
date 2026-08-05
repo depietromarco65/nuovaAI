@@ -74,3 +74,15 @@ Ogni Politica deve essere:
 - applicabile automaticamente dai Motori dell'ecosistema.
 
 L'obiettivo è garantire trasparenza, coerenza e tracciabilità nella gestione di ogni rapporto tra utenti, strutture e piattaforma.
+## Regola "Zero File Fantasma"
+
+Nel progetto Vacanze Sicure non possono esistere documenti citati ma non ancora creati.
+
+Ogni volta che durante la progettazione emerge la necessità di un nuovo file:
+
+- il documento deve essere generato immediatamente;
+- deve ricevere il proprio identificativo definitivo;
+- deve essere inserito nell'architettura documentale;
+- deve essere completo e autosufficiente.
+
+L'obiettivo è evitare riferimenti a documenti inesistenti e garantire che ogni elemento dell'architettura sia immediatamente disponibile.
