@@ -58,3 +58,21 @@ Ad esempio:
 - nuova prenotazione.
 
 Questo consente di ricostruire l'intero ciclo di vita dell'opportunità.
+## Da inserire in 717_TIMELINE_DEGLI_EVENTI.md
+
+### Eventi di Prenotazione
+
+La Timeline registra automaticamente tutti gli eventi relativi alla prenotazione.
+
+Ad esempio:
+
+- ricezione prenotazione;
+- conferma;
+- pagamento;
+- modifica;
+- cancellazione;
+- check-in;
+- check-out;
+- recensione.
+
+Ogni evento mantiene il collegamento con il Fascicolo Prenotazione.
