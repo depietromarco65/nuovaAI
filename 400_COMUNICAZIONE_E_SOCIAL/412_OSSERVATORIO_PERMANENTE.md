@@ -310,3 +310,23 @@ Le trasforma in conoscenza.
 La conoscenza diventa decisione.
 
 Le decisioni diventano evoluzione dell'ecosistema.
+
+## Da inserire in 412_OSSERVATORIO_PERMANENTE.md
+
+### Monitoraggio dei Canali OTA
+
+L'Osservatorio Permanente deve monitorare le comunicazioni provenienti dalle OTA (Online Travel Agency) e dagli altri canali di distribuzione.
+
+Devono essere individuate tempestivamente comunicazioni riguardanti:
+
+- sospensione di annunci;
+- verifiche dell'account;
+- documentazione mancante;
+- modifiche alle condizioni di utilizzo;
+- nuove funzionalità;
+- campagne promozionali;
+- aggiornamenti tecnici;
+- variazioni degli algoritmi di visibilità;
+- modifiche normative richieste dalle piattaforme.
+
+Ogni comunicazione rilevante deve essere classificata e trasmessa al Centro Studi per valutare eventuali impatti sull'ecosistema Vacanze Sicure e predisporre le opportune azioni correttive o informative.
