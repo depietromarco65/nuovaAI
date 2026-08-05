@@ -1,11 +1,17 @@
-610_MOTORE_DOCUMENTALE.md
+## Visione
 
-611_GESTIONE_TEMPLATE.md
+Il Motore Documentale gestisce l'intero ciclo di vita dei documenti dell'ecosistema Vacanze Sicure.
 
-612_FIRMA_DIGITALE.md
+Ogni documento può essere:
 
-613_WORKFLOW_DOCUMENTALI.md
+- generato automaticamente;
+- precompilato;
+- inviato ai destinatari;
+- firmato digitalmente;
+- archiviato;
+- collegato ai Fascicoli;
+- monitorato attraverso workflow automatici.
 
-614_FASCICOLO_DOCUMENTALE.md
+Il documento non rappresenta un semplice file.
 
-615_ARCHIVIAZIONE_DIGITALE.md
+Rappresenta un evento dell'ecosistema capace di attivare processi, aggiornare informazioni e generare nuove attività.
