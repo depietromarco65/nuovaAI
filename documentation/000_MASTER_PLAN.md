@@ -59,3 +59,18 @@ L'ecosistema si basa su tre livelli fondamentali:
 - **Centro Operativo Giornaliero** → rappresenta il punto di coordinamento delle attività quotidiane, fornendo una visione unificata dell'operatività dell'intero ecosistema.
 
 Questa architettura riduce la frammentazione delle informazioni, migliora l'esperienza degli operatori e consente all'Assistente AI di supportare ogni attività nel corretto contesto operativo.
+### Politiche come Motore dell'Ecosistema
+
+Le Politiche rappresentano un elemento trasversale dell'ecosistema Vacanze Sicure.
+
+Non costituiscono semplici condizioni contrattuali, ma regole operative che influenzano prenotazioni, pagamenti, documentazione, workflow, comunicazioni, automazioni, Task e decisioni dell'Assistente AI.
+
+Ogni Politica deve essere:
+
+- identificata da un codice univoco;
+- versionata;
+- storicizzata;
+- collegata ai Fascicoli e alle Pratiche;
+- applicabile automaticamente dai Motori dell'ecosistema.
+
+L'obiettivo è garantire trasparenza, coerenza e tracciabilità nella gestione di ogni rapporto tra utenti, strutture e piattaforma.
