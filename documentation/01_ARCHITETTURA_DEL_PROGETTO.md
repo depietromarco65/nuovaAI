@@ -1,3 +1,45 @@
+# Documento
+
+001_ARCHITETTURA_DEL_PROGETTO.md
+
+## Scopo
+
+...
+
+## Stato
+
+🟡 In evoluzione
+
+## Versione
+
+0.1
+
+## Dipende da
+
+000_MASTER_PLAN.md
+
+## Alimenta
+
+200_GOVERNANCE
+
+400_CENTRO_STUDI
+
+500_AI
+
+...
+
+## Documenti correlati
+
+...
+
+## Ultimo aggiornamento
+
+05/08/2026
+
+## Responsabile
+
+Centro Studi Vacanze Sicure
+
 # 01_ARCHITETTURA_DEL_PROGETTO.md
 
 # ARCHITETTURA DEL PROGETTO
