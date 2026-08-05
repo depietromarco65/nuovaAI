@@ -71,3 +71,16 @@ Ottimizzazione turni.
 # Principio
 
 Ogni attività deve essere documentata e verificabile.
+## Da inserire in 705_HOUSEKEEPING.md
+
+### Pianificazione basata sugli Arrivi
+
+Le attività di Housekeeping devono essere pianificate considerando:
+
+- arrivi previsti;
+- partenze previste;
+- permanenze;
+- richieste speciali;
+- priorità operative.
+
+Il sistema deve proporre automaticamente la sequenza ottimale delle attività.
