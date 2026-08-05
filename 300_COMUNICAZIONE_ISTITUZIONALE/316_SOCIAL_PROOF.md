@@ -278,3 +278,14 @@ Ad esempio:
 - risultati ottenuti.
 
 L'obiettivo è rafforzare la fiducia attraverso dati concreti.
+## Da inserire in 316_SOCIAL_PROOF.md
+
+### Trasparenza nelle Comunicazioni
+
+La fiducia aumenta quando la comunicazione è trasparente.
+
+Ad esempio:
+
+"Questa disponibilità è stata comunicata anche ad altri clienti interessati."
+
+Informazioni di questo tipo trasmettono correttezza e aiutano il cliente a comprendere il contesto senza ricorrere a tecniche di pressione artificiale.
