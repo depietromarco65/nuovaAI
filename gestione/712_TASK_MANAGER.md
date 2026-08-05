@@ -96,3 +96,25 @@ Efficienza.
 # Principio Vacanze Sicure
 
 Ogni attività deve essere tracciabile e misurabile.
+
+## Da inserire in 712_TASK_MANAGER.md
+
+### Generazione Automatica dei Task
+
+Le comunicazioni provenienti da piattaforme esterne possono generare automaticamente attività operative.
+
+Ad esempio:
+
+Evento:
+"Account Agoda temporaneamente disattivato"
+
+↓
+
+Task automatico:
+
+- verificare la documentazione richiesta;
+- completare la procedura di verifica;
+- monitorare la riattivazione;
+- confermare il ripristino dell'annuncio.
+
+Il Task viene assegnato al soggetto competente e monitorato fino alla conclusione.
