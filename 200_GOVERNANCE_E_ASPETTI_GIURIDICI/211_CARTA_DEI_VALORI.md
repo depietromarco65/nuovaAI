@@ -284,3 +284,12 @@ La nostra ambizione non è costruire la piattaforma più grande.
 Perché il vero successo non si misura soltanto con i numeri.
 
 Si misura con la fiducia che saremo capaci di conquistare e mantenere nel tempo.
+## Principio delle Opportunità
+
+Vacanze Sicure considera ogni esperienza come una possibile opportunità di crescita.
+
+Una richiesta, una critica, una cancellazione, una modifica normativa, una nuova tecnologia o un semplice suggerimento possono rappresentare l'inizio di un miglioramento.
+
+L'ecosistema promuove una cultura orientata alla ricerca delle opportunità, trasformando ogni situazione in conoscenza condivisa e valore per la comunità.
+
+**"Ogni opportunità persa deve poter diventare un'opportunità recuperata."**
