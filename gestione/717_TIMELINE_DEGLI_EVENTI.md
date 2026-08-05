@@ -42,3 +42,19 @@ Ad esempio:
 - recensione ricevuta.
 
 Ogni evento contribuisce alla ricostruzione completa della storia della prenotazione.
+## Da inserire in 717_TIMELINE_DEGLI_EVENTI.md
+
+### Opportunità Recuperate
+
+La Timeline registra anche gli eventi commerciali.
+
+Ad esempio:
+
+- cancellazione;
+- No-Show;
+- disponibilità improvvisa;
+- invio comunicazione ai clienti interessati;
+- nuova richiesta;
+- nuova prenotazione.
+
+Questo consente di ricostruire l'intero ciclo di vita dell'opportunità.
