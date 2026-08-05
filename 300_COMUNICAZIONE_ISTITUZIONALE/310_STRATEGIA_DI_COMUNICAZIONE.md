@@ -266,3 +266,23 @@ Serve a far comprendere.
 Quando una persona comprende realmente il valore dell'ecosistema, la scelta diventa naturale.
 
 Per questo motivo ogni messaggio deve contribuire a costruire fiducia, condividere conoscenza e creare relazioni durature.
+
+### Comunicazione coerente con il Customer Journey
+
+Ogni comunicazione deve essere coerente con la fase del Customer Journey in cui si trova l'utente.
+
+La comunicazione evolve insieme al rapporto con il cliente.
+
+Ad esempio:
+
+- **Lead** → spiegare il problema e creare interesse.
+- **Utente interessato** → fornire valore, autorevolezza e rassicurazione.
+- **Cliente che ha deciso** → comunicazione essenziale, chiara e operativa.
+- **Cliente attivo** → accompagnare, assistere e facilitare l'utilizzo dei servizi.
+- **Cliente fidelizzato** → mantenere la relazione e creare nuove opportunità di valore.
+
+### Principio
+
+Non tutte le comunicazioni devono vendere.
+
+Ogni comunicazione deve aiutare l'utente a compiere il passo successivo del proprio percorso.
