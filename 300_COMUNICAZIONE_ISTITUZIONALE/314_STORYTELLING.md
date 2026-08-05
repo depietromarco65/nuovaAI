@@ -73,3 +73,16 @@ Dopo la vendita l'utente non cerca più motivazioni per acquistare, ma desidera:
 - supporto.
 
 La comunicazione deve quindi adattarsi al nuovo contesto, eliminando elementi promozionali non più necessari.
+
+### Urgenza autentica
+
+L'urgenza deve derivare da eventi reali e verificabili.
+
+Ad esempio:
+
+- scadenze;
+- disponibilità limitata;
+- finestre temporali;
+- eventi.
+
+Evitare urgenze artificiali o ripetute che possano ridurre la fiducia nel tempo.
