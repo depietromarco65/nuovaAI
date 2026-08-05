@@ -884,3 +884,21 @@ Ogni nuova idea, decisione o principio potrà essere riutilizzato per raccontare
 La documentazione non descrive soltanto ciò che realizziamo.
 
 Contribuisce a definire chi siamo, quali valori rappresentiamo e quale futuro vogliamo costruire.
+
+# I Social sono uno Strumento di Ascolto
+
+Vacanze Sicure utilizza i social network non soltanto per comunicare.
+
+Li utilizza per ascoltare.
+
+Ogni recensione, commento, domanda, critica o suggerimento rappresenta una possibile fonte di conoscenza.
+
+L'obiettivo non è aumentare semplicemente il numero dei follower.
+
+L'obiettivo è comprendere l'evoluzione del mercato, anticipare i bisogni degli utenti e migliorare continuamente l'ecosistema.
+
+La comunicazione è bidirezionale.
+
+Parlare è importante.
+
+Ascoltare lo è ancora di più.
