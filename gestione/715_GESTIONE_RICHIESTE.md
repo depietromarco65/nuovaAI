@@ -433,3 +433,18 @@ Rappresenta il punto di ingresso nell'ecosistema.
 Ogni richiesta racchiude un bisogno, un'opportunità e una relazione da costruire.
 
 L'obiettivo della piattaforma non è limitarsi a fornire una risposta, ma accompagnare ogni soggetto lungo un percorso strutturato, intelligente e trasparente, trasformando ogni interazione in conoscenza, valore e miglioramento continuo per l'intero ecosistema Vacanze Sicure.
+
+## Da inserire in 715_GESTIONE_RICHIESTE.md
+
+### Memoria delle Richieste
+
+Una richiesta non deve essere eliminata dopo la conclusione della trattativa.
+
+Il sistema conserva lo storico delle richieste per consentire:
+
+- ricontatti mirati;
+- nuove offerte;
+- proposte alternative;
+- recupero delle occasioni perse.
+
+Ogni richiesta mantiene il collegamento con il Fascicolo Ospite e con il Fascicolo Struttura.
