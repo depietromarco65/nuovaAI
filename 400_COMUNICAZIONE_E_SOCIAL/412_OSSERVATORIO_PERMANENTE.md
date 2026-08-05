@@ -345,3 +345,15 @@ Ad esempio:
 - tempistiche della richiesta.
 
 Le informazioni vengono condivise con il Centro Studi per individuare possibili miglioramenti dell'offerta e della comunicazione.
+## Principio della Tempestività
+
+L'analisi delle prenotazioni dimostra che il momento in cui il cliente prende la decisione influenza direttamente la disponibilità delle strutture.
+
+Il sistema può utilizzare questa conoscenza per:
+
+- informare gli utenti;
+- suggerire prenotazioni anticipate;
+- supportare la pianificazione delle vacanze;
+- migliorare la comunicazione nei periodi di alta domanda.
+
+L'obiettivo non è creare urgenza artificiale, ma aiutare il cliente a prendere decisioni consapevoli sulla base dell'andamento reale del mercato.
