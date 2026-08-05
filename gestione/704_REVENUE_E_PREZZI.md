@@ -77,3 +77,18 @@ L'AI suggerisce ma non modifica automaticamente i prezzi.
 # Principio
 
 Il Revenue Management supporta le decisioni dell'host, non le sostituisce.
+## Da inserire in 704_REVENUE_E_PREZZI.md
+
+### Analisi Economica della Prenotazione
+
+Per ogni prenotazione il sistema può distinguere automaticamente:
+
+- importo lordo;
+- imponibile;
+- commissioni OTA;
+- commissioni di pagamento;
+- importi già incassati;
+- importi residui;
+- ricavo netto stimato.
+
+Queste informazioni alimentano la reportistica economica e le analisi del Revenue Management.
