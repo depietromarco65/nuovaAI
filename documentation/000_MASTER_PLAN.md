@@ -47,3 +47,15 @@ La documentazione rappresenta il patrimonio di conoscenza dell'ecosistema e cres
 Non esistono documenti definitivi.
 
 Esistono documenti in continua evoluzione.
+
+## Evoluzione dell'Interfaccia
+
+L'interfaccia di Vacanze Sicure non deve essere progettata come una raccolta di menu o schermate indipendenti.
+
+L'ecosistema si basa su tre livelli fondamentali:
+
+- **Fascicoli** → rappresentano la memoria e raccolgono tutte le informazioni relative a un soggetto o a un'entità.
+- **Workspace** → rappresentano l'ambiente operativo contestuale in cui utenti e Assistente AI lavorano.
+- **Centro Operativo Giornaliero** → rappresenta il punto di coordinamento delle attività quotidiane, fornendo una visione unificata dell'operatività dell'intero ecosistema.
+
+Questa architettura riduce la frammentazione delle informazioni, migliora l'esperienza degli operatori e consente all'Assistente AI di supportare ogni attività nel corretto contesto operativo.
