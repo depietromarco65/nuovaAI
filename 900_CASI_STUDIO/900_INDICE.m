@@ -2,57 +2,82 @@
 
 # CASI STUDIO
 
-## Scopo
-
-Ogni caso studio rappresenta un'esperienza reale dalla quale Vacanze Sicure trae insegnamenti per migliorare il proprio ecosistema.
-
-I casi studio costituiscono una delle principali fonti di innovazione del progetto.
+> "Ogni esperienza rappresenta una fonte di conoscenza."
 
 ---
 
-# Cosa contiene un caso studio
+# Scopo
 
-Ogni documento deve descrivere:
+La cartella **900_CASI_STUDIO** raccoglie tutte le esperienze reali dalle quali l'ecosistema Vacanze Sicure trae insegnamenti.
 
-- contesto;
-- situazione iniziale;
-- problema;
-- soluzione adottata;
-- criticità;
-- punti di forza;
-- suggerimenti;
-- idee progettuali;
-- moduli coinvolti;
-- documenti interessati;
-- workflow generati.
+Ogni caso studio viene analizzato, documentato e trasformato in conoscenza riutilizzabile.
+
+I casi studio rappresentano una delle principali fonti di innovazione del progetto.
 
 ---
 
-# Obiettivo
+# Cosa può diventare un Caso Studio
 
-Trasformare ogni esperienza reale in conoscenza riutilizzabile.
+- Esperienze dirette
+- Esperienze degli host
+- Esperienze degli ospiti
+- Benchmark dei competitor
+- Recensioni
+- Suggerimenti
+- Critiche
+- Problemi risolti
+- Problemi non risolti
+- Sentenze
+- Evoluzioni normative
+- Innovazioni tecnologiche
+- Workflow
+- Test
+- Nuove idee
+
+---
+
+# Flusso
+
+Esperienza
+
+↓
+
+Caso Studio
+
+↓
+
+Centro Studi
+
+↓
+
+Analisi
+
+↓
+
+Documentazione
+
+↓
+
+Knowledge Base
+
+↓
+
+Assistente AI
+
+↓
+
+Software
+
+↓
+
+Nuova Esperienza
 
 ---
 
 # Principio
 
+Nessuna esperienza deve andare perduta.
+
 Ogni problema rappresenta un'opportunità di miglioramento.
 
-Ogni esperienza rappresenta patrimonio del progetto.
-
-900_CASI_STUDIO/
-│
-├── 900_INDICE.md
-│
-├── 901_CASO_STUDIO_001_PRENOTAZIONE_ACASA_DI_AMICI.md
-├── 902_CASO_STUDIO_002.md
-├── 903_CASO_STUDIO_003.md
-│
-├── 910_BEST_PRACTICE.md
-├── 911_ERRORI_DA_NON_RIPETERE.md
-├── 912_IDEE_NATE_DAI_CASI_STUDIO.md
-├── 913_FEEDBACK_CLIENTI.md
-├── 914_BENCHMARK_REALI.md
-├── 915_LEZIONI_APPRESE.md
-├── 916_EVOLUZIONE_DEL_PROGETTO.md
-└── 917_ARCHIVIO_STORICO.md
+Ogni successo rappresenta una Best Practice.
