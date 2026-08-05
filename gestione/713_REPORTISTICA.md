@@ -72,3 +72,15 @@ Anomalie.
 # Principio Vacanze Sicure
 
 I report devono aiutare a prendere decisioni, non soltanto mostrare numeri.
+## Report Analytics
+
+Tra i report periodici vengono archiviati:
+
+- Google Analytics
+- Google Search Console
+- ShinyStat
+- Booking Analytics
+- Expedia Analytics
+- Octorate Analytics
+
+Ogni report viene collegato al relativo periodo temporale per consentire confronti storici.
