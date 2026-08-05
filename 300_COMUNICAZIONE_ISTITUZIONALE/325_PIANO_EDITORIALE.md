@@ -83,3 +83,30 @@ Marketing
 AI
 
 Partner
+
+## Modello newsletter mensile
+
+Frequenza:
+1 volta al mese
+
+Struttura:
+
+Introduzione personale
+
+↓
+
+3 promesse
+
+↓
+
+Contenuti suddivisi per categoria
+
+↓
+
+Richiesta feedback
+
+↓
+
+Firma
+
+Ogni newsletter contiene sia contenuti evergreen sia novità.
