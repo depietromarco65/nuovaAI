@@ -134,3 +134,32 @@ Ad esempio:
 - clienti che avevano richiesto un determinato periodo.
 
 La comunicazione deve risultare pertinente, utile e tempestiva.
+## Newsletter relazionale periodica
+
+Obiettivo:
+Mantenere vivo il rapporto con clienti e contatti senza vendere direttamente.
+
+Schema osservato:
+
+1. Apertura personale.
+2. Spiegazione del nuovo formato.
+3. Promessa di valore.
+4. Contenuti divisi per categorie.
+5. Chiusura con richiesta di feedback.
+
+La vendita è assente.
+L'obiettivo è aumentare autorevolezza e fiducia nel tempo.
+
+Applicazione a Più Prenotazioni:
+Una newsletter mensile potrebbe essere strutturata per categorie:
+
+- Marketing alberghiero
+- Revenue
+- Prenotazioni dirette
+- OTA
+- Gestionale
+- Caso del mese
+- Errore da evitare
+- Strumento consigliato
+
+L'utente sceglie cosa leggere senza sentirsi sotto pressione.
