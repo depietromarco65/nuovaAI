@@ -412,3 +412,18 @@ Lo Statuto non rappresenta soltanto un documento giuridico.
 Rappresenta la dichiarazione dei valori, della missione e della visione dell'organizzazione.
 
 Ogni articolo dovrà contribuire a costruire un ecosistema capace di favorire collaborazione, innovazione, trasparenza e sviluppo sostenibile del turismo, mettendo al centro le persone, il territorio e la conoscenza.
+
+200_GOVERNANCE_E_ASPETTI_GIURIDICI/
+│
+├── 200_ATTO_COSTITUTIVO.md
+├── 201_SCHEMA_STATUTO.md      ← Documento progettuale
+├── 202_STATUTO_UFFICIALE.md   ← Versione notarile definitiva
+├── 203_REGOLAMENTO_INTERNO.md
+├── 204_MODELLO_DI_GOVERNANCE.md
+├── 205_CODICE_ETICO.md
+├── 206_CONFLITTI_DI_INTERESSE.md
+├── 207_TRASPARENZA_E_RENDICONTAZIONE.md
+├── 208_PARTNERSHIP_E_CONVENZIONI.md
+├── 209_PROPRIETA_INTELLETTUALE.md
+├── 210_SOSTENIBILITA_E_IMPATTO_SOCIALE.md
+└── 211_CARTA_DEI_VALORI.md
