@@ -23,3 +23,22 @@ Ogni evento deve riportare:
 - livello di criticità;
 - eventuali azioni intraprese;
 - documentazione collegata.
+
+## Da inserire in 717_TIMELINE_DEGLI_EVENTI.md
+
+### Eventi Operativi
+
+La Timeline registra automaticamente gli eventi legati alla gestione operativa.
+
+Ad esempio:
+
+- prenotazione ricevuta;
+- arrivo programmato;
+- check-in effettuato;
+- richiesta speciale;
+- pagamento registrato;
+- pulizia completata;
+- check-out effettuato;
+- recensione ricevuta.
+
+Ogni evento contribuisce alla ricostruzione completa della storia della prenotazione.
