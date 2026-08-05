@@ -1,56 +1,70 @@
 # 900_INDICE.md
 
-# CASI STUDIO
+# ESPERIENZE E CONOSCENZA
 
-> "Ogni esperienza rappresenta una fonte di conoscenza."
+> "Ogni esperienza rappresenta un patrimonio.
+> Ogni osservazione può generare innovazione."
 
 ---
 
 # Scopo
 
-La cartella **900_CASI_STUDIO** raccoglie tutte le esperienze reali dalle quali l'ecosistema Vacanze Sicure trae insegnamenti.
+Questa area raccoglie tutte le esperienze, le osservazioni e le informazioni che contribuiscono alla crescita dell'ecosistema Vacanze Sicure.
 
-Ogni caso studio viene analizzato, documentato e trasformato in conoscenza riutilizzabile.
+Non rappresenta un semplice archivio.
 
-I casi studio rappresentano una delle principali fonti di innovazione del progetto.
+Rappresenta il patrimonio di conoscenza costruito nel tempo.
 
----
-
-# Cosa può diventare un Caso Studio
-
-- Esperienze dirette
-- Esperienze degli host
-- Esperienze degli ospiti
-- Benchmark dei competitor
-- Recensioni
-- Suggerimenti
-- Critiche
-- Problemi risolti
-- Problemi non risolti
-- Sentenze
-- Evoluzioni normative
-- Innovazioni tecnologiche
-- Workflow
-- Test
-- Nuove idee
+Ogni elemento raccolto viene analizzato, classificato e collegato ai documenti interessati.
 
 ---
 
-# Flusso
+# Cosa contiene
+
+Questa area può contenere qualsiasi informazione utile allo sviluppo dell'ecosistema.
+
+Ad esempio:
+
+- esperienze operative;
+- benchmark;
+- recensioni;
+- suggerimenti;
+- criticità;
+- sentenze;
+- evoluzioni normative;
+- articoli di stampa;
+- analisi dei competitor;
+- osservazioni provenienti dall'Osservatorio Permanente;
+- feedback degli utenti;
+- idee progettuali;
+- workflow migliorativi;
+- innovazioni tecnologiche.
+
+---
+
+# Obiettivo
+
+Trasformare ogni esperienza in conoscenza riutilizzabile.
+
+Ogni informazione deve poter contribuire al miglioramento continuo della piattaforma, dell'organizzazione e dei servizi.
+
+---
+
+# Flusso della Conoscenza
 
 Esperienza
 
 ↓
 
-Caso Studio
-
-↓
-
-Centro Studi
+Osservazione
 
 ↓
 
 Analisi
+
+↓
+
+Centro Studi
 
 ↓
 
@@ -70,14 +84,32 @@ Software
 
 ↓
 
-Nuova Esperienza
+Utenti
+
+↓
+
+Nuove Esperienze
 
 ---
 
-# Principio
+# Regole
 
-Nessuna esperienza deve andare perduta.
+Ogni nuova esperienza deve essere:
 
-Ogni problema rappresenta un'opportunità di miglioramento.
+- documentata;
+- classificata;
+- collegata ai documenti interessati;
+- valutata dal Centro Studi;
+- eventualmente trasformata in nuove idee progettuali.
 
-Ogni successo rappresenta una Best Practice.
+---
+
+# Principio Vacanze Sicure
+
+L'esperienza rappresenta il punto di partenza.
+
+La conoscenza rappresenta il patrimonio.
+
+L'innovazione rappresenta il risultato.
+
+Ogni contributo dell'ecosistema può generare valore per tutti gli altri soggetti coinvolti.
