@@ -521,3 +521,30 @@ Le informazioni hanno finalità informative e non vincolano le decisioni degli u
 Un mercato più trasparente genera decisioni migliori.
 
 L'informazione riduce il conflitto e favorisce un rapporto di fiducia tra ospiti e operatori.
+
+---
+
+# Comunicare i Problemi, non il Prodotto
+
+## Principio
+
+Le persone non acquistano una piattaforma.
+
+Acquistano la soluzione ad un problema.
+
+Ogni comunicazione di Vacanze Sicure deve partire da una difficoltà reale vissuta dagli operatori.
+
+Solo successivamente vengono presentati il metodo, gli strumenti e le funzionalità.
+
+La sequenza consigliata è:
+
+1. problema;
+2. conseguenze;
+3. possibilità di miglioramento;
+4. metodo Vacanze Sicure;
+5. strumenti disponibili;
+6. invito all'azione.
+
+Il protagonista della comunicazione è sempre l'operatore.
+
+La piattaforma rappresenta lo strumento che lo aiuta a raggiungere il proprio obiettivo.
