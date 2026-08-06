@@ -1592,3 +1592,16 @@ Dipendenze principali:
 - 716_SLA_MANAGER.md
 - 717_TIMELINE_EVENTI.md
 - 719_GESTIONE_OPPORTUNITA.md
+
+Widget
+
+OTT & OTA Intelligence
+
+Visualizza:
+
+- suggerimenti Booking
+- suggerimenti Airbnb
+- nuovi requisiti
+- punteggi
+- ranking
+- nuove funzionalità
