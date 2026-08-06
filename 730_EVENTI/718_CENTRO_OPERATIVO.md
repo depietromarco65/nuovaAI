@@ -1605,3 +1605,18 @@ Visualizza:
 - punteggi
 - ranking
 - nuove funzionalità
+
+Buongiorno Marco.
+
+Booking ha pubblicato
+2 nuove raccomandazioni.
+
+Google Business
+ha rilevato
+una scheda incompleta.
+
+Airbnb suggerisce
+di aggiornare
+le fotografie.
+
+Vuoi analizzarle?
