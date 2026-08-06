@@ -439,3 +439,6 @@ L'ecosistema Vacanze Sicure introduce una valutazione multidimensionale che cons
 - sostenibilità;
 - qualità del turismo generato;
 - responsabilità sociale.
+La distribuzione deve essere supportata da un ecosistema disponibile proprio nei periodi di maggiore domanda.
+
+Una piattaforma destinata al turismo non può ridurre la propria operatività durante Ferragosto, Pasqua o i principali periodi di vacanza, poiché coincidono con il momento di massimo utilizzo da parte degli operatori.
