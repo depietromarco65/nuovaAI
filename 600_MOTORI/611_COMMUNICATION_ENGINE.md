@@ -448,3 +448,15 @@ Risposte immediate
 Conversione
 
 Il tempo di risposta rappresenta uno dei principali fattori di successo.
+## Tempo di risposta
+
+Il tempo di risposta costituisce uno dei KPI principali.
+
+L'Assistente AI deve ridurre il tempo di attesa rispondendo:
+
+- alle domande frequenti;
+- alle richieste di disponibilità;
+- ai servizi;
+- alle modalità di prenotazione.
+
+Gli operatori intervengono soltanto quando necessario.
