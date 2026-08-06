@@ -295,3 +295,5 @@ Esempi di Motori:
 - Knowledge Base.
 
 L'architettura basata sui Motori garantisce modularità, riuso delle funzionalità e semplicità di evoluzione del sistema.
+
+Il progetto dovrà garantire continuità operativa durante i periodi di massima attività del settore turistico, riducendo al minimo le interruzioni dei servizi e privilegiando gli aggiornamenti durante la bassa stagione.
