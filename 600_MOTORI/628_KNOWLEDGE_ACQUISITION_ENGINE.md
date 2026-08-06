@@ -2246,3 +2246,98 @@ Dipendenze principali:
 - 730_EVENTI_E_TERRITORIO.md
 - 739_ANALISI_IMPATTO_EVENTI.md
 - 760_BENCHMARK_MANAGER.md
+
+# Classificazione della Natura dell'Informazione
+
+Prima di avviare il processo di verifica, ogni Knowledge Item deve essere classificato in base alla natura dell'informazione contenuta.
+
+L'obiettivo è distinguere i fatti dalle opinioni, dalle interpretazioni e dalle previsioni.
+
+Questa classificazione determina il processo di verifica e le modalità di utilizzo della conoscenza.
+
+---
+
+## Fatto Verificato
+
+Informazione oggettiva supportata da evidenze verificabili.
+
+Esempi.
+
+- legge pubblicata;
+- ordinanza comunale;
+- evento confermato;
+- apertura ufficiale;
+- dati ISTAT.
+
+Può alimentare direttamente la Knowledge Base dopo le verifiche previste.
+
+---
+
+## Affermazione (Claim)
+
+Informazione dichiarata da una fonte ma non ancora verificata.
+
+Esempi.
+
+- "In Toscana è impossibile aprire nuove strutture extralberghiere."
+- "Booking premia Montepulciano tra le migliori destinazioni."
+
+Richiede Fact Checking.
+
+---
+
+## Opinione
+
+Valutazione soggettiva espressa da una persona o da un'organizzazione.
+
+Esempi.
+
+- "L'ospitalità diffusa è il motore dei borghi."
+- "La normativa penalizza il turismo."
+
+Le opinioni vengono archiviate come tali.
+
+Non vengono trasformate in fatti.
+
+---
+
+## Interpretazione
+
+Analisi o lettura di dati e fatti.
+
+Può essere supportata da evidenze, ma rappresenta comunque una interpretazione.
+
+Esempio.
+
+"L'aumento delle prenotazioni è dovuto al miglioramento della Search Visibility."
+
+---
+
+## Previsione
+
+Ipotesi relativa ad eventi futuri.
+
+Esempi.
+
+- impatto previsto;
+- scenario economico;
+- evoluzione normativa;
+- stime AI.
+
+Le previsioni mantengono sempre il livello di probabilità associato.
+
+---
+
+## Comunicazione Promozionale
+
+Messaggi con finalità prevalentemente commerciali o promozionali.
+
+Il sistema distingue il contenuto promozionale dalle informazioni oggettive eventualmente presenti.
+
+---
+
+# Regola Fondamentale
+
+Il sistema non deve mai trasformare automaticamente una Opinione, una Affermazione o una Comunicazione Promozionale in un Fatto.
+
+Ogni categoria segue un processo di verifica differente e mantiene sempre la propria classificazione originaria.
