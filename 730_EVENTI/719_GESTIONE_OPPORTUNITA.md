@@ -1356,3 +1356,22 @@ Dipendenze principali:
 - 737_PRO_LOCO_E_COMUNI.md
 - 738_MANIFESTAZIONI_RICORRENTI.md
 - 739_ANALISI_IMPATTO_EVENTI.md
+
+## Opportunità generate dai Portali OTA
+
+L'ecosistema registra automaticamente
+i suggerimenti provenienti da:
+
+- Booking Partner
+- Airbnb
+- Expedia
+- Google Business
+- altri portali
+
+Ogni suggerimento viene:
+
+- classificato
+- valutato
+- confrontato
+- stimato
+- eventualmente trasformato in Processo.
