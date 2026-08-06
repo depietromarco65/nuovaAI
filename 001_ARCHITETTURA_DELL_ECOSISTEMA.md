@@ -480,3 +480,11 @@ L'ecosistema Vacanze Sicure introduce una valutazione multidimensionale che cons
 - sostenibilità;
 - qualità del turismo generato;
 - responsabilità sociale.
+
+### Continuità Operativa
+
+L'ecosistema deve essere progettato secondo criteri di alta disponibilità.
+
+Ogni componente deve poter continuare a funzionare anche durante i periodi di massimo carico operativo.
+
+Le manutenzioni programmate devono evitare, salvo emergenze, i periodi di alta stagione.
