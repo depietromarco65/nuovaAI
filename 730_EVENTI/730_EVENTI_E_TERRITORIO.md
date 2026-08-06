@@ -431,3 +431,21 @@ Ogni evento, ogni festa di paese, ogni concerto, ogni sagra, ogni iniziativa cul
 L'ecosistema considera il territorio un'estensione naturale dell'ospitalità.
 
 Per questo motivo gli eventi non sono contenuti accessori, ma parte integrante della qualità dell'accoglienza e della strategia di valorizzazione del territorio.
+
+Evento territoriale
+
+↓
+
+Evento OTA
+
+↓
+
+Evento Google
+
+↓
+
+Evento AI
+
+↓
+
+Evento interno
