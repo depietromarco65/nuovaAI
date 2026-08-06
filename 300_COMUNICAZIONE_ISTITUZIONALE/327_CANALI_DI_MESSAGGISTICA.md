@@ -492,3 +492,17 @@ L'architettura deve quindi essere indipendente dal fornitore tecnologico, consen
 L'obiettivo non è gestire applicazioni di messaggistica.
 
 L'obiettivo è costruire un sistema di comunicazione unificato, continuo, intelligente e perfettamente integrato con tutti i moduli dell'ecosistema Vacanze Sicure.
+## Continuità della conversazione
+
+L'utente può iniziare una conversazione su un canale (es. WhatsApp) e proseguirla sul sito web senza perdere il contesto.
+
+L'Assistente AI deve recuperare automaticamente:
+
+- dati del contatto;
+- richiesta iniziale;
+- documenti inviati;
+- preventivi;
+- Fascicolo Ospite;
+- Customer Journey.
+
+La conversazione deve apparire continua indipendentemente dal canale utilizzato.
