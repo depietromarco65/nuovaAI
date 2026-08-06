@@ -1902,3 +1902,13 @@ Dipendenze principali:
 - 717_TIMELINE_EVENTI.md
 - 718_CENTRO_OPERATIVO.md
 - 719_GESTIONE_OPPORTUNITA.md
+
+Origine Richiesta
+
+Email
+
+WhatsApp
+
+Booking
+
+...
