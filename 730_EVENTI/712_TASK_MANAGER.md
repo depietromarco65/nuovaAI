@@ -2,111 +2,116 @@
 
 # TASK MANAGER
 
-> *"Ogni attività rappresenta un impegno preso dall'ecosistema. Il Task Manager garantisce che nessun impegno venga dimenticato."*
-
----
-
-# Scopo
-
-Il Task Manager rappresenta il motore operativo dell'ecosistema Vacanze Sicure.
-
-Coordina tutte le attività generate dall'intero sistema.
-
-Non gestisce solamente una lista di cose da fare.
-
-Gestisce il lavoro.
-
-Gestisce le responsabilità.
-
-Gestisce il tempo.
-
-Gestisce le priorità.
-
-Gestisce i processi.
+Versione 3.0
 
 ---
 
 # Visione
 
-Ogni informazione presente nell'ecosistema può trasformarsi in una o più attività operative.
+Il Task Manager rappresenta il livello operativo dell'ecosistema Vacanze Sicure.
 
-Una prenotazione.
+Il suo compito è gestire esclusivamente le attività operative.
 
-↓
+Non prende decisioni.
 
-Un pagamento.
+Non governa Processi.
 
-↓
+Non contiene la logica.
 
-Una richiesta.
+Queste responsabilità appartengono rispettivamente al:
 
-↓
+- 713_PROCESS_MANAGER.md
+- 714_WORKFLOW_ENGINE.md
 
-Un evento.
+Il Task Manager ha un solo obiettivo:
 
-↓
-
-Una recensione.
-
-↓
-
-Una manutenzione.
-
-↓
-
-Una comunicazione.
-
-↓
-
-Un documento.
-
-↓
-
-Una procedura.
-
-Tutto può produrre Task.
-
----
-
-# Missione
-
-Garantire che:
-
-- nessuna attività venga dimenticata;
-- ogni attività abbia un responsabile;
-- ogni attività abbia una scadenza;
-- ogni attività possa essere monitorata;
-- ogni attività sia verificabile.
-
----
-
-# Obiettivi
-
-Il modulo deve permettere di:
-
-- organizzare il lavoro;
-- distribuire i carichi;
-- automatizzare le attività;
-- supportare gli operatori;
-- ridurre gli errori;
-- migliorare la qualità operativa;
-- mantenere la continuità del servizio.
+fare in modo che ogni attività venga eseguita.
 
 ---
 
 # Filosofia
 
-Un Task non rappresenta un promemoria.
+Ogni attività che richiede un'azione concreta diventa un Task.
 
-Rappresenta un impegno operativo.
+Il Task rappresenta la più piccola unità di lavoro dell'ecosistema.
 
-Ogni Task deve poter essere:
+Più Task costituiscono un Processo.
 
-- pianificato;
-- eseguito;
-- controllato;
-- verificato;
-- storicizzato.
+Più Processi costituiscono un Servizio.
+
+Più Servizi costituiscono l'esperienza dell'ospite.
+
+---
+
+# Scopo
+
+Il modulo consente di:
+
+- creare attività;
+- assegnare responsabilità;
+- pianificare scadenze;
+- monitorare l'esecuzione;
+- verificare il completamento;
+- registrare la cronologia.
+
+---
+
+# Missione
+
+L'Operatore dell'Ospitalità non deve ricordare cosa fare.
+
+Deve semplicemente svolgere il lavoro.
+
+Sarà il sistema a ricordare:
+
+- cosa fare;
+- quando farlo;
+- perché farlo;
+- per chi farlo.
+
+---
+
+# Architettura
+
+```
+Evento
+
+↓
+
+Workflow
+
+↓
+
+Processo
+
+↓
+
+Task
+
+↓
+
+Operatore
+
+↓
+
+Risultato
+```
+
+---
+
+# Posizionamento
+
+Il Task Manager riceve attività da:
+
+- Process Manager;
+- Workflow Engine;
+- Gestione Richieste;
+- Communication Engine;
+- Motore Conversazionale;
+- Automazioni;
+- Operatore.
+
+Non genera autonomamente Processi.
 
 ---
 
@@ -114,26 +119,17 @@ Ogni Task deve poter essere:
 
 ## Operatore
 
-Può:
-
-- creare;
-- modificare;
-- eseguire;
-- sospendere;
-- completare;
-- chiudere.
+Esegue il Task.
 
 ---
 
 ## Responsabile
 
-Può:
+Assegna.
 
-- assegnare;
-- riassegnare;
-- modificare priorità;
-- verificare;
-- approvare.
+Controlla.
+
+Verifica.
 
 ---
 
@@ -141,360 +137,264 @@ Può:
 
 Può:
 
-- creare automaticamente Task;
-- assegnare priorità;
-- suggerire operatori;
-- creare checklist;
-- individuare ritardi;
-- proporre nuove attività.
+- creare Task;
+- suggerire Task;
+- modificare priorità;
+- verificare completezza;
+- proporre checklist.
 
 ---
 
 ## Sistema
 
-Genera automaticamente Task.
+Genera automaticamente attività.
 
 ---
 
-# Origine dei Task
+# Definizione
 
-Un Task può essere generato da:
+Un Task rappresenta un'azione elementare.
 
-- richiesta;
-- prenotazione;
-- preventivo;
-- check-in;
-- check-out;
-- pagamento;
-- documento;
-- manutenzione;
-- recensione;
-- evento;
-- AI;
-- workflow;
-- operatore.
+Esempi.
 
----
-
-# Architettura
-
-Il Task Manager dialoga con tutti i moduli dell'ecosistema.
-
-Ogni modulo può:
-
-creare
+Inviare email.
 
 ↓
 
-modificare
+Pulire appartamento.
 
 ↓
 
-chiudere
+Telefonare ospite.
 
 ↓
 
-consultare
+Registrare documento.
 
-Task.
+↓
 
----
+Controllare climatizzatore.
 
-# Modello Dati
+↓
 
-Ogni Task possiede un Fascicolo.
-
----
-
-## Identificativo
-
-ID univoco.
+Aggiornare calendario.
 
 ---
 
-## Titolo
+# Caratteristiche
 
-Descrizione sintetica.
+Ogni Task deve possedere.
 
----
+- ID
 
-## Descrizione
+- titolo
 
-Testo dettagliato.
+- descrizione
 
----
+- responsabile
 
-## Categoria
+- categoria
 
-Classificazione.
+- stato
 
----
+- priorità
 
-## Stato
+- data creazione
 
-Workflow corrente.
+- scadenza
 
----
+- tempo stimato
 
-## Priorità
-
-Livello operativo.
+- Fascicolo collegato
 
 ---
 
-## Responsabile
+# Origine
 
-Operatore incaricato.
+Un Task può essere creato da.
 
----
+## Processo
 
-## Creatore
-
-Utente o sistema che ha generato il Task.
+La principale origine.
 
 ---
 
-## Data Creazione
+## Workflow
 
-Timestamp.
-
----
-
-## Data Scadenza
-
-Timestamp.
+Decisione automatica.
 
 ---
 
-## Data Chiusura
+## Richiesta
 
-Timestamp.
-
----
-
-## Tempo Stimato
-
-Durata prevista.
+Segnalazione.
 
 ---
 
-## Tempo Effettivo
+## Prenotazione
 
-Durata reale.
-
----
-
-## SLA
-
-Tempo massimo consentito.
+Evento commerciale.
 
 ---
 
-## Allegati
+## Documento
 
-Documenti.
-
-Immagini.
-
-PDF.
-
-Audio.
-
-Video.
+Scadenza.
 
 ---
 
-## Note
+## Evento
 
-Commenti.
+Manifestazione.
 
-Cronologia.
+---
 
-Osservazioni.
+## AI
+
+Suggerimento operativo.
+
+---
+
+## Operatore
+
+Creazione manuale.
 
 ---
 
 # Collegamenti
 
-Ogni Task può essere collegato a:
+Ogni Task può essere collegato a.
 
-- Fascicolo Ospite;
-- Fascicolo Prenotazione;
-- Fascicolo Struttura;
-- Documento;
-- Comunicazione;
-- Evento;
-- Processo;
-- Richiesta.
+- Fascicolo Ospite
+
+- Fascicolo Prenotazione
+
+- Fascicolo Struttura
+
+- Documento
+
+- Comunicazione
+
+- Processo
+
+- Workflow
+
+- Evento
 
 ---
 
-# Classificazione
+# Responsabilità
+
+Ogni Task ha un solo responsabile operativo.
+
+Possono esistere.
+
+- supervisori;
+
+- osservatori;
+
+- collaboratori.
+
+Ma un solo soggetto è responsabile del completamento.
+
+---
+
+# Categorie
 
 ## Ospitalità
 
-- check-in
+Check-in.
 
-- check-out
+Check-out.
 
-- accoglienza
-
-- informazioni
-
----
-
-## Amministrazione
-
-- fatture
-
-- ricevute
-
-- pagamenti
-
-- contratti
+Accoglienza.
 
 ---
 
 ## Pulizie
 
-- preparazione
+Pulizia.
 
-- cambio biancheria
+Biancheria.
 
-- sanificazione
+Sanificazione.
 
 ---
 
 ## Manutenzione
 
-- guasti
+Controlli.
 
-- controlli
+Riparazioni.
 
-- verifiche
+Verifiche.
 
-- interventi
+---
+
+## Amministrazione
+
+Fatture.
+
+Ricevute.
+
+Contratti.
 
 ---
 
 ## Marketing
 
-- newsletter
+Newsletter.
 
-- social
+Social.
 
-- campagne
-
-- recensioni
+Promozioni.
 
 ---
 
 ## Territorio
 
-- eventi
+Esperienze.
 
-- itinerari
+Eventi.
 
-- esperienze
-
----
-
-## Documentazione
-
-- privacy
-
-- documenti ospiti
-
-- autorizzazioni
-
----
-
-## Commerciale
-
-- preventivi
-
-- follow-up
-
-- opportunità
+Itinerari.
 
 ---
 
 ## Sistema
 
-- backup
+Backup.
 
-- controlli
+Monitoraggi.
 
-- sincronizzazioni
-
-- monitoraggi
+Sincronizzazioni.
 
 ---
 
-# Principio della Responsabilità
+# Principio Fondamentale
 
-Ogni Task deve avere sempre un solo responsabile operativo.
+Il Task rappresenta esclusivamente il lavoro operativo.
 
-Possono esistere:
+Non contiene logiche decisionali.
 
-- collaboratori;
-- osservatori;
-- supervisori;
+Non contiene Workflow.
 
-ma la responsabilità finale deve appartenere ad una sola persona (o ad un solo sistema automatico).
+Non contiene Processi.
 
----
+Riceve istruzioni dal Process Manager e dal Workflow Engine ed esegue quanto richiesto.
+# Stati del Task
 
-# Principio della Tracciabilità
+Ogni Task attraversa un ciclo di vita ben definito.
 
-Ogni modifica viene registrata.
+Lo stato rappresenta esclusivamente l'avanzamento operativo dell'attività.
 
-Chi.
-
-Quando.
-
-Perché.
-
-Cosa.
-
-Nessuna informazione viene eliminata.
-
-Tutto viene storicizzato.
+Le decisioni rimangono di competenza del Workflow Engine.
 
 ---
 
-# Principio della Continuità Operativa
+# Ciclo di Vita
 
-Il Task Manager rappresenta il cuore operativo dell'ecosistema.
-
-Durante i periodi di massima attività (Ferragosto, Natale, Pasqua, ponti) il sistema deve garantire il massimo livello di disponibilità.
-
-Le attività non essenziali vengono posticipate.
-
-Le attività critiche vengono evidenziate automaticamente.
-
-L'Assistente AI assume un ruolo di supporto continuo agli operatori.
-# Workflow del Task
-
-Ogni Task percorre un ciclo di vita controllato.
-
-L'obiettivo è garantire:
-
-- continuità operativa;
-- responsabilità;
-- controllo;
-- qualità;
-- tracciabilità.
-
----
-
-# Workflow Standard
-
-Generazione
-
-↓
-
-Classificazione
+Creazione
 
 ↓
 
@@ -522,182 +422,173 @@ Completamento
 
 ↓
 
-Chiusura
-
-↓
-
 Archiviazione
 
 ---
 
-# Stati del Task
-
-## Nuovo
+# Stato: Nuovo
 
 Il Task è stato creato.
 
-Può essere stato generato da:
+Può provenire da:
 
-- operatore;
+- Process Manager;
+- Workflow Engine;
 - Assistente AI;
-- Workflow;
-- richiesta;
-- prenotazione;
-- sistema.
+- Operatore;
+- Sistema.
+
+Non è ancora stato assegnato.
 
 ---
 
-## Classificato
+# Stato: Assegnato
 
-Il sistema ha attribuito:
-
-- categoria;
-- priorità;
-- responsabile suggerito;
-- eventuali dipendenze.
-
----
-
-## Assegnato
-
-Il Task viene affidato ad un operatore.
+Il Task possiede un responsabile operativo.
 
 L'assegnazione produce automaticamente:
 
-- notifica;
-- aggiornamento dashboard;
-- aggiornamento Timeline.
+- aggiornamento Dashboard;
+- evento Timeline;
+- notifica all'operatore.
 
 ---
 
-## Accettato
+# Stato: Accettato
 
 L'operatore conferma la presa in carico.
 
 Da questo momento iniziano:
 
-- SLA;
 - monitoraggio;
-- controllo ritardi.
+- SLA;
+- controllo tempi.
 
 ---
 
-## Pianificato
+# Stato: Pianificato
 
-L'attività viene inserita nel calendario operativo.
+Il Task viene programmato.
 
-Può avere:
+Possono essere definiti:
 
 - data;
 - ora;
 - durata prevista;
-- luogo.
+- luogo;
+- risorse necessarie.
 
 ---
 
-## In Lavorazione
+# Stato: In lavorazione
 
-L'operatore sta eseguendo il Task.
+L'attività è in esecuzione.
 
-Possono essere registrati:
+Durante questa fase è possibile:
 
-- fotografie;
-- documenti;
-- note;
-- avanzamento.
-
----
-
-## In Attesa
-
-Il Task non può proseguire.
-
-Motivi possibili:
-
-- attesa cliente;
-- attesa documento;
-- attesa pagamento;
-- attesa manutenzione;
-- attesa autorizzazione.
+- inserire note;
+- allegare fotografie;
+- allegare documenti;
+- aggiornare checklist;
+- registrare avanzamento.
 
 ---
 
-## Sospeso
+# Stato: In attesa
 
-Il Task viene temporaneamente interrotto.
+Il Task è sospeso in attesa di un evento.
 
-Sempre con motivazione.
+Esempi.
+
+Attesa cliente.
+
+Attesa manutenzione.
+
+Attesa documento.
+
+Attesa pagamento.
+
+Attesa autorizzazione.
 
 ---
 
-## Completato
+# Stato: Bloccato
+
+Esiste un impedimento che non consente la prosecuzione.
+
+Esempi.
+
+- materiale non disponibile;
+- struttura inaccessibile;
+- guasto tecnico;
+- problema amministrativo.
+
+Il Workflow Engine deciderà come procedere.
+
+---
+
+# Stato: Completato
 
 L'operatore dichiara conclusa l'attività.
 
-Non significa ancora che sia verificata.
+Il completamento non implica automaticamente la chiusura.
 
 ---
 
-## Verificato
+# Stato: Verificato
 
-Un responsabile (o la AI quando consentito) verifica il corretto completamento.
+Un responsabile oppure il sistema verifica:
 
----
-
-## Chiuso
-
-Il Task viene definitivamente concluso.
+- correttezza;
+- completezza;
+- conformità.
 
 ---
 
-## Archiviato
+# Stato: Archiviato
 
-Entra nello storico.
+Il Task entra nello storico.
 
-Continua ad alimentare la conoscenza dell'ecosistema.
+Continua ad alimentare:
+
+- statistiche;
+- KPI;
+- Centro Studi;
+- base di conoscenza.
 
 ---
 
 # Priorità
 
-## 🔴 Critica
+La priorità misura l'urgenza dell'attività.
+
+---
+
+## Critica
 
 Intervento immediato.
 
-Esempi:
+Esempi.
 
-- ospite bloccato;
-- allagamento;
-- guasto elettrico;
-- emergenza sanitaria.
-
----
-
-## 🟠 Alta
-
-Entro poche ore.
-
-Esempi:
-
-- climatizzatore guasto;
-- check-in imminente;
-- errore prenotazione.
+- emergenze;
+- sicurezza;
+- ospite bloccato.
 
 ---
 
-## 🟡 Media
+## Alta
 
-Entro la giornata.
-
-Esempi:
-
-- informazioni;
-- pulizia programmata;
-- invio documentazione.
+Intervento entro poche ore.
 
 ---
 
-## 🔵 Bassa
+## Media
+
+Intervento nella giornata.
+
+---
+
+## Bassa
 
 Attività programmabile.
 
@@ -705,123 +596,64 @@ Attività programmabile.
 
 # Priorità Dinamica
 
-La priorità non è fissa.
+La priorità può cambiare automaticamente.
 
-Può cambiare automaticamente.
+Il Task Manager riceve gli aggiornamenti da:
 
-Variabili considerate.
+- Process Manager;
+- Workflow Engine;
+- Assistente AI.
 
-## Tempo
+Fattori.
 
-Più si avvicina la scadenza.
-
-Più aumenta la priorità.
-
----
-
-## Customer Journey
-
-Esempio.
-
-Check-in domani.
-
-↓
-
-Il Task diventa automaticamente prioritario.
-
----
-
-## Alta Stagione
-
-Durante Ferragosto.
-
-↓
-
-Molti Task aumentano automaticamente di livello.
-
----
-
-## Eventi
-
-Grande concerto.
-
-↓
-
-Traffico previsto.
-
-↓
-
-Le partenze vengono anticipate.
-
----
-
-## Meteo
-
-Temporale previsto.
-
-↓
-
-Priorità alle attività esterne.
-
----
-
-## Guasti
-
-Un piccolo problema può diventare critico.
-
-La AI rivaluta continuamente.
+- vicinanza della scadenza;
+- check-in imminente;
+- alta stagione;
+- eventi;
+- condizioni meteo;
+- guasti;
+- variazioni organizzative.
 
 ---
 
 # SLA
 
-Ogni Task possiede un tempo massimo.
+Ogni Task può avere uno SLA.
 
-## Presa in carico
+Esempi.
 
-## Avvio
+Presa in carico.
 
-## Completamento
+↓
 
-## Verifica
+15 minuti.
+
+---
+
+Completamento.
+
+↓
+
+2 ore.
+
+---
+
+Verifica.
+
+↓
+
+30 minuti.
 
 ---
 
 # Monitoraggio SLA
 
-Il sistema controlla continuamente:
+Il sistema controlla continuamente.
 
 - Task in ritardo;
-
-- Task prossimi alla scadenza;
-
+- Task vicini alla scadenza;
 - Task senza responsabile;
-
-- Task sospesi troppo a lungo.
-
----
-
-# Escalation
-
-Se uno SLA viene superato.
-
-Il sistema:
-
-↓
-
-notifica operatore
-
-↓
-
-notifica responsabile
-
-↓
-
-modifica priorità
-
-↓
-
-può riassegnare automaticamente.
+- Task sospesi.
 
 ---
 
@@ -831,55 +663,49 @@ Ogni Task può contenere una checklist.
 
 Esempio.
 
-Pulizia Appartamento.
+Pulizia appartamento.
 
 □ Pavimenti
 
-□ Bagno
-
 □ Cucina
 
-□ Vetri
+□ Bagno
 
-□ Lenzuola
+□ Camera
 
-□ Asciugamani
+□ Biancheria
 
 □ Wi-Fi
 
-□ TV
-
 □ Climatizzatore
 
-□ Foto finali
-
-□ Firma operatore
+□ Fotografie finali
 
 ---
 
-# Checklist Intelligenti
+# Checklist Dinamiche
 
-Le checklist possono cambiare automaticamente.
+L'Assistente AI può modificare automaticamente la checklist.
 
 Esempio.
 
-Check-in con bambini.
+Ospite con bambino.
 
 ↓
 
 Aggiungere.
 
-□ Seggiolone
+□ Lettino.
 
-□ Lettino
+□ Seggiolone.
 
-□ Protezioni
+□ Protezioni.
 
 ---
 
 # Dipendenze
 
-Un Task può dipendere da altri.
+Un Task può dipendere da altri Task.
 
 Esempio.
 
@@ -891,17 +717,13 @@ Controllo qualità
 
 ↓
 
-Consegna chiavi
-
-↓
-
-Check-in
+Consegna alloggio
 
 ---
 
 # Task Bloccanti
 
-Un Task può impedire l'avvio di altri.
+Alcune attività impediscono il completamento di altre.
 
 Esempio.
 
@@ -909,49 +731,41 @@ Pagamento non registrato.
 
 ↓
 
-Non autorizzare check-in.
+Bloccare consegna chiavi.
 
 ---
 
 # Task Paralleli
 
-Più operatori possono lavorare contemporaneamente.
-
-Esempio.
+Più attività possono essere eseguite contemporaneamente.
 
 Pulizia
 
 +
 
-Manutenzione
+Preparazione documenti
 
 +
 
-Amministrazione
+Aggiornamento calendario
 
 ---
 
 # Task Sequenziali
 
-Le attività devono rispettare un ordine.
+Alcune attività devono rispettare un ordine.
 
-Preventivo
+Esempio.
 
-↓
-
-Accettazione
+Preparazione
 
 ↓
 
-Prenotazione
+Controllo
 
 ↓
 
-Pagamento
-
-↓
-
-Check-in
+Consegna
 
 ---
 
@@ -960,34 +774,75 @@ Check-in
 Supportati.
 
 - giornalieri;
-
 - settimanali;
-
 - mensili;
-
 - stagionali;
-
 - annuali.
 
 ---
 
-# Task Pianificati
+# Task Automatici
 
-Possono essere programmati.
+Il Task Manager può ricevere Task creati automaticamente.
 
-- data;
+Origini.
 
-- ora;
-
-- durata;
-
-- periodicità.
+- Process Manager;
+- Workflow Engine;
+- Assistente AI;
+- Motore Conversazionale;
+- Communication Engine;
+- Automazioni.
 
 ---
 
-# Task Generati Automaticamente
+# Principio Operativo
 
-Una prenotazione genera.
+Il Task Manager non decide.
+
+Esegue.
+
+Riceve attività dai Processi e dai Workflow, le assegna agli operatori, ne monitora l'avanzamento e registra ogni evento fino al completamento.
+
+Questa separazione garantisce semplicità, chiarezza delle responsabilità e maggiore scalabilità dell'intero ecosistema.
+# Task Intelligenti
+
+L'Assistente AI rappresenta il principale supporto operativo del Task Manager.
+
+Il suo compito non è sostituire l'Operatore dell'Ospitalità.
+
+Il suo obiettivo è ridurre il lavoro ripetitivo e migliorare l'organizzazione.
+
+---
+
+# Compiti dell'AI
+
+L'Assistente può:
+
+- creare Task;
+- classificare Task;
+- assegnare priorità;
+- suggerire il responsabile;
+- verificare la completezza;
+- aggiornare automaticamente il Fascicolo;
+- monitorare lo stato;
+- proporre la chiusura.
+
+L'ultima decisione rimane sempre all'Operatore dell'Ospitalità.
+
+---
+
+# Creazione Automatica
+
+Il sistema può creare automaticamente attività.
+
+Esempi.
+
+Nuova prenotazione
+
+↓
+
+Preparazione appartamento
 
 ↓
 
@@ -995,7 +850,31 @@ Invio conferma
 
 ↓
 
-Preparazione alloggio
+Registrazione Fascicolo
+
+↓
+
+Preparazione check-in
+
+---
+
+Pagamento ricevuto
+
+↓
+
+Aggiornamento Fascicolo
+
+↓
+
+Invio ricevuta
+
+↓
+
+Aggiornamento Timeline
+
+---
+
+Check-out completato
 
 ↓
 
@@ -1003,317 +882,139 @@ Pulizia
 
 ↓
 
-Check-in
-
-↓
-
-Check-out
+Controllo qualità
 
 ↓
 
 Richiesta recensione
 
----
-
-# Processo Operativo
-
-Il Task rappresenta l'unità minima di lavoro.
-
-Più Task possono appartenere allo stesso Processo.
-
-Esempio.
-
-PROCESSO
-
-Check-in
-
 ↓
 
-Verifica pagamento
-
-↓
-
-Preparazione struttura
-
-↓
-
-Invio istruzioni
-
-↓
-
-Registrazione documenti
-
-↓
-
-Accoglienza
-
-↓
-
-Chiusura pratica
-
-Il Processo coordina.
-
-Il Task esegue.
-# Automazioni
-
-Il Task Manager non è un sistema passivo.
-
-L'obiettivo è ridurre al minimo le attività manuali ripetitive, permettendo agli operatori di concentrarsi sulle decisioni e sull'accoglienza degli ospiti.
-
-Ogni evento dell'ecosistema può generare automaticamente uno o più Task.
+Archiviazione
 
 ---
 
-# Task Generati dalla AI
+# Task Contestuali
 
-L'Assistente AI può creare Task autonomamente quando individua situazioni che richiedono un intervento.
+L'AI tiene conto del contesto.
 
-Esempi:
+Ad esempio.
 
-- mancata risposta ad un ospite;
-- richiesta rimasta senza gestione;
-- recensione negativa;
-- documento mancante;
-- pagamento non registrato;
-- anomalia nei calendari;
-- incongruenza tra Channel Manager e PMS.
+Check-in oggi
 
-Ogni Task generato automaticamente viene registrato indicando:
+↓
 
-- origine AI;
-- motivazione;
-- livello di confidenza;
-- regola utilizzata.
+Alta priorità.
 
 ---
 
-# Task Generati dalle Prenotazioni
+Check-in tra dieci giorni
 
-Una nuova prenotazione può produrre automaticamente:
+↓
 
-□ Verifica disponibilità
-
-□ Registrazione Fascicolo Prenotazione
-
-□ Aggiornamento Fascicolo Ospite
-
-□ Invio conferma
-
-□ Invio condizioni di soggiorno
-
-□ Pianificazione check-in
-
-□ Preparazione documentazione
-
-□ Preparazione struttura
+Priorità normale.
 
 ---
 
-# Task Generati dal Check-in
+Cliente VIP
 
-□ Invio istruzioni
+↓
 
-□ Verifica documenti
-
-□ Registrazione ospiti
-
-□ Comunicazione tassa di soggiorno
-
-□ Aggiornamento Timeline
-
-□ Apertura Customer Journey
+Checklist Premium.
 
 ---
 
-# Task Generati dal Check-out
+Ospite straniero
 
-□ Controllo alloggio
+↓
 
-□ Aggiornamento disponibilità
-
-□ Avvio pulizie
-
-□ Emissione documenti fiscali
-
-□ Invio richiesta recensione
-
-□ Chiusura Fascicolo Prenotazione
+Attività dedicate.
 
 ---
 
-# Task Generati dalle Richieste
-
-Ogni richiesta può produrre uno o più Task.
-
-Esempio.
-
-Richiesta:
-
-"Il climatizzatore non funziona."
+Animale domestico
 
 ↓
 
-Diagnosi AI
-
-↓
-
-Creazione Task Manutenzione
-
-↓
-
-Notifica operatore
-
-↓
-
-Monitoraggio SLA
-
-↓
-
-Aggiornamento richiesta
-
-↓
-
-Chiusura automatica
+Preparazione accessori.
 
 ---
 
-# Task Generati dagli Eventi
+# Task Predittivi
 
-Un evento territoriale può produrre:
+Il sistema può creare attività prima che si manifesti il problema.
 
-□ Aggiornamento sito
+Esempi.
 
-□ Newsletter
+Climatizzatore con manutenzione scaduta.
 
-□ Comunicazione WhatsApp
+↓
 
-□ Suggerimento agli ospiti
-
-□ Aggiornamento itinerari
-
-□ Promozione social
+Programmare controllo.
 
 ---
 
-# Task Generati dalle OTA
-
-Booking
+Documento prossimo alla scadenza.
 
 ↓
 
-Nuova prenotazione
-
-↓
-
-Verifica pagamento
-
-↓
-
-Importazione dati
-
-↓
-
-Invio conferma
-
-↓
-
-Aggiornamento disponibilità
+Avvisare amministrazione.
 
 ---
 
-# Task Generati dal Revenue
-
-Il sistema può suggerire:
-
-- modifica prezzi;
-- apertura disponibilità;
-- chiusura vendite;
-- promozioni.
-
-Ogni suggerimento può diventare Task.
-
----
-
-# Task Generati dal Monitoraggio
-
-L'ecosistema controlla continuamente:
-
-- sincronizzazioni OTA;
-- backup;
-- disponibilità;
-- errori API;
-- messaggi non letti.
-
-Ogni anomalia genera automaticamente un'attività.
-
----
-
-# Automazioni Condizionali
-
-Le regole possono essere costruite con logica IF / THEN.
-
-Esempio.
-
-SE
-
-check-in entro 24 ore
-
-E
-
-documenti mancanti
-
-ALLORA
-
-creare Task
+Riduzione traffico sul sito.
 
 ↓
 
-Inviare promemoria
-
-↓
-
-notificare operatore
+Analisi SEO.
 
 ---
 
-# Dashboard
+Calo prenotazioni.
 
-Il Task Manager dispone di una Dashboard Operativa.
+↓
+
+Avviare campagna marketing.
+
+---
+
+# Dashboard Operativa
+
+La Dashboard rappresenta il centro di controllo del Task Manager.
 
 ---
 
 # Vista Generale
 
-Visualizzare:
+Visualizzare.
 
 - Task aperti;
 - Task chiusi;
 - Task oggi;
 - Task domani;
-- Task scaduti;
-- Task sospesi.
+- Task in ritardo;
+- Task critici.
 
 ---
 
 # Vista per Operatore
 
-Per ogni operatore:
+Per ogni Operatore.
 
 - Task assegnati;
-- Task completati;
-- Task in ritardo;
-- produttività;
-- tempo medio.
+- completati;
+- sospesi;
+- tempo medio;
+- produttività.
 
 ---
 
 # Vista per Struttura
 
-Ogni struttura mostra:
+Per ogni struttura.
 
-- attività aperte;
-- manutenzioni;
 - pulizie;
+- manutenzioni;
 - check-in;
 - check-out;
 - criticità.
@@ -1322,82 +1023,83 @@ Ogni struttura mostra:
 
 # Vista Temporale
 
-Calendario.
+Supportare.
 
-Timeline.
+- Agenda;
 
-Agenda.
+- Calendario;
 
-Kanban.
+- Timeline;
 
-Gantt (futuro).
+- Kanban.
+
+In futuro.
+
+- Diagramma di Gantt.
 
 ---
 
 # KPI
 
-Il sistema misura automaticamente.
+Monitorare automaticamente.
 
 ---
 
-## Operativi
+## Operatività
 
 - Task creati;
-- completati;
-- chiusi;
-- riaperti.
+- Task completati;
+- Task sospesi;
+- Task annullati.
 
 ---
 
 ## Produttività
 
-- tempo medio;
 - Task per operatore;
-- Task automatici;
-- Task AI.
+- tempo medio;
+- puntualità;
+- SLA rispettati.
+
+---
+
+## Automazione
+
+- Task creati automaticamente;
+- Task AI;
+- Task manuali.
 
 ---
 
 ## Qualità
 
-- Task in ritardo;
-- SLA rispettati;
+- riaperture;
 - errori;
+- verifiche negative;
 - attività duplicate.
 
 ---
 
 ## Customer Care
 
-Correlazione tra:
+Correlazione con.
 
-Task
-
-↓
-
-Richieste
-
-↓
-
-Recensioni
-
-↓
-
-Customer Satisfaction
+- richieste;
+- recensioni;
+- soddisfazione ospiti.
 
 ---
 
 # Analytics
 
-L'AI analizza:
+Il sistema analizza.
 
-- carichi di lavoro;
-- colli di bottiglia;
-- attività ricorrenti;
-- tempi morti;
-- inefficienze.
-
-Può suggerire miglioramenti organizzativi.
+- carico di lavoro;
+- distribuzione attività;
+- tempi medi;
+- criticità ricorrenti;
+- operatori sovraccarichi;
+- strutture più impegnative.
 
 ---
 
@@ -1405,630 +1107,806 @@ Può suggerire miglioramenti organizzativi.
 
 Ogni modifica viene registrata.
 
-Per ogni evento memorizzare:
+Memorizzare.
 
 - autore;
+- AI;
 - data;
 - ora;
-- operazione;
-- valore precedente;
-- nuovo valore.
+- modifica;
+- stato precedente;
+- stato successivo.
 
-Nessuna informazione viene eliminata.
+Mai eliminare la cronologia.
 
 ---
 
 # Sicurezza
 
-I permessi devono essere granulari.
+Ogni operatore visualizza esclusivamente i Task autorizzati.
 
-Esempio.
+Permessi granulari.
 
-Reception
+Per.
 
-✓ visualizza
-
-✓ esegue
-
-✗ elimina
-
----
-
-Responsabile
-
-✓ assegna
-
-✓ modifica
-
-✓ chiude
-
----
-
-Amministratore
-
-Accesso completo.
+- ruolo;
+- struttura;
+- funzione;
+- Processo.
 
 ---
 
 # Privacy
 
-Ogni Task eredita automaticamente i permessi del Fascicolo collegato.
+Il Task non conserva dati personali autonomamente.
 
-L'accesso ai dati personali è consentito esclusivamente agli operatori autorizzati.
+I dati rimangono nei Fascicoli.
 
-Il sistema registra ogni consultazione ai fini dell'audit GDPR.
-# Integrazione con l'Ecosistema
+Il Task mantiene esclusivamente i riferimenti.
 
-Il Task Manager rappresenta il punto di incontro tra tutti i moduli di Vacanze Sicure.
-
-Ogni modulo può:
-
-- generare Task;
-- modificare Task;
-- consultare Task;
-- chiudere Task;
-- verificare Task.
-
-Il Task Manager non appartiene ad un singolo modulo.
-
-Appartiene all'intero ecosistema.
+Questo riduce duplicazioni e facilita il rispetto del GDPR.
 
 ---
 
-# Integrazione con il Fascicolo Ospite
+# Integrazione
 
-Ogni attività viene automaticamente collegata al Fascicolo Ospite.
+Il Task Manager dialoga continuamente con.
 
-Esempi.
+- 101_FASCICOLO_OSPITE.md
+- 102_FASCICOLO_PRENOTAZIONE.md
+- 610_MOTORE_DOCUMENTALE.md
+- 611_COMMUNICATION_ENGINE.md
+- 626_MOTORE_CONVERSAZIONALE.md
+- 713_PROCESS_MANAGER.md
+- 714_WORKFLOW_ENGINE.md
+- 715_GESTIONE_RICHIESTE.md
+- 717_TIMELINE_EVENTI.md
 
-Richiesta informazioni
-
-↓
-
-Task
-
-↓
-
-Operatore
-
-↓
-
-Risposta
-
-↓
-
-Storico Ospite
+Ogni modifica aggiorna automaticamente il Fascicolo e la Timeline.
 
 ---
 
-# Integrazione con il Fascicolo Prenotazione
+# Centro Studi
 
-Ogni prenotazione genera attività operative.
+I Task alimentano il Centro Studi.
 
-Esempio.
+Il sistema analizza.
 
-Prenotazione
+- tempi;
+- errori;
+- ritardi;
+- stagionalità;
+- attività ricorrenti.
 
-↓
-
-Preparazione struttura
-
-↓
-
-Check-in
-
-↓
-
-Registrazione documenti
-
-↓
-
-Pagamento
-
-↓
-
-Check-out
-
-↓
-
-Recensione
-
-↓
-
-Archiviazione
+Le informazioni raccolte vengono utilizzate per migliorare continuamente l'organizzazione.
 
 ---
 
-# Integrazione con il Fascicolo Struttura
+# Principio della Semplificazione
 
-Le attività rimangono collegate alla struttura.
+Il Task Manager deve rendere il lavoro più semplice.
 
-Esempi.
+Mai più complesso.
 
-- manutenzioni;
+L'Operatore deve dedicare il proprio tempo all'ospitalità.
 
-- verifiche;
-
-- controlli;
-
-- pulizie;
-
-- inventario.
+L'organizzazione, il monitoraggio e i promemoria devono essere gestiti dal sistema.
 
 ---
 
-# Integrazione con il Communication Engine
+# Principio dell'Efficienza
 
-Una comunicazione può:
+Ogni Task completato produce nuova conoscenza.
 
-aprire Task
+Ogni conoscenza migliora il Processo.
 
-↓
+Ogni Processo migliora l'ecosistema.
 
-aggiornare Task
-
-↓
-
-chiudere Task
-
-↓
-
-riaprire Task
-
----
-
-# Integrazione con il Motore Conversazionale
-
-L'Assistente AI può:
-
-- creare attività;
-
-- rispondere;
-
-- chiedere conferme;
-
-- aggiornare stato;
-
-- chiudere automaticamente attività semplici.
-
----
-
-# Integrazione con il Motore Workflow
-
-Ogni Workflow può contenere:
-
-- Processi;
-
-- Task;
-
-- Decisioni;
-
-- Controlli;
-
-- Approvazioni.
-
----
-
-# Integrazione con il Motore Documentale
-
-Ogni Task può produrre:
-
-- documenti;
-
-- fotografie;
-
-- PDF;
-
-- verbali;
-
-- moduli;
-
-- contratti.
-
----
-
-# Integrazione con gli Eventi
-
-Un evento territoriale può creare automaticamente attività.
-
-Esempio.
-
-Sagra
-
-↓
-
-Aggiornamento sito
-
-↓
-
-Newsletter
-
-↓
-
-Comunicazione ospiti
-
-↓
-
-Suggerimento AI
-
-↓
-
-Report finale
-
----
-
-# Integrazione con Revenue Management
-
-L'analisi del mercato può produrre:
-
-- modifica prezzi;
-
-- apertura disponibilità;
-
-- offerte;
-
-- promozioni.
-
-Ogni suggerimento diventa Task.
-
----
-
-# Integrazione con Web Analytics
-
-Un'anomalia nei dati può produrre:
-
-Task SEO
-
-↓
-
-Task Marketing
-
-↓
-
-Task Campagna
-
-↓
-
-Task Analisi
-
----
-
+Il Task rappresenta quindi non soltanto un'attività operativa, ma anche una fonte continua di apprendimento organizzativo.
 # API Logiche
 
-Il Task Manager espone servizi logici utilizzabili dagli altri moduli.
+Il Task Manager espone un insieme di servizi logici utilizzabili da tutti i moduli dell'ecosistema.
 
-## Creazione
-
-CreateTask()
+Le API descritte sono funzionali e indipendenti dalla tecnologia utilizzata.
 
 ---
 
-## Aggiornamento
+## CreateTask()
 
-UpdateTask()
+Crea un nuovo Task.
 
----
+Input:
 
-## Chiusura
+- Processo
+- Workflow
+- Categoria
+- Responsabile
+- Priorità
+- Scadenza
 
-CloseTask()
+Output:
 
----
-
-## Ricerca
-
-SearchTask()
-
----
-
-## Assegnazione
-
-AssignTask()
+- ID Task
 
 ---
 
-## Cambio Priorità
+## AssignTask()
 
-ChangePriority()
+Assegna il Task ad un Operatore.
+
+Aggiorna automaticamente:
+
+- Dashboard
+- Timeline
+- Audit
+- KPI
 
 ---
 
-## Allegati
+## ReassignTask()
 
-AttachDocument()
+Riassegna il Task.
+
+Richiede motivazione.
+
+Mantiene lo storico completo.
 
 ---
 
-## Checklist
+## StartTask()
 
-UpdateChecklist()
+Avvia l'attività.
+
+Registra:
+
+- data;
+- ora;
+- operatore.
+
+---
+
+## PauseTask()
+
+Sospende il Task.
+
+Obbligatoria la motivazione.
+
+---
+
+## ResumeTask()
+
+Riprende il Task.
+
+---
+
+## CompleteTask()
+
+Conclusione operativa.
+
+Il Workflow Engine deciderà se il Processo può proseguire.
+
+---
+
+## VerifyTask()
+
+Verifica qualità.
+
+Può essere eseguita da:
+
+- Responsabile;
+- AI (quando consentito).
+
+---
+
+## ArchiveTask()
+
+Archivia definitivamente.
+
+Mai eliminare.
+
+---
+
+## SearchTask()
+
+Ricerca avanzata.
+
+Supporta filtri.
+
+- operatore;
+- struttura;
+- ospite;
+- Processo;
+- Workflow;
+- categoria;
+- stato;
+- periodo.
 
 ---
 
 # Business Rules
 
-Ogni Task deve rispettare alcune regole fondamentali.
-
-## Un solo responsabile
-
-Ogni attività ha un unico responsabile operativo.
+Il Task Manager applica automaticamente alcune regole fondamentali.
 
 ---
 
-## Nessun Task orfano
+## Un solo responsabile
 
-Un Task senza responsabile deve essere immediatamente evidenziato.
+Ogni Task possiede un unico responsabile operativo.
+
+---
+
+## Nessun Task senza Processo
+
+Ogni Task deve appartenere ad un Processo.
+
+Eccezioni.
+
+- attività personali;
+- manutenzioni straordinarie;
+- Task di sistema.
 
 ---
 
 ## Nessun Task senza scadenza
 
-Salvo eccezioni motivate.
+Salvo attività esplicitamente permanenti.
 
 ---
 
-## Nessun Task senza categoria
+## Nessun Task orfano
 
-Ogni attività deve poter essere classificata.
+Ogni Task deve essere collegato almeno ad uno tra:
+
+- Processo;
+- Fascicolo;
+- Evento;
+- Documento;
+- Richiesta.
 
 ---
 
 ## Nessuna eliminazione
 
-I Task vengono archiviati.
+I Task non vengono eliminati.
 
-Mai eliminati.
-
----
-
-## Ogni modifica è tracciata
-
-Audit completo.
+Vengono archiviati.
 
 ---
 
-# Intelligenza Artificiale
+## Storico Permanente
 
-L'AI rappresenta il primo assistente operativo.
-
-Può:
-
-- suggerire nuove attività;
-
-- modificare priorità;
-
-- individuare ritardi;
-
-- riconoscere duplicati;
-
-- prevedere sovraccarichi;
-
-- riequilibrare il lavoro.
-
-L'ultima decisione rimane sempre all'Operatore dell'Ospitalità.
+Ogni modifica rimane consultabile.
 
 ---
 
-# Dashboard Direzionale
+# Gestione delle Eccezioni
 
-La Direzione deve poter visualizzare.
+Il Task Manager deve essere resiliente.
 
-## Operatività
+---
+
+## Operatore indisponibile
+
+↓
+
+Riassegnazione.
+
+↓
+
+Notifica.
+
+↓
+
+Aggiornamento Dashboard.
+
+---
+
+## Task scaduto
+
+↓
+
+Escalation.
+
+↓
+
+Nuova priorità.
+
+↓
+
+Notifica Responsabile.
+
+---
+
+## Documento mancante
+
+↓
+
+Blocco Task.
+
+↓
+
+Creazione Richiesta.
+
+↓
+
+Aggiornamento Processo.
+
+---
+
+## Errore tecnico
+
+↓
+
+Segnalazione.
+
+↓
+
+Task Tecnico.
+
+↓
+
+Monitoraggio.
+
+---
+
+# Continuità Operativa
+
+Vacanze Sicure deve funzionare nei momenti di massimo carico.
+
+Durante:
+
+- Ferragosto;
+- Pasqua;
+- Natale;
+- Ponti;
+
+il Task Manager adotta modalità dedicate.
+
+---
+
+# Modalità Alta Stagione
+
+Il sistema.
+
+- anticipa notifiche;
+
+- aumenta priorità;
+
+- riduce attività secondarie;
+
+- privilegia l'ospitalità;
+
+- aumenta il supporto AI.
+
+---
+
+# Centro Operativo
+
+Il Task Manager alimenta il Centro Operativo.
+
+Visualizzare.
+
+## Oggi
+
+Task da completare.
+
+---
+
+## Critici
+
+Massima priorità.
+
+---
+
+## In Ritardo
+
+Monitoraggio continuo.
+
+---
+
+## Per Operatore
+
+Carico di lavoro.
+
+---
+
+## Per Struttura
+
+Distribuzione attività.
+
+---
+
+## Per Processo
+
+Avanzamento complessivo.
+
+---
+
+# Notifiche
+
+Ogni evento significativo genera notifiche.
+
+Esempi.
+
+Task assegnato.
+
+↓
+
+Task scaduto.
+
+↓
+
+Task completato.
+
+↓
+
+Task verificato.
+
+↓
+
+Task bloccato.
+
+↓
+
+Riassegnazione.
+
+---
+
+# Monitoraggio Centralizzato
+
+Il sistema controlla continuamente.
 
 - Task aperti;
 
-- Task chiusi;
+- Task sospesi;
 
-- Task critici;
+- Task bloccati;
 
-- Task in ritardo.
+- Task oltre SLA;
 
----
+- Task privi di responsabile.
 
-## Produttività
-
-- per operatore;
-
-- per struttura;
-
-- per periodo.
+Ogni anomalia viene evidenziata automaticamente.
 
 ---
 
-## Carico di lavoro
+# Gestione Risorse
 
-Distribuzione delle attività.
+Ogni Task può richiedere.
 
----
+- persone;
 
-## Efficienza
+- mezzi;
 
-Tempi medi.
+- materiali;
 
-SLA.
+- documenti;
 
-Automazioni.
+- servizi esterni.
 
----
-
-## AI
-
-Numero di Task:
-
-- creati dalla AI;
-
-- risolti dalla AI;
-
-- verificati dalla AI.
+Il sistema verifica la disponibilità delle risorse.
 
 ---
 
-# Indicatori Strategici
+# Pianificazione
 
-Il Task Manager alimenta il Centro Studi.
+Le attività possono essere organizzate.
 
-Indicatori.
+Per.
 
-- produttività;
+- giorno;
 
-- efficienza;
+- settimana;
 
-- tempi;
+- mese;
 
-- stagionalità;
+- stagione.
 
-- criticità;
-
-- qualità dell'organizzazione.
+Il calendario operativo costituisce uno degli strumenti principali del Centro Operativo.
 
 ---
 
+# Collaborazione
+
+Più operatori possono collaborare sullo stesso Task.
+
+Ruoli.
+
+- Responsabile;
+
+- Collaboratore;
+
+- Supervisore;
+
+- Osservatore.
+
+La responsabilità rimane sempre attribuita ad un solo soggetto.
+
+---
+
+# Principio della Responsabilità
+
+Il sistema organizza il lavoro.
+
+Le persone svolgono il lavoro.
+
+L'obiettivo non è controllare gli operatori.
+
+L'obiettivo è garantire che ogni attività importante venga svolta nel momento corretto e con la qualità richiesta.
+
+---
+
+# Principio della Continuità
+
+L'assenza di un operatore non deve interrompere l'operatività.
+
+Ogni Task contiene tutte le informazioni necessarie affinché un altro Operatore dell'Ospitalità possa proseguire l'attività senza perdita di continuità.
 # Evoluzione
 
-Il modulo evolverà verso un sistema capace di:
+Il Task Manager è progettato come un modulo evolutivo.
 
-- prevedere il lavoro dei giorni successivi;
+L'obiettivo non consiste soltanto nel gestire attività operative.
 
-- distribuire automaticamente le attività;
-
-- suggerire il numero ideale di operatori;
-
-- riconoscere anomalie organizzative;
-
-- simulare scenari operativi.
+L'obiettivo è diventare progressivamente un assistente organizzativo intelligente.
 
 ---
 
-# Evoluzione Architetturale
+# Roadmap Evolutiva
 
-Con la crescita dell'ecosistema il Task Manager sarà affiancato da due moduli specialistici.
+## Versione 3
 
-## Process Manager
+Gestione Operativa
 
-Responsabile della gestione dei Processi Operativi.
-
-Un Processo coordina più Task.
-
-Esempio.
-
-PROCESSO
-
-Check-in
-
-↓
-
-Verifica pagamento
-
-↓
-
-Preparazione struttura
-
-↓
-
-Invio istruzioni
-
-↓
-
-Registrazione ospiti
-
-↓
-
-Accoglienza
-
-↓
-
-Chiusura pratica
+- Task
+- Checklist
+- Priorità
+- Dashboard
+- KPI
 
 ---
 
-## Workflow Engine
+## Versione 4
 
-Responsabile della logica dei Processi.
+Task Intelligenti
 
-Gestisce.
+Introduzione di:
 
-- stati;
+- suggerimenti AI;
+- assegnazione intelligente;
+- priorità dinamiche;
+- pianificazione automatica.
 
-- transizioni;
+---
 
-- regole;
+## Versione 5
 
-- approvazioni;
+Task Predittivi
 
-- automazioni.
+Il sistema inizia a prevedere le attività future.
 
-Il Task Manager continuerà invece ad occuparsi esclusivamente delle attività operative.
+Esempi.
+
+Manutenzione preventiva.
+
+↓
+
+Promemoria documentali.
+
+↓
+
+Scadenze fiscali.
+
+↓
+
+Aggiornamento contenuti.
+
+↓
+
+Preparazione alta stagione.
+
+---
+
+## Versione 6
+
+Task Auto-Organizzanti
+
+L'Assistente AI può proporre:
+
+- redistribuzione del lavoro;
+- accorpamento attività;
+- eliminazione duplicazioni;
+- ottimizzazione delle sequenze operative.
+
+Le modifiche rimangono sempre soggette all'approvazione dell'Operatore dell'Ospitalità.
+
+---
+
+# Digital Twin Operativo
+
+In prospettiva il Task Manager alimenterà il gemello digitale operativo della struttura.
+
+Ogni attività svolta contribuirà a simulare il comportamento dell'organizzazione.
+
+Questo consentirà di:
+
+- prevedere il carico di lavoro;
+- simulare scenari;
+- valutare modifiche organizzative;
+- stimare tempi e risorse.
 
 ---
 
 # Best Practice
 
-Il sistema deve privilegiare.
+Ogni Task dovrebbe:
 
-- attività semplici;
+- avere un titolo chiaro;
+- descrivere una sola attività;
+- avere un responsabile;
+- avere una scadenza;
+- appartenere ad un Processo;
+- essere facilmente verificabile.
 
-- responsabilità chiare;
+---
 
-- automazioni;
+# Errori da Evitare
 
-- checklist;
+Non utilizzare il Task Manager per:
 
-- monitoraggio continuo;
+- prendere decisioni;
+- descrivere Processi;
+- sostituire documentazione;
+- conservare dati personali.
 
-- riduzione del lavoro ripetitivo;
+Queste responsabilità appartengono ad altri moduli dell'ecosistema.
 
-- supporto costante agli operatori.
+---
+
+# Relazioni con gli altri Moduli
+
+Il Task Manager riceve attività da:
+
+- 713_PROCESS_MANAGER.md
+- 714_WORKFLOW_ENGINE.md
+- 715_GESTIONE_RICHIESTE.md
+- 611_COMMUNICATION_ENGINE.md
+- 626_MOTORE_CONVERSAZIONALE.md
+
+Aggiorna automaticamente:
+
+- Fascicoli;
+- Timeline;
+- Dashboard;
+- KPI;
+- Centro Studi.
+
+---
+
+# Indicatori di Successo
+
+Il Task Manager può essere considerato efficace quando:
+
+- nessuna attività importante viene dimenticata;
+- gli SLA vengono rispettati;
+- gli operatori conoscono sempre le proprie priorità;
+- il numero di errori diminuisce;
+- il tempo dedicato all'organizzazione si riduce;
+- aumenta il tempo dedicato all'accoglienza degli ospiti.
+
+---
+
+# Ruolo nell'Ecosistema
+
+Il Task Manager rappresenta il livello operativo.
+
+La sua responsabilità consiste nell'esecuzione ordinata delle attività.
+
+La logica rimane nel Workflow Engine.
+
+L'organizzazione rimane nel Process Manager.
+
+Questa separazione garantisce:
+
+- chiarezza;
+- modularità;
+- scalabilità;
+- semplicità di manutenzione.
 
 ---
 
 # Principi Vacanze Sicure
 
-## Il lavoro deve essere organizzato
+## Centralità dell'Ospitalità
 
-Ogni attività deve avere una logica.
+L'obiettivo non è completare Task.
 
-Mai improvvisazione.
+L'obiettivo è offrire un'esperienza di ospitalità eccellente.
 
----
-
-## L'operatore non deve ricordare
-
-Deve essere il sistema a ricordare.
-
-L'operatore deve concentrarsi sull'accoglienza.
+I Task rappresentano solamente lo strumento operativo.
 
 ---
 
-## La tecnologia deve semplificare
+## Continuità
 
-L'obiettivo non è aumentare il numero dei Task.
+Ogni attività deve poter essere proseguita da qualsiasi Operatore dell'Ospitalità.
 
-L'obiettivo è ridurre il lavoro inutile.
+La conoscenza appartiene all'ecosistema.
 
----
-
-## Ogni Task produce conoscenza
-
-Ogni attività completata arricchisce la base di conoscenza dell'ecosistema.
-
-Il sistema impara continuamente.
+Mai alla singola persona.
 
 ---
 
-## Continuità Operativa
+## Semplicità
 
-Vacanze Sicure è progettato per garantire il massimo livello di operatività proprio nei periodi di maggiore attività turistica.
+Ogni Task deve essere comprensibile.
 
-Il Task Manager rappresenta uno degli strumenti fondamentali per raggiungere questo obiettivo.
+L'operatore non deve interpretare.
+
+Deve sapere immediatamente cosa fare.
+
+---
+
+## Affidabilità
+
+Ogni attività deve essere:
+
+- tracciabile;
+- verificabile;
+- misurabile;
+- ripetibile.
+
+---
+
+## Automazione Responsabile
+
+L'Intelligenza Artificiale deve eliminare il lavoro ripetitivo.
+
+Le decisioni strategiche rimangono sempre affidate all'essere umano.
+
+---
+
+## Miglioramento Continuo
+
+Ogni Task completato rappresenta una nuova esperienza.
+
+Ogni esperienza migliora:
+
+- il Processo;
+- il Workflow;
+- l'organizzazione;
+- la qualità dell'ospitalità.
 
 ---
 
 # Conclusioni
 
-Il Task Manager costituisce il motore operativo di Vacanze Sicure.
+Il Task Manager costituisce il livello operativo dell'ecosistema Vacanze Sicure.
 
-Coordina persone, Intelligenza Artificiale, documenti, strutture, ospiti, eventi e processi in un'unica rete organizzativa.
+Coordina l'esecuzione delle attività, mantenendo una netta separazione tra:
 
-L'obiettivo non consiste semplicemente nel completare attività.
+- organizzazione dei Processi;
+- logica dei Workflow;
+- esecuzione dei Task.
 
-L'obiettivo è costruire un ecosistema capace di organizzarsi, adattarsi, apprendere e migliorare continuamente, mettendo sempre al centro la qualità dell'ospitalità, la valorizzazione del territorio e la fiducia tra tutti gli attori coinvolti.
+Questa architettura rende il sistema più semplice, più robusto e più facilmente evolvibile.
+
+Il Task Manager non rappresenta una semplice lista di attività.
+
+È il motore operativo che trasforma le decisioni dell'ecosistema in azioni concrete, contribuendo quotidianamente alla qualità dell'ospitalità, alla valorizzazione del territorio e al miglioramento continuo dell'organizzazione.
+
+---
+## FILE COMPLETATO
+
+Versione: 3.0
+
+Stato: COMPLETO
+
+Dipendenze principali:
+
+- 713_PROCESS_MANAGER.md
+- 714_WORKFLOW_ENGINE.md
+- 715_GESTIONE_RICHIESTE.md
+- 717_TIMELINE_EVENTI.md
+- 718_CENTRO_OPERATIVO.md
+- 626_MOTORE_CONVERSAZIONALE.md
+- 611_COMMUNICATION_ENGINE.md
