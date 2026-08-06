@@ -418,3 +418,33 @@ In questi casi il Communication Engine deve registrare:
 - stato della comunicazione (da leggere, letta, gestita).
 
 Quando possibile, il sistema può recuperare automaticamente il contenuto tramite integrazioni autorizzate; in caso contrario registra l'evento e guida l'operatore all'accesso sulla piattaforma esterna.
+
+## Integrazione WhatsApp + Assistente AI
+
+La combinazione tra messaggistica istantanea e Assistente AI aumenta la probabilità di conversione.
+
+Schema:
+
+Campagna
+
+↓
+
+WhatsApp
+
+↓
+
+Link
+
+↓
+
+Assistente AI
+
+↓
+
+Risposte immediate
+
+↓
+
+Conversione
+
+Il tempo di risposta rappresenta uno dei principali fattori di successo.
