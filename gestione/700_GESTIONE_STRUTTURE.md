@@ -398,3 +398,71 @@ Ad esempio:
 - aggiornamento delle condizioni.
 
 L'obiettivo è ridurre il tempo operativo e aumentare l'efficienza nella gestione di portafogli composti da più strutture.
+
+## Principio della Qualità del Turismo
+
+Vacanze Sicure non valuta esclusivamente la qualità delle strutture ricettive.
+
+L'ecosistema promuove e valorizza un modello di ospitalità capace di generare un turismo sostenibile, rispettoso delle persone, del territorio e delle comunità locali.
+
+La qualità di una struttura non dipende soltanto da comfort, servizi o recensioni, ma anche dalla capacità di favorire una convivenza equilibrata tra ospiti e residenti.
+
+---
+
+## Principio dell'Impatto Territoriale
+
+Ogni struttura produce un impatto sul territorio.
+
+La valutazione deve considerare anche elementi quali:
+
+- rispetto della quiete pubblica;
+- corretta gestione degli ospiti;
+- rispetto della capacità ricettiva autorizzata;
+- prevenzione dei comportamenti che arrecano disturbo;
+- collaborazione con la comunità locale;
+- tutela dell'ambiente e del paesaggio;
+- promozione di un turismo responsabile.
+
+L'obiettivo non è giudicare gli ospiti, ma valutare il modello di gestione adottato dalla struttura.
+
+---
+
+## Principio del Turismo Responsabile
+
+Vacanze Sicure promuove un turismo che genera valore per tutti:
+
+- per gli ospiti;
+- per gli operatori;
+- per i residenti;
+- per il territorio.
+
+L'obiettivo non è massimizzare il numero di presenze, ma migliorare la qualità dell'esperienza e la sostenibilità dell'accoglienza nel lungo periodo.
+
+---
+
+## Principio della Convivenza
+
+Una struttura ricettiva deve poter convivere armoniosamente con il contesto in cui opera.
+
+La qualità dell'ospitalità comprende anche la capacità di prevenire situazioni di degrado, sovraffollamento, disturbo della quiete pubblica e comportamenti incompatibili con il rispetto delle persone e del territorio.
+
+---
+
+## Principio della Valutazione Evoluta
+
+La valutazione di una struttura deve superare i tradizionali criteri basati esclusivamente su:
+
+- prezzo;
+- posizione;
+- servizi;
+- recensioni.
+
+L'ecosistema Vacanze Sicure introduce una valutazione multidimensionale che considera anche:
+
+- qualità della gestione;
+- trasparenza;
+- affidabilità;
+- impatto sul territorio;
+- sostenibilità;
+- qualità del turismo generato;
+- responsabilità sociale.
