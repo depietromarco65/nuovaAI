@@ -1466,3 +1466,31 @@ Dipendenze principali:
 - 716_SLA_MANAGER.md
 - 718_CENTRO_OPERATIVO.md
 - 719_GESTIONE_OPPORTUNITA.md
+
+Evento
+
+OTA Recommendation
+
+Fonte
+
+Booking Partner
+
+Descrizione
+
+"Aggiungere culle"
+
+Stato
+
+Valutata
+
+↓
+
+Accettata
+
+↓
+
+Implementata
+
+↓
+
+Risultato
