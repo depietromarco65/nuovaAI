@@ -2,72 +2,96 @@
 
 # GESTIONE DELLE RICHIESTE
 
-> *"Ogni richiesta rappresenta un'opportunità per migliorare l'esperienza dell'ospite, rafforzare la fiducia e accrescere la qualità dell'ospitalità."*
-
----
-
-# Scopo
-
-Il modulo **Gestione Richieste** costituisce il punto centrale dell'ecosistema Vacanze Sicure per la raccolta, classificazione, gestione, monitoraggio e risoluzione di tutte le richieste provenienti dagli attori dell'ecosistema.
-
-Non si limita ai messaggi degli ospiti.
-
-Gestisce qualsiasi richiesta che richieda un'azione, una risposta o una decisione.
+Versione 3.0
 
 ---
 
 # Visione
 
-Ogni richiesta rappresenta un processo.
+La Gestione delle Richieste rappresenta il principale punto di ingresso operativo dell'ecosistema Vacanze Sicure.
 
-Non esiste una richiesta "isolata".
+Ogni comunicazione proveniente dall'esterno o dall'interno può trasformarsi in:
 
-Ogni comunicazione genera informazioni, documenti, task, eventi e conoscenza che devono essere conservati nel Fascicolo corretto.
+- informazione;
+- richiesta;
+- opportunità;
+- problema;
+- Processo;
+- Task.
 
-Il sistema deve evitare:
-
-- perdite di informazioni;
-- duplicazioni;
-- dimenticanze;
-- ritardi;
-- mancati riscontri.
-
----
-
-# Obiettivi
-
-Il modulo deve consentire di:
-
-- registrare qualsiasi richiesta;
-- classificarla automaticamente;
-- assegnarla al corretto operatore;
-- monitorarne l'avanzamento;
-- automatizzare le risposte semplici;
-- trasformare la richiesta in conoscenza permanente.
+Il modulo costituisce quindi il collegamento tra il mondo esterno e l'organizzazione interna.
 
 ---
 
-# Ambito
+# Posizionamento nell'Architettura
 
-Il modulo gestisce richieste provenienti da:
+```
+Messaggio
 
-- ospiti;
-- potenziali clienti;
-- proprietari;
-- operatori;
-- manutentori;
-- collaboratori;
-- partner;
-- enti pubblici;
-- OTA;
-- sistemi informatici;
-- Intelligenza Artificiale.
+↓
+
+Communication Engine
+
+↓
+
+Motore Conversazionale
+
+↓
+
+Gestione Richieste
+
+↓
+
+Process Manager
+
+↓
+
+Workflow Engine
+
+↓
+
+Task Manager
+
+↓
+
+Operatore
+```
+
+---
+
+# Scopo
+
+Il modulo ha il compito di:
+
+- ricevere richieste;
+- classificarle;
+- comprenderle;
+- instradarle;
+- monitorarle;
+- archiviarle;
+- trasformarle in conoscenza.
+
+---
+
+# Filosofia
+
+Ogni richiesta rappresenta una manifestazione di un bisogno.
+
+Il sistema non deve limitarsi a rispondere.
+
+Deve comprendere.
+
+Analizzare.
+
+Contestualizzare.
+
+Organizzare.
 
 ---
 
 # Definizione
 
-Per richiesta si intende qualsiasi comunicazione che richieda almeno una delle seguenti azioni:
+Una richiesta è qualsiasi comunicazione che richieda almeno una delle seguenti azioni:
 
 - risposta;
 - verifica;
@@ -82,26 +106,38 @@ Per richiesta si intende qualsiasi comunicazione che richieda almeno una delle s
 
 ## Ospite
 
-Può inviare richieste relative a:
+Può richiedere:
 
-- prenotazione;
-- soggiorno;
 - informazioni;
+- disponibilità;
+- preventivi;
 - assistenza;
-- reclami;
-- suggerimenti.
+- supporto;
+- modifiche;
+- reclami.
 
 ---
 
-## Operatore dell'Ospitalità
+## Potenziale Cliente
+
+Può richiedere:
+
+- informazioni;
+- disponibilità;
+- preventivi;
+- chiarimenti.
+
+---
+
+## Operatore
 
 Può:
 
-- creare;
+- creare richieste;
 - modificare;
+- classificare;
 - assegnare;
-- chiudere;
-- archiviare.
+- chiudere.
 
 ---
 
@@ -109,87 +145,57 @@ Può:
 
 Può:
 
+- comprendere;
 - classificare;
-- rispondere;
-- assegnare;
-- creare task;
-- aggiornare il Fascicolo;
-- proporre soluzioni.
+- suggerire risposte;
+- creare Processi;
+- creare Task;
+- individuare opportunità.
 
 ---
 
 ## Sistema
 
-Può generare automaticamente richieste.
+Può generare richieste automaticamente.
 
-Esempi:
+Esempi.
 
-- mancato check-in;
-- pagamento non ricevuto;
+- sincronizzazione fallita;
+- pagamento non registrato;
 - documento mancante;
-- manutenzione programmata.
+- manutenzione urgente.
+
+---
+
+# Origine delle Richieste
+
+Le richieste possono provenire da:
+
+- Email;
+- WhatsApp;
+- Telegram;
+- Booking;
+- Airbnb;
+- Expedia;
+- Agoda;
+- Sito Web;
+- Booking Engine;
+- Telefonate;
+- Operatori;
+- AI;
+- Sistema.
 
 ---
 
 # Modello Dati
 
-Ogni richiesta possiede un Fascicolo dedicato.
-
-Campi minimi.
+Ogni richiesta possiede un Fascicolo.
 
 ---
 
-## Identificativo
+## ID
 
-ID univoco.
-
----
-
-## Data di apertura
-
-Timestamp.
-
----
-
-## Data ultimo aggiornamento
-
-Timestamp.
-
----
-
-## Stato
-
-Workflow corrente.
-
----
-
-## Priorità
-
-Livello operativo.
-
----
-
-## Categoria
-
-Tipologia della richiesta.
-
----
-
-## Canale
-
-Origine della comunicazione.
-
----
-
-## Mittente
-
-Soggetto che ha aperto la richiesta.
-
----
-
-## Destinatario
-
-Operatore responsabile.
+Identificativo univoco.
 
 ---
 
@@ -205,353 +211,176 @@ Testo completo.
 
 ---
 
-## Allegati
+## Mittente
 
-Documenti.
-
-Immagini.
-
-Video.
-
-Audio.
-
-PDF.
+Origine della richiesta.
 
 ---
 
-## Fascicoli collegati
+## Canale
 
-La richiesta può essere collegata a:
-
-- Fascicolo Ospite;
-- Fascicolo Prenotazione;
-- Fascicolo Struttura;
-- Fascicolo Documento;
-- Fascicolo Partner.
+Sistema di comunicazione.
 
 ---
 
-## Task collegati
+## Data Ricezione
 
-Uno o più Task.
-
----
-
-## Eventi collegati
-
-Timeline completa.
+Timestamp.
 
 ---
 
-## Comunicazioni collegate
+## Priorità
 
-Email.
+Livello operativo.
 
-WhatsApp.
+---
 
-Telegram.
+## Categoria
 
-Telefonate.
+Classificazione.
 
-Chat.
+---
+
+## Stato
+
+Avanzamento.
+
+---
+
+## Responsabile
+
+Operatore assegnato.
+
+---
+
+## Processo
+
+Processo collegato.
+
+---
+
+## Workflow
+
+Workflow collegato.
+
+---
+
+## Task
+
+Attività generate.
+
+---
+
+## Fascicoli
+
+Può essere collegata a:
+
+- Ospite;
+- Prenotazione;
+- Struttura;
+- Documento;
+- Proprietario.
 
 ---
 
 # Classificazione
 
-Ogni richiesta viene classificata automaticamente.
+## Commerciale
+
+- preventivi;
+- disponibilità;
+- offerte.
 
 ---
 
-## Per Origine
+## Operativa
 
-- Email
-
-- WhatsApp
-
-- Telegram
-
-- Booking
-
-- Airbnb
-
-- Expedia
-
-- Agoda
-
-- Sito Web
-
-- Booking Engine
-
-- Telefonata
-
-- Operatore
-
-- AI
+- check-in;
+- check-out;
+- assistenza.
 
 ---
 
-## Per Categoria
+## Amministrativa
 
-Informazioni
-
-↓
-
-Preventivo
-
-↓
-
-Prenotazione
-
-↓
-
-Check-in
-
-↓
-
-Check-out
-
-↓
-
-Pagamento
-
-↓
-
-Documentazione
-
-↓
-
-Manutenzione
-
-↓
-
-Pulizia
-
-↓
-
-Amministrazione
-
-↓
-
-Reclamo
-
-↓
-
-Suggerimento
-
-↓
-
-Emergenza
-
-↓
-
-Supporto Tecnico
-
-↓
-
-Marketing
-
-↓
-
-Territorio
-
-↓
-
-Eventi
-
-↓
-
-Esperienze
+- fatture;
+- pagamenti;
+- documentazione.
 
 ---
 
-## Per Tipologia
+## Tecnica
 
-Richiesta semplice
-
-↓
-
-Richiesta composta
-
-↓
-
-Procedura
-
-↓
-
-Problema
-
-↓
-
-Decisione
-
-↓
-
-Segnalazione
-
-↓
-
-Opportunità
+- manutenzione;
+- guasti;
+- problemi informatici.
 
 ---
 
-# Livelli di Priorità
+## Marketing
 
-## 🔴 Critica
-
-Compromette immediatamente il soggiorno o la sicurezza.
-
-Esempi:
-
-- impossibilità di accedere alla struttura;
-- mancanza di energia;
-- allagamento;
-- fuga di gas;
-- emergenza sanitaria.
-
-Tempo di presa in carico:
-
-Immediato.
+- collaborazioni;
+- newsletter;
+- campagne.
 
 ---
 
-## 🟠 Alta
+## Territorio
 
-Compromette significativamente il comfort dell'ospite.
-
-Esempi:
-
-- climatizzatore guasto;
-- acqua calda assente;
-- errore nella prenotazione;
-- Wi-Fi non funzionante.
-
-Tempo consigliato:
-
-entro un'ora.
-
----
-
-## 🟡 Media
-
-Richiesta operativa.
-
-Esempi:
-
-- modifica orario;
-- informazioni;
-- richiesta biancheria;
-- assistenza ordinaria.
-
-Gestione nella giornata.
-
----
-
-## 🔵 Bassa
-
-Richieste informative o migliorative.
-
-Esempi:
-
-- consigli turistici;
-- ristoranti;
 - eventi;
-- suggerimenti;
-- curiosità.
-
-Preferibilmente gestite dall'Assistente AI.
-
----
-
-# Classificazione Temporale
-
-Ogni richiesta viene anche valutata rispetto al tempo.
-
-## Immediata
-
-Intervento entro pochi minuti.
+- esperienze;
+- itinerari;
+- servizi.
 
 ---
 
-## Oggi
+## Reclami
 
-Da completare entro la giornata.
+Segnalazioni.
 
----
+Contestazioni.
 
-## Domani
-
-Attività programmabile.
+Problemi.
 
 ---
 
-## Pianificata
+## Opportunità
 
-Può essere inserita nei Task.
+Partnership.
 
----
+Nuovi servizi.
 
-## Ricorrente
-
-Genera una procedura periodica.
+Nuove idee.
 
 ---
 
-# Classificazione Automatica AI
+# Principio Fondamentale
 
-L'Assistente AI analizza automaticamente:
+La richiesta rappresenta il punto di ingresso dell'ecosistema.
 
-- contenuto;
-- tono;
-- urgenza;
-- lingua;
-- allegati;
-- cronologia dell'ospite;
-- cronologia della struttura.
+Il suo compito non è gestire direttamente il lavoro.
 
-Attribuisce:
+# Stati della Richiesta
 
-- categoria;
-- priorità;
-- operatore suggerito;
-- task necessari;
-- documenti correlati.
+Ogni richiesta attraversa un ciclo di vita definito.
 
-L'operatore mantiene sempre la possibilità di modificare la classificazione proposta.
+Lo stato rappresenta esclusivamente l'avanzamento della gestione della richiesta.
+
+L'organizzazione del lavoro viene invece demandata al Process Manager.
 
 ---
 
-# Principio Vacanze Sicure
+# Ciclo di Vita
 
-Una richiesta non è semplicemente un messaggio da gestire.
-
-È un'informazione strategica che entra a far parte della conoscenza dell'ecosistema.
-
-Ogni richiesta contribuisce ad arricchire il Fascicolo dell'ospite, della struttura e della prenotazione, migliorando progressivamente la capacità del sistema di fornire risposte tempestive, coerenti e personalizzate.
-# Workflow Operativo
-
-Ogni richiesta percorre un ciclo di vita ben definito.
-
-L'obiettivo è garantire:
-
-- tracciabilità;
-- continuità operativa;
-- tempi di risposta controllati;
-- nessuna perdita di informazioni.
-
----
-
-# Workflow Standard
-
-Nuova Richiesta
+Ricezione
 
 ↓
 
-Classificazione automatica
+Analisi
 
 ↓
 
-Analisi AI
+Classificazione
 
 ↓
 
@@ -563,11 +392,7 @@ Presa in carico
 
 ↓
 
-Lavorazione
-
-↓
-
-Eventuali Task
+Gestione
 
 ↓
 
@@ -575,11 +400,7 @@ Verifica
 
 ↓
 
-Risoluzione
-
-↓
-
-Feedback
+Conclusione
 
 ↓
 
@@ -587,808 +408,1497 @@ Archiviazione
 
 ---
 
-# Stati della Richiesta
+# Stato: Ricevuta
 
-Ogni richiesta può assumere uno dei seguenti stati.
-
----
-
-## Nuova
-
-La richiesta è stata appena registrata.
-
-Non è ancora stata presa in carico.
+La richiesta è stata acquisita dal sistema.
 
 Può provenire da:
 
-- email;
+- Email;
 - WhatsApp;
-- Booking;
-- Airbnb;
+- Telegram;
 - OTA;
-- sito web;
-- operatore;
-- AI.
+- Sito Web;
+- Telefonata;
+- Operatore;
+- Sistema.
+
+Il sistema registra automaticamente:
+
+- data;
+- ora;
+- canale;
+- mittente;
+- contenuto originale.
 
 ---
 
-## In Analisi
+# Stato: Analizzata
 
-L'Assistente AI sta:
+L'Assistente AI esegue una prima analisi.
 
-- classificando la richiesta;
-- individuando il Fascicolo corretto;
-- cercando documenti collegati;
-- suggerendo una soluzione.
+Identifica:
 
----
-
-## Assegnata
-
-La richiesta è stata affidata ad un operatore.
-
-L'operatore diventa responsabile del suo ciclo di vita.
+- lingua;
+- intenzione;
+- urgenza;
+- argomento;
+- eventuali Fascicoli collegati.
 
 ---
 
-## Presa in Carico
+# Stato: Classificata
 
-L'operatore conferma di aver iniziato la gestione.
+La richiesta viene classificata.
 
-Da questo momento vengono monitorati:
+Categorie.
 
-- tempo di risposta;
-- tempo di lavorazione;
-- SLA.
+- commerciale;
+- operativa;
+- amministrativa;
+- tecnica;
+- territoriale;
+- reclamo;
+- opportunità.
+
+La classificazione può essere:
+
+- automatica;
+- verificata dall'operatore.
 
 ---
 
-## In Attesa
+# Stato: Assegnata
 
-La richiesta non può proseguire.
+La richiesta viene affidata ad un Operatore dell'Ospitalità.
 
-Motivi:
+L'assegnazione aggiorna automaticamente:
 
-- attesa risposta ospite;
+- Dashboard;
+- Timeline;
+- Audit;
+- KPI.
+
+---
+
+# Stato: In Gestione
+
+L'operatore ha preso in carico la richiesta.
+
+Durante questa fase può:
+
+- rispondere;
+- richiedere informazioni;
+- allegare documenti;
+- avviare un Processo;
+- creare Task;
+- coinvolgere altri operatori.
+
+---
+
+# Stato: In Attesa
+
+La gestione è sospesa.
+
+Motivi.
+
+- attesa cliente;
 - attesa documento;
 - attesa pagamento;
-- attesa manutenzione;
-- attesa partner.
+- attesa risposta partner;
+- attesa autorizzazione.
 
 ---
 
-## Sospesa
+# Stato: Risolta
 
-Gestione temporaneamente interrotta.
+La richiesta ha ricevuto una risposta completa.
 
-Sempre con motivazione.
-
----
-
-## Escalation
-
-La richiesta viene trasferita ad un livello superiore.
-
-Esempi:
-
-Operatore
-
-↓
-
-Responsabile
-
-↓
-
-Property Manager
-
-↓
-
-Amministratore
+Può rimanere aperta in attesa della conferma del mittente.
 
 ---
 
-## Risolta
+# Stato: Chiusa
 
-Il problema è stato risolto.
+La gestione è terminata.
 
-La richiesta rimane consultabile.
+Il Fascicolo viene aggiornato.
 
----
-
-## Chiusa
-
-Dopo la verifica finale.
-
-Non sono più previste attività.
+La Timeline registra la conclusione.
 
 ---
 
-## Archiviata
+# Stato: Archiviata
 
-Entra nello storico.
+La richiesta entra nello storico.
 
-Continua ad alimentare la conoscenza dell'ecosistema.
+Continua ad alimentare:
 
----
-
-# Workflow AI
-
-Quando arriva una nuova richiesta.
-
-AI
-
-↓
-
-riconosce il mittente
-
-↓
-
-apre il Fascicolo
-
-↓
-
-riconosce la lingua
-
-↓
-
-analizza il contenuto
-
-↓
-
-attribuisce categoria
-
-↓
-
-attribuisce priorità
-
-↓
-
-verifica presenza documenti
-
-↓
-
-ricerca casi analoghi
-
-↓
-
-propone risposta
-
-↓
-
-genera Task se necessari
-
-↓
-
-assegna all'operatore
+- statistiche;
+- Centro Studi;
+- base di conoscenza AI.
 
 ---
 
-# Service Level Agreement (SLA)
+# Analisi AI
 
-Ogni richiesta possiede un tempo massimo di presa in carico.
+L'Assistente AI esamina automaticamente ogni nuova richiesta.
+
+Identifica.
+
+## Intento
+
+Esempi.
+
+- richiesta disponibilità;
+- richiesta preventivo;
+- informazioni;
+- modifica prenotazione;
+- assistenza;
+- reclamo.
 
 ---
+
+## Sentiment
+
+Valutazione del tono.
+
+- positivo;
+- neutro;
+- negativo;
+- urgente.
+
+---
+
+## Priorità
+
+Stima automatica dell'urgenza.
+
+---
+
+## Lingua
+
+Riconoscimento automatico.
+
+---
+
+## Ospite
+
+Ricerca del Fascicolo Ospite.
+
+---
+
+## Prenotazione
+
+Ricerca del Fascicolo Prenotazione.
+
+---
+
+# Priorità
+
+La priorità può essere.
 
 ## Critica
 
-Presa in carico:
+Emergenze.
 
-entro 15 minuti.
+Sicurezza.
 
-Obiettivo risoluzione:
-
-immediata.
+Ospite in difficoltà.
 
 ---
 
 ## Alta
 
-Presa in carico:
+Check-in imminente.
 
-entro 1 ora.
+Problemi durante il soggiorno.
 
 ---
 
 ## Media
 
-Presa in carico:
+Preventivi.
 
-entro la giornata.
+Informazioni.
+
+Richieste ordinarie.
 
 ---
 
 ## Bassa
 
-Gestione pianificabile.
+Suggerimenti.
 
-Preferibilmente automatizzata.
+Feedback.
+
+Collaborazioni.
 
 ---
 
-# Monitoraggio SLA
+# Priorità Dinamica
 
-Il sistema controlla continuamente:
+La priorità può cambiare automaticamente.
 
-- richieste scadute;
-- richieste vicine alla scadenza;
-- richieste senza operatore;
-- richieste senza risposta.
+Esempio.
+
+Check-in domani.
+
+↓
+
+La richiesta diventa urgente.
+
+---
+
+# SLA
+
+Ogni categoria possiede tempi di riferimento.
+
+Esempi.
+
+Preventivo.
+
+↓
+
+Risposta entro 2 ore.
+
+---
+
+Richiesta durante il soggiorno.
+
+↓
+
+Presa in carico immediata.
+
+---
+
+Reclamo.
+
+↓
+
+Analisi entro 30 minuti.
+
+---
+
+# Smistamento
+
+Terminata la classificazione, la richiesta può:
+
+1. essere chiusa con una risposta diretta;
+
+2. generare un Processo;
+
+3. generare uno o più Task;
+
+4. essere inoltrata ad un operatore;
+
+5. essere trasformata in Opportunità;
+
+6. essere archiviata.
+
+---
+
+# Integrazione con il Communication Engine
+
+Ogni messaggio rimane collegato alla richiesta.
+
+Email.
+
+↓
+
+WhatsApp.
+
+↓
+
+Telegram.
+
+↓
+
+Telefonata.
+
+↓
+
+Chat Web.
+
+Tutte le comunicazioni vengono raccolte nello stesso Fascicolo.
+
+---
+
+# Integrazione con il Motore Conversazionale
+
+L'Assistente AI può:
+
+- comprendere la richiesta;
+- proporre una risposta;
+- recuperare informazioni dai Fascicoli;
+- suggerire documenti;
+- creare automaticamente Processi e Task.
+
+L'Operatore mantiene sempre il controllo della risposta finale.
+
+---
+
+# Principio della Comprensione
+
+L'obiettivo della Gestione Richieste non è semplicemente ricevere messaggi.
+
+È comprendere il bisogno espresso dall'utente e indirizzarlo verso il corretto Processo operativo, riducendo tempi di risposta, errori e attività ripetitive.
+
+# Gestione Automatica delle Richieste
+
+L'obiettivo del modulo non consiste semplicemente nel registrare le richieste.
+
+L'obiettivo è comprenderle, organizzarle e trasformarle automaticamente in attività operative quando necessario.
+
+L'intervento umano deve concentrarsi esclusivamente sui casi che richiedono esperienza, sensibilità o decisioni.
+
+---
+
+# Flusso Automatico
+
+Ogni richiesta segue automaticamente il seguente percorso.
+
+```
+Messaggio
+
+↓
+
+Communication Engine
+
+↓
+
+Motore Conversazionale
+
+↓
+
+Analisi AI
+
+↓
+
+Classificazione
+
+↓
+
+Ricerca Fascicoli
+
+↓
+
+Decisione
+
+↓
+
+Risposta
+
+oppure
+
+↓
+
+Processo
+
+↓
+
+Workflow
+
+↓
+
+Task
+```
+
+---
+
+# Comprensione Semantica
+
+L'Assistente AI non analizza soltanto le parole.
+
+Analizza il significato della richiesta.
+
+Esempio.
+
+"Oggi arriveremo più tardi."
+
+Il sistema comprende automaticamente.
+
+- modifica dell'orario di check-in;
+- prenotazione coinvolta;
+- ospite;
+- struttura;
+- impatto organizzativo.
+
+---
+
+# Ricerca Contestuale
+
+Prima di proporre una risposta il sistema consulta automaticamente.
+
+- Fascicolo Ospite;
+- Fascicolo Prenotazione;
+- Fascicolo Struttura;
+- Fascicolo Proprietario;
+- Fascicolo Documentale;
+- Timeline;
+- Comunicazioni precedenti.
+
+L'operatore riceve quindi un quadro completo.
+
+---
+
+# Suggerimenti AI
+
+L'Assistente può proporre.
+
+## Risposte
+
+Bozza pronta.
+
+---
+
+## Documenti
+
+Contratti.
+
+Regolamenti.
+
+Guide.
+
+---
+
+## Procedure
+
+Workflow consigliato.
+
+---
+
+## Task
+
+Attività operative.
+
+---
+
+## Opportunità
+
+Cross-selling.
+
+Upselling.
+
+Esperienze.
+
+Servizi.
+
+---
+
+# Risposta Automatica
+
+Per richieste semplici il sistema può rispondere automaticamente.
+
+Esempi.
+
+- orari check-in;
+- posizione;
+- Wi-Fi;
+- parcheggio;
+- animali;
+- regolamento.
+
+Ogni risposta automatica viene registrata.
+
+---
+
+# Richieste Complesse
+
+Quando la richiesta richiede una valutazione.
+
+Il sistema.
+
+↓
+
+prepara il contesto.
+
+↓
+
+recupera i Fascicoli.
+
+↓
+
+propone una risposta.
+
+↓
+
+attende l'approvazione dell'Operatore.
+
+---
+
+# Dashboard Operativa
+
+La Dashboard mostra.
+
+---
+
+## Nuove Richieste
+
+Ricevute oggi.
+
+---
+
+## In Attesa
+
+Cliente.
+
+Partner.
+
+Documenti.
+
+---
+
+## In Gestione
+
+Per operatore.
+
+---
+
+## Critiche
+
+Alta priorità.
+
+---
+
+## Reclami
+
+Monitoraggio dedicato.
+
+---
+
+## Opportunità
+
+Preventivi.
+
+Follow-up.
+
+Collaborazioni.
+
+---
+
+# Dashboard Conversazionale
+
+Visualizzare.
+
+- email;
+- WhatsApp;
+- Telegram;
+- OTA;
+- Chat Web;
+- Telefonate registrate.
+
+Ogni conversazione viene ricondotta ad un'unica richiesta.
+
+---
+
+# KPI
+
+Monitorare automaticamente.
+
+## Volume
+
+Numero richieste.
+
+---
+
+## Tempi
+
+- presa in carico;
+- risposta;
+- chiusura.
+
+---
+
+## Qualità
+
+- richieste riaperte;
+- reclami;
+- escalation.
+
+---
+
+## Automazione
+
+Percentuale di richieste:
+
+- risolte automaticamente;
+- assistite dalla AI;
+- gestite manualmente.
+
+---
+
+## Customer Care
+
+Correlazione tra:
+
+- tempi di risposta;
+- recensioni;
+- soddisfazione;
+- fidelizzazione.
+
+---
+
+# Analytics
+
+Il sistema analizza.
+
+- richieste più frequenti;
+- argomenti ricorrenti;
+- problemi ripetitivi;
+- periodi di maggiore carico;
+- canali più utilizzati.
+
+Queste informazioni alimentano il Centro Studi.
+
+---
+
+# Audit
+
+Ogni operazione viene registrata.
+
+Memorizzare.
+
+- autore;
+- AI;
+- data;
+- ora;
+- modifica;
+- risposta;
+- stato.
+
+Lo storico non viene mai eliminato.
+
+---
+
+# Sicurezza
+
+L'accesso alle richieste dipende dai permessi dell'operatore.
+
+Le richieste possono essere filtrate per.
+
+- struttura;
+- ruolo;
+- Processo;
+- Fascicolo.
+
+---
+
+# Privacy
+
+I dati personali rimangono nei Fascicoli.
+
+La Gestione Richieste conserva esclusivamente i riferimenti necessari alla lavorazione.
+
+Ogni accesso viene registrato ai fini del GDPR.
+
+---
+
+# Integrazione
+
+Il modulo dialoga con.
+
+- 611_COMMUNICATION_ENGINE.md
+- 626_MOTORE_CONVERSAZIONALE.md
+- 712_TASK_MANAGER.md
+- 713_PROCESS_MANAGER.md
+- 714_WORKFLOW_ENGINE.md
+- 717_TIMELINE_EVENTI.md
+- 719_GESTIONE_OPPORTUNITA.md
+
+Ogni aggiornamento viene sincronizzato automaticamente.
+
+---
+
+# Principio dell'Ascolto
+
+Ogni richiesta rappresenta un'opportunità.
+
+Anche un reclamo o una segnalazione costituiscono informazioni preziose per migliorare il servizio.
+
+Il sistema deve quindi registrare, comprendere e valorizzare ogni interazione, trasformandola in conoscenza utile per l'intera organizzazione.
+
+---
+
+# Principio della Centralità della Conversazione
+
+L'ospite non dialoga con moduli software.
+
+Dialoga con "A Casa di Amici".
+
+Per questo motivo tutte le comunicazioni, indipendentemente dal canale utilizzato, devono essere ricondotte ad una conversazione unica, continua e contestualizzata.
+
+L'Operatore dell'Ospitalità e l'Assistente AI condividono la stessa visione completa della relazione con l'ospite.
+
+Il suo compito è comprendere la necessità e trasformarla, quando necessario, in un Processo organizzato, governato dal Process Manager, regolato dal Workflow Engine ed eseguito attraverso il Task Manager.
+
+# API Logiche
+
+Il modulo Gestione Richieste espone un insieme di servizi logici utilizzabili da tutti i componenti dell'ecosistema.
+
+Le API rappresentano funzionalità applicative e sono indipendenti dalla tecnologia utilizzata.
+
+---
+
+## CreateRequest()
+
+Registra una nuova richiesta.
+
+Input.
+
+- canale
+- mittente
+- oggetto
+- contenuto
+- allegati
+
+Output.
+
+- ID Richiesta
+
+---
+
+## AnalyzeRequest()
+
+Attiva il Motore Conversazionale.
+
+Analizza.
+
+- intenzione;
+- lingua;
+- sentiment;
+- urgenza;
+- Fascicoli collegati;
+- categoria.
+
+Produce una classificazione preliminare.
+
+---
+
+## ClassifyRequest()
+
+Assegna la categoria definitiva.
+
+Può essere eseguita:
+
+- automaticamente;
+- dall'Operatore;
+- dal Responsabile.
+
+---
+
+## AssignRequest()
+
+Assegna la richiesta.
+
+Aggiorna automaticamente.
+
+- Dashboard;
+- Timeline;
+- Audit;
+- KPI.
+
+---
+
+## ReplyRequest()
+
+Registra una risposta.
+
+Può utilizzare.
+
+- modelli;
+- suggerimenti AI;
+- documentazione;
+- FAQ;
+- template multilingua.
+
+---
+
+## CreateProcessFromRequest()
+
+Trasforma una richiesta in un Processo.
+
+Esempio.
+
+Richiesta manutenzione
+
+↓
+
+Processo Manutenzione
+
+---
+
+Richiesta preventivo
+
+↓
+
+Processo Commerciale
+
+---
+
+Reclamo
+
+↓
+
+Processo Gestione Reclami
+
+---
+
+## CreateTaskFromRequest()
+
+Genera uno o più Task.
+
+Esempio.
+
+Richiesta.
+
+"Vorrei il check-in anticipato."
+
+↓
+
+Verifica disponibilità.
+
+↓
+
+Controllo pulizie.
+
+↓
+
+Conferma ospite.
+
+---
+
+## CloseRequest()
+
+Chiude la richiesta.
+
+Verifica automaticamente.
+
+- Processi;
+- Task;
+- comunicazioni.
+
+---
+
+## ReopenRequest()
+
+Permette la riapertura.
+
+Genera automaticamente un nuovo evento nella Timeline.
+
+---
+
+## ArchiveRequest()
+
+Archivia definitivamente.
+
+Mai eliminare.
+
+---
+
+## SearchRequest()
+
+Ricerca avanzata.
+
+Supporta filtri.
+
+- periodo;
+- ospite;
+- struttura;
+- stato;
+- categoria;
+- canale;
+- Processo.
+
+---
+
+# Business Rules
+
+Il modulo applica automaticamente alcune regole fondamentali.
+
+---
+
+## Una richiesta non viene mai eliminata
+
+Può essere soltanto:
+
+- chiusa;
+- archiviata.
+
+---
+
+## Ogni richiesta appartiene ad almeno un Fascicolo
+
+Ad esempio.
+
+- Ospite;
+- Prenotazione;
+- Struttura;
+- Proprietario.
+
+---
+
+## Ogni risposta viene registrata
+
+Mai sovrascrivere.
+
+Mai perdere lo storico.
+
+---
+
+## Una richiesta può generare più Processi
+
+Esempio.
+
+Email.
+
+↓
+
+Richiesta preventivo.
+
+↓
+
+Richiesta informazioni.
+
+↓
+
+Richiesta disponibilità.
+
+Tre Processi distinti.
+
+---
+
+## Una richiesta può generare più Task
+
+Un'unica comunicazione può richiedere attività differenti.
+
+---
+
+## Tutte le comunicazioni rimangono collegate
+
+Email.
+
+↓
+
+WhatsApp.
+
+↓
+
+Telefonata.
+
+↓
+
+Telegram.
+
+↓
+
+OTA.
+
+Devono apparire come un'unica conversazione.
+
+---
+
+# Gestione delle Eccezioni
+
+Il modulo deve gestire automaticamente le anomalie.
+
+---
+
+## Richiesta incompleta
+
+↓
+
+Richiedere integrazione.
+
+---
+
+## Allegati mancanti
+
+↓
+
+Notifica.
+
+↓
+
+Nuova richiesta documenti.
+
+---
+
+## Lingua sconosciuta
+
+↓
+
+Traduzione AI.
+
+↓
+
+Verifica operatore.
+
+---
+
+## Cliente non identificato
+
+↓
+
+Creazione Fascicolo provvisorio.
+
+↓
+
+Successivo consolidamento.
+
+---
+
+## Prenotazione non trovata
+
+↓
+
+Ricerca assistita.
+
+↓
+
+Segnalazione operatore.
+
+---
+
+## Duplicazione
+
+Se la stessa richiesta arriva da più canali.
+
+Il sistema propone automaticamente l'unificazione.
 
 ---
 
 # Continuità Operativa
 
-## Principio
-
-Vacanze Sicure non interrompe la gestione delle richieste nei periodi di maggiore attività turistica.
-
-L'alta stagione rappresenta il momento di massima operatività dell'ecosistema.
-
----
-
-## Alta Stagione
+Il modulo deve garantire la presa in carico delle richieste anche nei periodi di massimo carico.
 
 Durante:
 
 - Ferragosto;
 - Pasqua;
 - Natale;
-- Capodanno;
-- ponti;
-- festività;
+- Ponti;
 
-il sistema attiva automaticamente una modalità operativa dedicata.
+vengono applicate procedure dedicate.
 
 ---
 
-## Modalità Alta Stagione
+# Modalità Alta Stagione
 
-Priorità automatiche.
+L'obiettivo principale diventa la rapidità di risposta.
 
-Riduzione delle attività non essenziali.
+Il sistema.
 
-Maggiore utilizzo dell'AI.
-
-Monitoraggio continuo.
-
-Dashboard dedicate.
-
----
-
-# Gestione Emergenze
-
-Le richieste classificate come emergenze seguono un workflow dedicato.
-
-Emergenza
-
-↓
-
-presa in carico immediata
-
-↓
-
-notifica operatore
-
-↓
-
-notifica responsabile
-
-↓
-
-monitoraggio continuo
-
-↓
-
-chiusura con verifica
+- aumenta il supporto AI;
+- propone risposte automatiche;
+- evidenzia le richieste urgenti;
+- concentra gli operatori sull'assistenza agli ospiti presenti.
 
 ---
 
-# Escalation Automatica
+# Integrazione con il Centro Operativo
 
-Una richiesta viene automaticamente inoltrata quando:
+Ogni richiesta aggiorna automaticamente il Centro Operativo.
 
-- supera lo SLA;
+Visualizzare.
 
-- rimane senza operatore;
-
-- viene riaperta più volte;
-
-- riceve valutazione negativa;
-
-- viene classificata critica.
+## Nuove richieste
 
 ---
 
-# Gestione delle Riaperture
-
-Una richiesta chiusa può essere riaperta.
-
-Ogni riapertura genera:
-
-- nuovo evento Timeline;
-
-- nuova analisi AI;
-
-- aggiornamento KPI;
-
-- eventuale nuova priorità.
+## Richieste critiche
 
 ---
 
-# Automazioni
-
-L'AI può eseguire automaticamente.
-
-## Risposte Immediate
-
-Domande frequenti.
+## Reclami
 
 ---
 
-## Invio Documenti
-
-Check-in.
-
-Wi-Fi.
-
-Regolamenti.
-
-Coordinate.
+## Opportunità commerciali
 
 ---
 
-## Creazione Task
-
-Ogni richiesta può produrre:
-
-- manutenzione;
-
-- pulizia;
-
-- amministrazione;
-
-- follow-up.
+## Richieste senza risposta
 
 ---
 
-## Aggiornamento Fascicoli
-
-L'informazione viene registrata automaticamente nei Fascicoli interessati.
+## Richieste oltre SLA
 
 ---
 
-## Aggiornamento Timeline
+# Notifiche
 
-Ogni cambiamento produce un nuovo evento.
+Ogni evento significativo produce notifiche.
 
----
+- nuova richiesta;
 
-# Collegamento con Task Manager
+- risposta inviata;
 
-Ogni richiesta può generare uno o più Task.
+- richiesta assegnata;
 
-Relazione.
+- escalation;
 
-Richiesta
+- chiusura;
 
-↓
-
-Task
-
-↓
-
-Operatore
-
-↓
-
-Conclusione
-
-↓
-
-Aggiornamento Richiesta
+- riapertura.
 
 ---
 
-# Collegamento con il Motore Conversazionale
+# Monitoraggio
 
-Le conversazioni non vengono duplicate.
+Il sistema controlla continuamente.
 
-Ogni messaggio aggiorna direttamente la richiesta.
-
----
-
-# Collegamento con Customer Journey
-
-Le richieste influenzano il Customer Journey.
-
-Esempio.
-
-Preventivo
-
-↓
-
-Domanda
-
-↓
-
-Prenotazione
-
-↓
-
-Assistenza
-
-↓
-
-Recensione
-
----
-
-# Gestione Multioperatore
-
-Una richiesta può coinvolgere:
-
-- Reception;
-
-- Amministrazione;
-
-- Manutenzione;
-
-- Pulizie;
-
-- Marketing;
-
-- Direzione.
-
-Il sistema mantiene un unico Fascicolo.
-
----
-
-# Gestione Documentale
-
-Ogni richiesta può produrre:
-
-- documenti;
-
-- fotografie;
-
-- preventivi;
-
-- ricevute;
-
-- verbali;
-
-- contratti.
-
-Tutto rimane collegato.
-
----
-
-# Principio Vacanze Sicure
-
-Una richiesta non deve mai dipendere dalla memoria di una persona.
-
-Deve appartenere all'ecosistema.
-
-Qualunque operatore, in qualsiasi momento, deve poter comprendere immediatamente:
-
-- cosa è successo;
-
-- cosa è stato fatto;
-
-- cosa resta da fare;
-
-- chi è responsabile;
-
-- quali documenti sono coinvolti;
-
-- quali decisioni sono già state prese.
-
-Solo così è possibile garantire continuità operativa, qualità dell'accoglienza e crescita della conoscenza condivisa.
-# Dashboard Operativa
-
-Il modulo deve mettere a disposizione una Dashboard in tempo reale per il monitoraggio delle richieste.
-
-La Dashboard rappresenta il centro operativo dell'ecosistema.
-
----
-
-# Vista Generale
-
-Visualizzare:
-
-- richieste aperte;
-- richieste in lavorazione;
-- richieste in attesa;
-- richieste sospese;
-- richieste concluse;
-- richieste archiviate.
-
----
-
-# Vista per Priorità
-
-Suddivisione automatica:
-
-🔴 Critiche
-
-🟠 Alte
-
-🟡 Medie
-
-🔵 Basse
-
----
-
-# Vista per Operatore
-
-Per ogni operatore mostrare:
-
-- richieste assegnate;
-- richieste concluse;
-- richieste in ritardo;
-- tempo medio di risposta;
-- carico di lavoro.
-
----
-
-# Vista per Struttura
-
-Ogni struttura visualizza:
-
-- richieste aperte;
-- problemi ricorrenti;
-- manutenzioni;
-- reclami;
-- suggerimenti;
-- richieste informative.
-
----
-
-# Vista per Ospite
-
-Dal Fascicolo Ospite è possibile consultare:
-
-- richieste inviate;
-- richieste concluse;
-- richieste aperte;
-- tempo medio di gestione;
-- storico completo.
-
----
-
-# Ricerca
-
-Il sistema permette la ricerca per:
-
-- ID richiesta;
-- ospite;
-- struttura;
-- prenotazione;
-- telefono;
-- email;
-- documento;
-- parola chiave;
-- categoria;
-- priorità;
-- stato;
-- data.
-
----
-
-# Filtri
-
-Filtri disponibili:
-
-- operatore;
-- struttura;
-- categoria;
-- canale;
-- stato;
-- periodo;
-- priorità;
-- SLA;
-- presenza allegati.
-
----
-
-# KPI
-
-Il modulo calcola automaticamente.
-
-## Operativi
-
-- richieste ricevute;
-- richieste concluse;
-- richieste aperte;
-- richieste riaperte.
-
----
-
-## Tempi
-
-- tempo prima risposta;
-- tempo presa in carico;
-- tempo medio lavorazione;
-- tempo medio risoluzione.
-
----
-
-## Qualità
+- richieste senza assegnazione;
 
 - richieste senza risposta;
+
 - richieste oltre SLA;
+
 - richieste duplicate;
-- richieste archiviate.
+
+- richieste sospese.
+
+Ogni anomalia viene evidenziata automaticamente.
 
 ---
 
-## AI
+# Collaborazione
 
-- richieste classificate automaticamente;
-- richieste risolte dalla AI;
-- richieste passate agli operatori;
-- accuratezza classificazione.
+Più Operatori possono collaborare sulla stessa richiesta.
+
+Ruoli.
+
+- Responsabile;
+
+- Collaboratore;
+
+- Supervisore;
+
+- Osservatore.
+
+La responsabilità rimane comunque attribuita ad un solo Operatore dell'Ospitalità.
 
 ---
 
-## Customer Care
+# Principio della Conversazione Unica
 
-- soddisfazione ospiti;
-- reclami;
-- suggerimenti;
-- recensioni correlate.
+L'ospite deve percepire un'unica conversazione continua.
+
+Non importa se comunica tramite:
+
+- email;
+- WhatsApp;
+- Telegram;
+- Booking;
+- Airbnb;
+- telefonata.
+
+Per il sistema esiste un solo dialogo, contestualizzato e completo, costruito attorno al Fascicolo dell'Ospite.
+
+# Evoluzione
+
+La Gestione Richieste rappresenta il punto di ingresso dell'intero ecosistema Vacanze Sicure.
+
+Con l'evoluzione della piattaforma il modulo non si limiterà più a gestire comunicazioni, ma diventerà il principale motore di relazione con ospiti, proprietari, partner e territorio.
 
 ---
 
-# Analisi Predittiva
+# Roadmap Evolutiva
 
-L'AI può individuare:
+## Versione 3
 
-- incremento richieste;
-- problemi ricorrenti;
-- strutture critiche;
-- operatori sovraccarichi;
-- anomalie.
+Gestione centralizzata delle richieste.
+
+- classificazione;
+- assegnazione;
+- monitoraggio;
+- integrazione con Processi e Task.
+
+---
+
+## Versione 4
+
+CRM Conversazionale.
+
+Introduzione di:
+
+- memoria contestuale;
+- gestione omnicanale;
+- storico unificato;
+- suggerimenti AI.
+
+---
+
+## Versione 5
+
+Assistente Relazionale.
+
+L'Assistente AI sarà in grado di:
+
+- riconoscere automaticamente il contesto;
+- comprendere la storia del cliente;
+- proporre risposte personalizzate;
+- anticipare bisogni e criticità.
+
+---
+
+## Versione 6
+
+Relationship Intelligence
+
+Il sistema analizzerà nel tempo:
+
+- qualità delle relazioni;
+- frequenza dei contatti;
+- fidelizzazione;
+- valore del cliente;
+- opportunità commerciali;
+- soddisfazione.
+
+---
+
+# CRM Conversazionale
+
+Ogni richiesta diventa parte della relazione.
+
+Il sistema costruisce automaticamente la storia completa dei rapporti con ogni soggetto.
+
+Sono inclusi.
+
+- email;
+- WhatsApp;
+- Telegram;
+- telefonate;
+- OTA;
+- sito web;
+- incontri;
+- note operative.
+
+L'Operatore visualizza una sola conversazione continua.
 
 ---
 
 # Knowledge Base
 
-Ogni richiesta alimenta la base di conoscenza.
+Ogni richiesta conclusa alimenta la Base di Conoscenza.
 
-Il sistema registra:
+Il sistema memorizza.
 
-- soluzione adottata;
-- documenti utilizzati;
-- tempi;
-- esito;
-- operatore.
+- domanda;
+- soluzione;
+- documentazione utilizzata;
+- Processo attivato;
+- Task generati;
+- tempo di risoluzione.
 
-La richiesta successiva simile potrà essere risolta più rapidamente.
+Queste informazioni saranno utilizzate per:
 
----
-
-# Autoapprendimento
-
-L'Assistente AI migliora continuamente.
-
-Impara da:
-
-- richieste concluse;
-- risposte degli operatori;
-- documentazione;
-- valutazioni degli ospiti.
+- migliorare le risposte AI;
+- aggiornare le FAQ;
+- ridurre le richieste ripetitive.
 
 ---
 
-# Sicurezza
+# Centro Studi
 
-Per ogni modifica registrare:
+La Gestione Richieste alimenta il Centro Studi con dati statistici.
 
-- autore;
-- data;
-- ora;
-- operazione;
-- valore precedente;
-- valore successivo.
+Analizzare.
 
-Audit completo.
+## Tipologie di richieste
+
+Quali domande vengono poste più frequentemente.
 
 ---
 
-# Privacy
+## Canali
 
-Ogni richiesta deve rispettare il GDPR.
-
-Gestione di:
-
-- consenso;
-- conservazione;
-- anonimizzazione;
-- diritto all'oblio;
-- esportazione.
+Quali strumenti utilizzano maggiormente gli ospiti.
 
 ---
 
-# Backup
+## Tempi
 
-Le richieste costituiscono patrimonio informativo.
+Tempo medio di risposta.
 
-Devono essere:
-
-- salvate;
-- replicate;
-- versionate;
-- recuperabili.
+Tempo medio di risoluzione.
 
 ---
 
-# Integrazione
+## Periodi
 
-Il modulo dialoga con:
+Distribuzione stagionale delle richieste.
 
-- 101_FASCICOLO_OSPITE.md
-- 102_FASCICOLO_PRENOTAZIONE.md
-- 701_FASCICOLO_STRUTTURA.md
-- 610_MOTORE_DOCUMENTALE.md
-- 611_COMMUNICATION_ENGINE.md
-- 620_MOTORE_DI_INTEGRAZIONE_DATI.md
-- 621_MOTORE_WORKFLOW.md
-- 622_MOTORE_NOTIFICHE.md
-- 623_MOTORE_AUTOMAZIONI.md
-- 624_MOTORE_REGOLE.md
-- 625_MOTORE_ANALISI.md
-- 626_MOTORE_CONVERSAZIONALE.md
-- 712_TASK_MANAGER.md
-- 717_TIMELINE_DEGLI_EVENTI.md
-- 719_GESTIONE_OPPORTUNITA.md
-- 730_EVENTI_E_TERRITORIO.md
-- 731_CALENDARIO_EVENTI.md
-- 732_EVENTI_PER_OSPITI.md
-- 733_EVENTI_PER_STRUTTURA.md
-- 734_EVENTI_GENERATI_DALLA_AI.md
-- 735_ITINERARI.md
-- 736_ESPERIENZE.md
+---
+
+## Opportunità
+
+Nuovi servizi richiesti.
+
+Nuove esigenze.
+
+Nuovi mercati.
+
+---
+
+## Reclami
+
+Cause ricorrenti.
+
+Azioni correttive.
+
+Impatto sulle recensioni.
+
+---
+
+# Indicatori Strategici
+
+La Direzione visualizza.
+
+- numero richieste;
+- richieste automatiche;
+- richieste AI;
+- richieste aperte;
+- richieste oltre SLA;
+- richieste trasformate in prenotazioni;
+- richieste trasformate in opportunità.
 
 ---
 
 # Best Practice
 
-L'ecosistema deve privilegiare:
+Ogni richiesta dovrebbe.
 
-- una sola richiesta per ogni problema;
-- aggiornamenti continui;
-- responsabilità chiare;
-- informazioni sempre condivise;
-- automazione delle attività ripetitive;
-- supervisione umana delle decisioni critiche.
-
----
-
-# Evoluzione
-
-Il modulo evolverà verso un sistema capace di:
-
-- prevedere nuove richieste;
-- suggerire soluzioni prima che il problema si manifesti;
-- correlare eventi, prenotazioni e richieste;
-- attivare automaticamente procedure operative;
-- supportare il Decision Support System dell'ecosistema.
+- essere classificata correttamente;
+- essere collegata ai Fascicoli;
+- avere un responsabile;
+- essere gestita rapidamente;
+- produrre conoscenza.
 
 ---
 
-# Principio Vacanze Sicure
+# Errori da Evitare
 
-La gestione delle richieste non rappresenta un semplice servizio di assistenza.
+Non utilizzare il modulo come semplice archivio di messaggi.
 
-Costituisce uno dei principali strumenti di conoscenza dell'ecosistema.
+La Gestione Richieste deve essere il punto di partenza dell'organizzazione operativa.
 
-Ogni richiesta racconta un'esigenza, evidenzia un problema, suggerisce un miglioramento o genera una nuova opportunità.
+---
 
-Vacanze Sicure considera ogni richiesta come un patrimonio informativo condiviso.
+Non creare richieste duplicate.
 
-L'obiettivo non è semplicemente chiudere una segnalazione.
+Preferire sempre l'aggiornamento della conversazione esistente.
 
-L'obiettivo è imparare da ogni interazione, migliorare continuamente l'organizzazione, ridurre le criticità future e offrire un'accoglienza sempre più efficiente, personalizzata e responsabile.
+---
 
-Ogni richiesta risolta rende più intelligente l'intero ecosistema.
+Non separare le comunicazioni per canale.
+
+L'ospite deve avere un'unica storia relazionale.
+
+---
+
+# Relazioni con gli altri Moduli
+
+Il modulo riceve dati da.
+
+- 611_COMMUNICATION_ENGINE.md
+- 626_MOTORE_CONVERSAZIONALE.md
+
+Genera informazioni verso.
+
+- 712_TASK_MANAGER.md
+- 713_PROCESS_MANAGER.md
+- 714_WORKFLOW_ENGINE.md
+- 717_TIMELINE_EVENTI.md
+- 718_CENTRO_OPERATIVO.md
+- 719_GESTIONE_OPPORTUNITA.md
+
+Aggiorna costantemente.
+
+- Fascicolo Ospite;
+- Fascicolo Prenotazione;
+- Fascicolo Struttura;
+- Timeline;
+- Dashboard;
+- Centro Studi.
+
+---
+
+# Principi Vacanze Sicure
+
+## Ogni richiesta merita attenzione
+
+Anche una semplice domanda rappresenta un'opportunità di relazione.
+
+---
+
+## Una sola conversazione
+
+L'ospite dialoga con "A Casa di Amici", non con strumenti diversi.
+
+L'esperienza deve essere continua e coerente.
+
+---
+
+## L'AI assiste, non sostituisce
+
+L'Intelligenza Artificiale riduce il lavoro ripetitivo.
+
+L'empatia, il giudizio e la responsabilità rimangono sempre dell'Operatore dell'Ospitalità.
+
+---
+
+## Ogni conversazione produce conoscenza
+
+Ogni richiesta migliora il patrimonio informativo dell'ecosistema.
+
+La conoscenza viene condivisa e riutilizzata.
+
+---
+
+## Centralità della Fiducia
+
+Ogni risposta deve rafforzare il rapporto di fiducia con l'ospite.
+
+La rapidità è importante.
+
+La qualità della risposta è fondamentale.
+
+---
+
+## Valorizzazione del Territorio
+
+Quando appropriato, ogni richiesta rappresenta anche un'occasione per promuovere il territorio, le esperienze, gli eventi e le eccellenze locali, contribuendo a costruire un'ospitalità autentica e diffusa.
+
+---
+
+# Conclusioni
+
+La Gestione Richieste rappresenta il punto di ingresso operativo dell'ecosistema Vacanze Sicure.
+
+Trasforma ogni comunicazione in un'informazione organizzata, collegata ai Fascicoli, ai Processi e ai Workflow, permettendo agli Operatori dell'Ospitalità di lavorare in modo coordinato e all'Assistente AI di fornire un supporto sempre più efficace.
+
+Il modulo non gestisce semplicemente messaggi.
+
+Gestisce relazioni.
+
+Ed è proprio dalla qualità delle relazioni che nasce un'ospitalità capace di distinguersi nel tempo.
+
+---
+
+## FILE COMPLETATO
+
+Versione: 3.0
+
+Stato: COMPLETO
+
+Dipendenze principali:
+
+- 611_COMMUNICATION_ENGINE.md
+- 626_MOTORE_CONVERSAZIONALE.md
+- 712_TASK_MANAGER.md
+- 713_PROCESS_MANAGER.md
+- 714_WORKFLOW_ENGINE.md
+- 717_TIMELINE_EVENTI.md
+- 718_CENTRO_OPERATIVO.md
+- 719_GESTIONE_OPPORTUNITA.md
