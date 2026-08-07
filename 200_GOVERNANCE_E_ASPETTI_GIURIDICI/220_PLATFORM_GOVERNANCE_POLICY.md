@@ -2288,6 +2288,127 @@ Ogni sviluppatore dovrà progettare nuove funzionalità verificando sempre.
 
 10. Serve aggiornare l'Audit?
 
+# 91. Enforcement Policy
+
+La piattaforma protegge il proprio ecosistema mediante un sistema di controlli progressivi.
+
+L'obiettivo non è punire l'utente, ma prevenire comportamenti che possano compromettere la sicurezza, l'affidabilità e il corretto funzionamento del marketplace.
+
+Ogni intervento è proporzionato, tracciato e revisionabile.
+
+---
+
+# 92. Violazioni
+
+Sono considerate violazioni, a titolo esemplificativo:
+
+- pubblicazione di numeri telefonici;
+- pubblicazione di indirizzi email;
+- pubblicazione di URL esterni;
+- QR Code riconducibili al proprietario;
+- riferimenti a WhatsApp, Telegram o altri canali esterni;
+- immagini contenenti recapiti;
+- watermark con informazioni di contatto;
+- tentativi di mascherare recapiti;
+- tentativi ripetuti di aggirare il sistema.
+
+---
+
+# 93. Sistema Progressivo
+
+Prima violazione
+
+↓
+
+Rimozione automatica del contenuto.
+
+↓
+
+Notifica educativa.
+
+↓
+
+Nessuna sanzione.
+
+---
+
+Seconda violazione
+
+↓
+
+Nuovo blocco.
+
+↓
+
+Avviso formale.
+
+↓
+
+Aggiornamento del Trust Score.
+
+---
+
+Terza violazione
+
+↓
+
+Oscuramento temporaneo dell'annuncio.
+
+↓
+
+Apertura automatica di un Compliance Case.
+
+↓
+
+Richiesta di presa visione del regolamento.
+
+---
+
+Violazioni successive
+
+↓
+
+Revisione da parte della piattaforma.
+
+↓
+
+Possibili limitazioni operative.
+
+↓
+
+Sospensione temporanea dell'annuncio.
+
+---
+
+Violazioni gravi o reiterate
+
+↓
+
+Valutazione amministrativa.
+
+↓
+
+Eventuale sospensione dell'account.
+
+↓
+
+Eventuale chiusura del rapporto contrattuale secondo i Termini di Servizio.
+
+# 94. Richiesta di Riesame
+
+L'utente può richiedere il riesame del provvedimento.
+
+La richiesta viene valutata.
+
+Il sistema conserva.
+
+- motivazione;
+- prove;
+- decisione;
+- storico.
+
+Ogni richiesta di riesame viene registrata.
+
 Nessuna funzionalità dovrà essere sviluppata senza aver risposto a queste domande.
 
 ---
