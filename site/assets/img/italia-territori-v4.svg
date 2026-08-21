@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 980" role="img" aria-label="Cartina stilizzata dell'Italia">
+<defs>
+ <linearGradient id="land" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#75b9a9"/><stop offset="1" stop-color="#3a8e82"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="13" flood-color="#12395b" flood-opacity=".14"/></filter>
+</defs>
+<rect width="760" height="980" rx="38" fill="#eaf5f6"/>
+<g filter="url(#shadow)">
+<!-- mainland -->
+<path d="M290 70
+ C355 42 437 46 498 78
+ C535 98 554 132 535 164
+ C514 199 469 210 458 243
+ C448 274 468 303 492 329
+ C516 356 530 387 514 416
+ C499 443 457 451 447 480
+ C437 510 468 536 500 560
+ C548 596 588 634 604 680
+ C616 716 596 744 563 748
+ C526 753 507 727 478 718
+ C455 711 437 723 435 745
+ C432 779 469 808 493 833
+ C514 856 504 886 474 894
+ C437 904 395 870 368 842
+ C335 807 306 772 289 731
+ C273 693 276 653 254 622
+ C231 590 194 568 190 531
+ C185 490 218 459 213 422
+ C208 386 170 366 168 329
+ C166 295 191 268 210 244
+ C236 211 249 178 241 143
+ C234 111 253 86 290 70 Z" fill="url(#land)" stroke="#fff" stroke-width="11" stroke-linejoin="round"/>
+<!-- heel -->
+<path d="M552 680 C612 682 665 700 698 731 C711 744 709 766 693 776 C672 788 645 775 621 766 C596 757 574 758 555 748 Z" fill="#3f9286" stroke="#fff" stroke-width="11"/>
+<!-- toe / Calabria -->
+<path d="M437 745 C421 785 412 823 391 850 C372 874 344 884 321 870 C299 857 301 830 319 811 C342 787 365 762 373 724 Z" fill="#4d9b8d" stroke="#fff" stroke-width="11"/>
+<!-- Sicily -->
+<path d="M215 802 C283 772 369 773 438 807 C461 818 457 843 431 853 C375 874 315 891 255 885 C220 881 192 864 185 842 C180 825 191 813 215 802 Z" fill="#e8b34b" stroke="#fff" stroke-width="11"/>
+<!-- Sardinia -->
+<path d="M83 495 C108 461 146 459 167 489 C190 522 177 573 161 611 C148 643 123 667 100 651 C75 634 67 586 68 548 C69 529 73 509 83 495 Z" fill="#6d91bc" stroke="#fff" stroke-width="11"/>
+<!-- subtle internal territory lines -->
+<g fill="none" stroke="#d9f1ea" stroke-width="5" opacity=".9">
+ <path d="M247 155 C324 181 410 180 489 154"/>
+ <path d="M206 274 C290 296 392 293 477 260"/>
+ <path d="M190 390 C278 415 390 404 489 366"/>
+ <path d="M206 520 C291 536 395 529 487 487"/>
+ <path d="M267 647 C343 655 428 635 519 596"/>
+</g>
+</g>
+</svg>

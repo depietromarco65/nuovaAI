@@ -1,0 +1,123 @@
+{
+  "Salento": [
+    "Lecce",
+    "Porto Cesareo",
+    "Torre Lapillo",
+    "Gallipoli",
+    "Ugento",
+    "Torre San Giovanni",
+    "Pescoluse",
+    "Torre Pali",
+    "Santa Maria di Leuca",
+    "Otranto"
+  ],
+  "Cilento": [
+    "Paestum",
+    "Agropoli",
+    "Castellabate",
+    "Acciaroli",
+    "Ascea",
+    "Palinuro",
+    "Marina di Camerota",
+    "Sapri"
+  ],
+  "Gargano": [
+    "Manfredonia",
+    "Mattinata",
+    "Vieste",
+    "Peschici",
+    "Rodi Garganico",
+    "Isole Tremiti"
+  ],
+  "Valle d’Itria": [
+    "Alberobello",
+    "Locorotondo",
+    "Martina Franca",
+    "Cisternino",
+    "Ostuni"
+  ],
+  "Costiera Amalfitana": [
+    "Vietri sul Mare",
+    "Cetara",
+    "Maiori",
+    "Minori",
+    "Ravello",
+    "Amalfi",
+    "Praiano",
+    "Positano"
+  ],
+  "Toscana": [
+    "Firenze",
+    "Chianti",
+    "Val d'Orcia",
+    "Maremma",
+    "Versilia",
+    "Costa degli Etruschi"
+  ],
+  "Liguria e Cinque Terre": [
+    "Genova",
+    "Portofino",
+    "Levanto",
+    "Monterosso",
+    "Vernazza",
+    "Corniglia",
+    "Manarola",
+    "Riomaggiore"
+  ],
+  "Dolomiti": [
+    "Cortina d'Ampezzo",
+    "Val Gardena",
+    "Alta Badia",
+    "Val di Fassa",
+    "Val di Fiemme"
+  ],
+  "Laghi del Nord": [
+    "Lago di Garda",
+    "Lago di Como",
+    "Lago Maggiore",
+    "Lago d'Iseo"
+  ],
+  "Riviera Romagnola": [
+    "Ravenna",
+    "Cervia",
+    "Cesenatico",
+    "Rimini",
+    "Riccione",
+    "Cattolica"
+  ],
+  "Lazio e Roma": [
+    "Roma",
+    "Castelli Romani",
+    "Litorale Romano",
+    "Tuscia",
+    "Ciociaria"
+  ],
+  "Calabria": [
+    "Costa degli Dei",
+    "Tropea",
+    "Capo Vaticano",
+    "Costa Viola",
+    "Sila",
+    "Soverato"
+  ],
+  "Sicilia": [
+    "Palermo",
+    "Cefalù",
+    "Trapani",
+    "San Vito Lo Capo",
+    "Agrigento",
+    "Siracusa",
+    "Noto",
+    "Taormina",
+    "Etna"
+  ],
+  "Sardegna": [
+    "Costa Smeralda",
+    "Alghero",
+    "Stintino",
+    "Oristano",
+    "Costa Rei",
+    "Villasimius",
+    "Cagliari"
+  ]
+}
