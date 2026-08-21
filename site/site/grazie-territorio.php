@@ -1,0 +1,5 @@
+<?php
+$t=htmlspecialchars($_GET['territorio']??'',ENT_QUOTES|ENT_SUBSTITUTE,'UTF-8');
+$l=htmlspecialchars($_GET['localita']??'',ENT_QUOTES|ENT_SUBSTITUTE,'UTF-8');
+$luogo=$l!==''?$l.' ('.$t.')':$t;
+?><!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Interesse registrato | Vacanze Sicure</title><link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg"><link rel="stylesheet" href="assets/style.css"></head><body><header class="site-header"><div class="wrap nav"><a class="brand" href="index.html"><img src="assets/img/logo-vs.svg" alt="">VACANZE <span>SICURE</span></a></div></header><section class="section"><div class="wrap"><div class="success-card"><span class="badge">INTERESSE REGISTRATO</span><h1>Grazie.</h1><p>Ti informeremo quando saranno disponibili le prime strutture e i primi servizi verificati per <strong><?php echo $luogo; ?></strong>.</p><a class="btn navy" href="index.html">Torna alla Home</a></div></div></section></body></html>
