@@ -1,0 +1,54 @@
+name: Deploy Vacanze Sicure to Aruba
+
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - "site/**"
+      - ".github/workflows/deploy-aruba.yml"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install lftp
+        run: sudo apt-get update && sudo apt-get install -y lftp
+
+      - name: Deploy site to Aruba
+        env:
+          ARUBA_HOST: ${{ secrets.ARUBA_HOST }}
+          ARUBA_USER: ${{ secrets.ARUBA_USER }}
+          ARUBA_PASSWORD: ${{ secrets.ARUBA_PASSWORD }}
+          ARUBA_REMOTE_DIR: ${{ secrets.ARUBA_REMOTE_DIR }}
+          ARUBA_PROTOCOL: ${{ secrets.ARUBA_PROTOCOL }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          PROTOCOL="${ARUBA_PROTOCOL:-ftp}"
+          REMOTE_DIR="${ARUBA_REMOTE_DIR:-/}"
+
+          if [ -z "${ARUBA_HOST:-}" ] || [ -z "${ARUBA_USER:-}" ] || [ -z "${ARUBA_PASSWORD:-}" ]; then
+            echo "Missing Aruba deployment secrets."
+            exit 1
+          fi
+
+          if [ "$PROTOCOL" = "sftp" ]; then
+            lftp -u "$ARUBA_USER","$ARUBA_PASSWORD" "sftp://$ARUBA_HOST" <<EOF
+          set sftp:auto-confirm yes
+          mirror -R --verbose --exclude-glob .git* --exclude-glob README* site "$REMOTE_DIR"
+          bye
+          EOF
+          else
+            lftp -u "$ARUBA_USER","$ARUBA_PASSWORD" "ftp://$ARUBA_HOST" <<EOF
+          set ftp:ssl-allow true
+          set ssl:verify-certificate no
+          mirror -R --verbose --exclude-glob .git* --exclude-glob README* site "$REMOTE_DIR"
+          bye
+          EOF
+          fi
