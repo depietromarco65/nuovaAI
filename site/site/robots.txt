@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /area/
-Disallow: /data/
-Sitemap: https://www.vacanzesicure.online/sitemap.xml
