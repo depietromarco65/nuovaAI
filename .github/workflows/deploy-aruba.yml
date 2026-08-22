@@ -31,7 +31,7 @@ jobs:
           set -euo pipefail
 
           PROTOCOL="${ARUBA_PROTOCOL:-ftp}"
-          REMOTE_DIR="${ARUBA_REMOTE_DIR:-/}"
+          REMOTE_DIR="${ARUBA_REMOTE_DIR:-www.vacanzesicure.online}"
 
           if [ -z "${ARUBA_HOST:-}" ] || [ -z "${ARUBA_USER:-}" ] || [ -z "${ARUBA_PASSWORD:-}" ]; then
             echo "Missing Aruba deployment secrets."
@@ -41,14 +41,16 @@ jobs:
           if [ "$PROTOCOL" = "sftp" ]; then
             lftp -u "$ARUBA_USER","$ARUBA_PASSWORD" "sftp://$ARUBA_HOST" <<EOF
           set sftp:auto-confirm yes
-          mirror -R --verbose --exclude-glob .git* --exclude-glob README* site "$REMOTE_DIR"
+          lcd site
+          mirror -R --verbose --no-perms --exclude-glob .git* --exclude-glob README* . "$REMOTE_DIR"
           bye
           EOF
           else
             lftp -u "$ARUBA_USER","$ARUBA_PASSWORD" "ftp://$ARUBA_HOST" <<EOF
           set ftp:ssl-allow true
           set ssl:verify-certificate no
-          mirror -R --verbose --exclude-glob .git* --exclude-glob README* site "$REMOTE_DIR"
+          lcd site
+          mirror -R --verbose --no-perms --exclude-glob .git* --exclude-glob README* . "$REMOTE_DIR"
           bye
           EOF
           fi
