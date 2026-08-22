@@ -1,0 +1,53 @@
+# Vacanze Sicure - Apache hardening
+# Questo file protegge il sito pubblico senza impedire la normale indicizzazione.
+
+Options -Indexes
+ServerSignature Off
+DirectoryIndex index.html index.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Canonicalizza la vecchia home PHP verso la home pubblica.
+RewriteCond %{THE_REQUEST} \s/+index\.php[\s?] [NC]
+RewriteRule ^index\.php$ / [R=301,L]
+
+# Impedisce accessi HTTP a file tecnici, backup e configurazioni non pubbliche.
+RewriteRule (^|/)\.git - [F,L,NC]
+RewriteRule (^|/)(?:\.env|composer\.(?:json|lock)|package(?:-lock)?\.json|yarn\.lock|pnpm-lock\.yaml)$ - [F,L,NC]
+RewriteRule \.(?:bak|backup|old|orig|save|sql|sqlite|db|log|ini|conf|ya?ml)$ - [F,L,NC]
+</IfModule>
+
+<IfModule mod_headers.c>
+# Riduce fingerprinting e interpretazioni MIME pericolose.
+Header always unset X-Powered-By
+Header always set X-Content-Type-Options "nosniff"
+
+# Evita che il sito venga incorporato in iframe di terzi (clickjacking/clonazione visuale).
+Header always set X-Frame-Options "SAMEORIGIN"
+
+# Limita la quantità di URL/referrer comunicata a siti esterni.
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+
+# Disabilita API browser non necessarie nel sito pubblico.
+Header always set Permissions-Policy "camera=(), microphone=(), payment=(), usb=(), bluetooth=(), accelerometer=(), gyroscope=(), magnetometer=()"
+
+# Isola il contesto di navigazione principale.
+Header always set Cross-Origin-Opener-Policy "same-origin"
+
+# CSP compatibile con l'attuale sito (Leaflet/OpenStreetMap + script/stili inline esistenti).
+Header always set Content-Security-Policy "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'self'; form-action 'self'; script-src 'self' 'unsafe-inline' https://unpkg.com; style-src 'self' 'unsafe-inline' https://unpkg.com; img-src 'self' data: https://*.tile.openstreetmap.org; connect-src 'self'; font-src 'self' data:; upgrade-insecure-requests"
+</IfModule>
+
+# Blocca la lettura diretta di file nascosti e documenti tecnici comuni.
+<FilesMatch "(^\.|README|CHANGELOG|LICENSE|composer\.(json|lock)|package(?:-lock)?\.json|yarn\.lock|pnpm-lock\.yaml|.*\.(?:bak|backup|old|orig|save|sql|sqlite|db|log|ini|conf|ya?ml))$">
+  Require all denied
+</FilesMatch>
+
+# Evita caching di eventuali risposte di autenticazione/configurazione lato server.
+<FilesMatch "^(login|ver|invia|invia-interesse|interesse-click)\.php$">
+  <IfModule mod_headers.c>
+    Header always set Cache-Control "no-store, private"
+    Header always set Pragma "no-cache"
+  </IfModule>
+</FilesMatch>
