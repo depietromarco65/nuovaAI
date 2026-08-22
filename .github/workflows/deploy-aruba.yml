@@ -54,3 +54,23 @@ jobs:
           bye
           EOF
           fi
+
+      - name: Notify IndexNow
+        shell: bash
+        run: |
+          curl --fail-with-body --silent --show-error \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d '{
+              "host": "www.vacanzesicure.online",
+              "key": "a4f9c7e2b1d86305f7ac42e9d6b8c310",
+              "keyLocation": "https://www.vacanzesicure.online/a4f9c7e2b1d86305f7ac42e9d6b8c310.txt",
+              "urlList": [
+                "https://www.vacanzesicure.online/",
+                "https://www.vacanzesicure.online/news.html",
+                "https://www.vacanzesicure.online/eventi.html",
+                "https://www.vacanzesicure.online/assistente-ai.html",
+                "https://www.vacanzesicure.online/verifica-annuncio.html",
+                "https://www.vacanzesicure.online/controlla-cin.html"
+              ]
+            }' \
+            https://api.indexnow.org/indexnow
